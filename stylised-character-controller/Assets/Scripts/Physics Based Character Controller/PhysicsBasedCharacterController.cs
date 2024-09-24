@@ -63,6 +63,9 @@ public class PhysicsBasedCharacterController : MonoBehaviour
     private float _timeSinceJump = 0f;
     private bool _jumpReady = true;
     private bool _isJumping = false;
+    
+    private float _rotationY = 0f; // y축 회전 변수
+    private InputAction _mouseLookAction;
 
     [Header("Jump:")]
     [SerializeField] private float _jumpForceFactor = 10f;
@@ -71,6 +74,9 @@ public class PhysicsBasedCharacterController : MonoBehaviour
     [SerializeField] private float _lowJumpFactor = 2.5f;
     [SerializeField] private float _jumpBuffer = 0.15f; // Note, jumpBuffer shouldn't really exceed the time of the jump.
     [SerializeField] private float _coyoteTime = 0.25f;
+
+    [Header("Mouse Sensetivity:")] [SerializeField]
+    private int mouseSensitivity = 100;
 
     /// <summary>
     /// Prepare frequently used variables.
@@ -85,6 +91,10 @@ public class PhysicsBasedCharacterController : MonoBehaviour
             _emission = _dustParticleSystem.emission; // Stores the module in a local variable
             _emission.enabled = false; // Applies the new value directly to the Particle System
         }
+        
+        // InputAction 초기화 및 활성화 (마우스 회전)
+        _mouseLookAction = new InputAction(type: InputActionType.Value, binding: "<Mouse>/delta");
+        _mouseLookAction.Enable();
     }
 
     /// <summary>
@@ -348,6 +358,15 @@ public class PhysicsBasedCharacterController : MonoBehaviour
         float rotRadians = rotDegrees * Mathf.Deg2Rad;
 
         _rb.AddTorque((rotAxis * (rotRadians * _uprightSpringStrength)) - (_rb.angularVelocity * _uprightSpringDamper));
+    }
+
+    public void MouseInputAction(InputAction.CallbackContext context)
+    {
+        Vector2 mouseDelta = context.ReadValue<Vector2>();
+        _rotationY += mouseDelta.x * mouseSensitivity * Time.deltaTime;
+
+        // y축 회전 업데이트
+        _uprightTargetRot = Quaternion.Euler(0f, _rotationY, 0f);
     }
 
     /// <summary>
