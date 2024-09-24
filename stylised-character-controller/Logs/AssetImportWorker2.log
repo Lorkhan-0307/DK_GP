@@ -15,7 +15,7 @@ C:/Github/Unity/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-28302
+33071
 Successfully changed project path to: C:/Github/Unity/DK_GP/stylised-character-controller
 C:/Github/Unity/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/Github/Unity/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [992] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 1289354839 [EditorId] 1289354839 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [32116] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 2466876829 [EditorId] 2466876829 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [992] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 1289354839 [EditorId] 1289354839 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [32116] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 2466876829 [EditorId] 2466876829 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 43.49 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 45.27 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
@@ -67,49 +67,217 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56888
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56500
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003909 seconds.
+Registered in 0.005274 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 201 ms
-Refreshing native plugins compatible for Editor in 38.76 ms, found 0 plugins.
+Android Extension - Scanning For ADB Devices 266 ms
+Refreshing native plugins compatible for Editor in 35.52 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.636 seconds
+- Completed reload, in  0.727 seconds
 Domain Reload Profiling:
-	ReloadAssembly (636ms)
-		BeginReloadAssembly (55ms)
+	ReloadAssembly (728ms)
+		BeginReloadAssembly (84ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (511ms)
-			LoadAssemblies (54ms)
+			CreateAndSetChildDomain (0ms)
+		EndReloadAssembly (578ms)
+			LoadAssemblies (84ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (70ms)
+			SetupTypeCache (76ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (386ms)
+			RebuildScriptCaches (26ms)
+			SetupLoadedEditorAssemblies (439ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (251ms)
+				InitializePlatformSupportModulesInManaged (319ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (39ms)
+				RefreshPlugins (36ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (56ms)
-				ProcessInitializeOnLoadMethodAttributes (39ms)
+				ProcessInitializeOnLoadAttributes (55ms)
+				ProcessInitializeOnLoadMethodAttributes (29ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.004305 seconds.
+Registered in 0.003010 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for iOS target not found
+Native extension for Android target not found
+Refreshing native plugins compatible for Editor in 37.12 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.944 seconds
+Domain Reload Profiling:
+	ReloadAssembly (944ms)
+		BeginReloadAssembly (102ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (771ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (131ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (471ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (15ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (37ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (315ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (4ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3421 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 158 unused Assets / (0.7 MB). Loaded Objects now: 3893.
+Memory consumption went from 270.2 MB to 269.5 MB.
+Total: 2.572400 ms (FindLiveObjects: 0.179800 ms CreateObjectMapping: 0.072200 ms MarkObjects: 1.965900 ms  DeleteObjects: 0.353900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 132256.782960 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Particle Effects/Birds.png
+  artifactKey: Guid(9124dc55d2f1637449162adb50bc6cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Particle Effects/Birds.png using Guid(9124dc55d2f1637449162adb50bc6cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '131f7852f9c83730a5de3abdddf02619') in 0.126167 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.562916 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_1_AlbedoTransparency.png
+  artifactKey: Guid(cc2574b7c5c0c0943bd88f98afc57a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_1_AlbedoTransparency.png using Guid(cc2574b7c5c0c0943bd88f98afc57a40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '355421e993fe92ece432fa45081fa8d9') in 0.098701 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_2_AlbedoTransparency.png
+  artifactKey: Guid(719eda54d37ae58499e208571e56e7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_2_AlbedoTransparency.png using Guid(719eda54d37ae58499e208571e56e7dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0af3f79e0e6c0939887cee3c397a9463') in 0.065669 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Normal.png
+  artifactKey: Guid(927f3ebcc77841549b9e1cb59908bf8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Normal.png using Guid(927f3ebcc77841549b9e1cb59908bf8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2a2af7ad639b84b526cfba83cc29dcc') in 0.044112 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_Normal.png
+  artifactKey: Guid(eff6ebf6ab275294db58fe2a07e711d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_Normal.png using Guid(eff6ebf6ab275294db58fe2a07e711d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '263d6730ac9955571ca8825496db824b') in 0.061971 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_MetallicSmoothness.png
+  artifactKey: Guid(90a477da032bb944a9559ab5954d7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_MetallicSmoothness.png using Guid(90a477da032bb944a9559ab5954d7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfb01debe46e865b3182dc85632a73b9') in 0.024608 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_MetallicSmoothness.png
+  artifactKey: Guid(ef70c6738d2f0814bb9e2d0f13fe793b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_MetallicSmoothness.png using Guid(ef70c6738d2f0814bb9e2d0f13fe793b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fd976d5aa81e410989409f3e76b513b') in 0.041039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.468700 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/Grass_AlbedoSmoothness.png
+  artifactKey: Guid(9b747c2dbb964c543ba850f66c95a8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/Grass_AlbedoSmoothness.png using Guid(9b747c2dbb964c543ba850f66c95a8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e1e55620cfc27e1f52fb17f649c5a05') in 0.033573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/GrassMud_AlbedoSmoothness.png
+  artifactKey: Guid(3b0f0b7c4b4c10e4c9ea06ed1ca650be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/GrassMud_AlbedoSmoothness.png using Guid(3b0f0b7c4b4c10e4c9ea06ed1ca650be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e90fb87e20d05910683a6bf13d3b67e0') in 0.024990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_Normal.png
+  artifactKey: Guid(9d781b7d6d6355645a88b2765dddc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_Normal.png using Guid(9d781b7d6d6355645a88b2765dddc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5797a683b0c829cf3df00b8dec00f008') in 0.018748 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.628277 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_Albedo.png
+  artifactKey: Guid(2003265ce948fba41b02654a63f65930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_Albedo.png using Guid(2003265ce948fba41b02654a63f65930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e6ff7e215be24c372a643f57896617') in 0.021506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Normal.png
+  artifactKey: Guid(3ee288acdb9ddf54d9a4d16129a29ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Normal.png using Guid(3ee288acdb9ddf54d9a4d16129a29ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '20d0465b165462e0850cc1c0efac1257') in 0.023911 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_MetallicSmoothness.png
+  artifactKey: Guid(b908019a4db26304d9ef015ccc0b43d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_MetallicSmoothness.png using Guid(b908019a4db26304d9ef015ccc0b43d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '42434e533e86ad687cc8ff055c648e99') in 0.015268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Albedo.png
+  artifactKey: Guid(7b28547075e5e4343af9da70edd8d3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Albedo.png using Guid(7b28547075e5e4343af9da70edd8d3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f81c193dd823ab1b55edbe55a135383a') in 0.015258 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_2.png
+  artifactKey: Guid(246b1c97ab3e89041a4af50ffc2dfa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_2.png using Guid(246b1c97ab3e89041a4af50ffc2dfa5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f418ab5c49d5e636eaa72721d060487') in 0.016371 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Normal.png
+  artifactKey: Guid(7e471ead92c20654abc02625a153bfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Normal.png using Guid(7e471ead92c20654abc02625a153bfa6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6182f1cce7b55d5580064cb3f71eceff') in 0.014510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Grass_3_Normal.png
+  artifactKey: Guid(2fa9c3457061df348af9260d021a74b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Grass_3_Normal.png using Guid(2fa9c3457061df348af9260d021a74b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e2288320ca15a8d5d402d4d58da45a5') in 0.016437 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_1.png
+  artifactKey: Guid(fc95efec6ba2f864ca775de786693df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_1.png using Guid(fc95efec6ba2f864ca775de786693df4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '088d82bb8c66c88630fdf10a932dc56a') in 0.016748 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
