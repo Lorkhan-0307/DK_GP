@@ -75,8 +75,8 @@ public class PhysicsBasedCharacterController : MonoBehaviour
     [SerializeField] private float _jumpBuffer = 0.15f; // Note, jumpBuffer shouldn't really exceed the time of the jump.
     [SerializeField] private float _coyoteTime = 0.25f;
 
-    [Header("Mouse Sensetivity:")] [SerializeField]
-    private int mouseSensitivity = 100;
+    [Header("Animation:")] [SerializeField]
+    private Animator _animator;
 
     /// <summary>
     /// Prepare frequently used variables.
@@ -150,12 +150,16 @@ public class PhysicsBasedCharacterController : MonoBehaviour
     }
 
     private bool _prevGrounded = false;
+    private static readonly int Magnitude = Animator.StringToHash("magnitude");
+
     /// <summary>
     /// Determines and plays the appropriate character sounds, particle effects, then calls the appropriate methods to move and float the character.
     /// </summary>
     private void FixedUpdate()
     {
         _moveInput = new Vector3(_moveContext.x, 0, _moveContext.y);
+        
+        _animator.SetFloat(Magnitude, _moveInput.magnitude);
 
         if (_adjustInputsToCameraAngle)
         {
@@ -359,15 +363,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
 
         _rb.AddTorque((rotAxis * (rotRadians * _uprightSpringStrength)) - (_rb.angularVelocity * _uprightSpringDamper));
     }
-
-    public void MouseInputAction(InputAction.CallbackContext context)
-    {
-        Vector2 mouseDelta = context.ReadValue<Vector2>();
-        _rotationY += mouseDelta.x * mouseSensitivity * Time.deltaTime;
-
-        // y축 회전 업데이트
-        _uprightTargetRot = Quaternion.Euler(0f, _rotationY, 0f);
-    }
+    
 
     /// <summary>
     /// Reads the player movement input.
@@ -472,6 +468,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
             {
                 if (_isJumping)
                 {
+                    
                     _rb.AddForce(_gravitationalForce * (_riseGravityFactor - 1f));
                 }
                 if (jumpInput == Vector3.zero)
@@ -491,6 +488,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
                     _jumpReady = false;
                     _shouldMaintainHeight = false;
                     _isJumping = true;
+                    _animator.SetTrigger("jump_anim");
                     _rb.velocity = new Vector3(_rb.velocity.x, 0f, _rb.velocity.z); // Cheat fix... (see comment below when adding force to rigidbody).
                     if (rayHit.distance != 0) // i.e. if the ray has hit
                     {
@@ -501,6 +499,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
                     _timeSinceJump = 0f;
 
                     FindObjectOfType<AudioManager>().Play("Jump");
+                    
                 }
             }
         }
