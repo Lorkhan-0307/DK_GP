@@ -8,6 +8,7 @@ TagManager:
   - Respawn Points
   - Explosions
   - Platforms
+  - unavailable
   layers:
   - Default
   - TransparentFX

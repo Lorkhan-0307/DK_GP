@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'ko' Physical Memory: 16108 MB
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'ko' Physical Memory: 31887 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
@@ -11,13 +11,13 @@ C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Github/Unity/DK_GP/stylised-character-controller
+C:/GitHub/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-42695
-Successfully changed project path to: C:/Github/Unity/DK_GP/stylised-character-controller
-C:/Github/Unity/DK_GP/stylised-character-controller
+62247
+Successfully changed project path to: C:/GitHub/DK_GP/stylised-character-controller
+C:/GitHub/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,106 +47,107 @@ C:/Github/Unity/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [14188] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 1787860753 [EditorId] 1787860753 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [37440] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 3283263811 [EditorId] 3283263811 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [14188] Host "[IP] 172.21.144.1 [Port] 0 [Flags] 2 [Guid] 1787860753 [EditorId] 1787860753 [Version] 1048832 [Id] WindowsEditor(7,Lorkhan) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [37440] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 3283263811 [EditorId] 3283263811 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 48.17 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.83 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Github/Unity/DK_GP/stylised-character-controller/Assets
+[Subsystems] Discovering subsystems at path C:/GitHub/DK_GP/stylised-character-controller/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 4060 Laptop GPU (ID=0x28e0)
+    Renderer: NVIDIA GeForce RTX 4090 (ID=0x2684)
     Vendor:   NVIDIA
-    VRAM:     7972 MB
-    Driver:   31.0.15.4683
+    VRAM:     24142 MB
+    Driver:   32.0.15.6109
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56436
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.003046 seconds.
+Registered in 0.007588 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
+[usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 185 ms
-Refreshing native plugins compatible for Editor in 34.38 ms, found 0 plugins.
+Android Extension - Scanning For ADB Devices 299 ms
+Refreshing native plugins compatible for Editor in 35.74 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.663 seconds
+- Completed reload, in  0.700 seconds
 Domain Reload Profiling:
-	ReloadAssembly (664ms)
-		BeginReloadAssembly (77ms)
+	ReloadAssembly (701ms)
+		BeginReloadAssembly (61ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (513ms)
-			LoadAssemblies (78ms)
+		EndReloadAssembly (576ms)
+			LoadAssemblies (60ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (99ms)
+			SetupTypeCache (60ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (19ms)
-			SetupLoadedEditorAssemblies (355ms)
+			RebuildScriptCaches (15ms)
+			SetupLoadedEditorAssemblies (469ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (239ms)
+				InitializePlatformSupportModulesInManaged (343ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (34ms)
+				RefreshPlugins (36ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (53ms)
-				ProcessInitializeOnLoadMethodAttributes (28ms)
+				ProcessInitializeOnLoadAttributes (57ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.001153 seconds.
+Registered in 0.002339 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 42.02 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 35.71 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.954 seconds
+- Completed reload, in  0.829 seconds
 Domain Reload Profiling:
-	ReloadAssembly (955ms)
-		BeginReloadAssembly (73ms)
+	ReloadAssembly (830ms)
+		BeginReloadAssembly (81ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (817ms)
-			LoadAssemblies (52ms)
+		EndReloadAssembly (678ms)
+			LoadAssemblies (66ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (167ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (37ms)
-			SetupLoadedEditorAssemblies (524ms)
+			SetupTypeCache (106ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (444ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (18ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (42ms)
-				BeforeProcessingInitializeOnLoad (51ms)
-				ProcessInitializeOnLoadAttributes (347ms)
-				ProcessInitializeOnLoadMethodAttributes (63ms)
-				AfterProcessingInitializeOnLoad (3ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (56ms)
+				ProcessInitializeOnLoadAttributes (281ms)
+				ProcessInitializeOnLoadMethodAttributes (46ms)
+				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (4ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
@@ -154,16 +155,15 @@ Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 second
 Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 3421 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 158 unused Assets / (0.7 MB). Loaded Objects now: 3893.
-Memory consumption went from 270.4 MB to 269.7 MB.
-Total: 2.774600 ms (FindLiveObjects: 0.161200 ms CreateObjectMapping: 0.079000 ms MarkObjects: 2.171900 ms  DeleteObjects: 0.361800 ms)
+Unloading 161 unused Assets / (1.1 MB). Loaded Objects now: 3867.
+Memory consumption went from 188.7 MB to 187.6 MB.
+Total: 4.624700 ms (FindLiveObjects: 0.427200 ms CreateObjectMapping: 0.091500 ms MarkObjects: 3.544600 ms  DeleteObjects: 0.560800 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -171,487 +171,83 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 197104.196131 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Settings
-  artifactKey: Guid(0a1df70640db71a489c421a1deed05ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Settings using Guid(0a1df70640db71a489c421a1deed05ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b97911f2c0cf7caaf07f183de073e1f7') in 0.012962 seconds 
+  Time since last request: 8275.074651 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature
+  artifactKey: Guid(b75bdfc104d5f8843ac8e9bc9864e041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature using Guid(b75bdfc104d5f8843ac8e9bc9864e041) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e5747d6a52778c7aa0e92922c026c16') in 0.009869 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 53.522719 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.011748 seconds 
+  Time since last request: 0.000010 seconds.
+  path: Assets/Physics Materials/Smooth.physicMaterial
+  artifactKey: Guid(e4b10a4f7d7a12a46a30b54781812298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics Materials/Smooth.physicMaterial using Guid(e4b10a4f7d7a12a46a30b54781812298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3388e5140c6da22186e1bb20bb31f4') in 0.019015 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 6.567179 seconds.
-  path: Assets/URP
-  artifactKey: Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/URP using Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178c291684b933e74a029fa024ffb1fd') in 0.011842 seconds 
+  Time since last request: 0.879556 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo
+  artifactKey: Guid(d1039be86da269943b939aaa35895f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo using Guid(d1039be86da269943b939aaa35895f10) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '213f6f9267d61ffca6a7ad944d8f26f6') in 0.005932 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.089766 seconds.
-  path: Assets/URP/Global Volume Profile.asset
-  artifactKey: Guid(572dac479a246534aa5e5198a5157277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/URP/Global Volume Profile.asset using Guid(572dac479a246534aa5e5198a5157277) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74e120739fdbf9f7ba260d9d23c53488') in 0.045891 seconds 
+  Time since last request: 41.675795 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Lotus_Normal.png
+  artifactKey: Guid(75fed23199adecb4f8570f80ecdc8b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Lotus_Normal.png using Guid(75fed23199adecb4f8570f80ecdc8b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3e1ee469e8203fe37a9f5e7643b455') in 0.072761 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 34.607265 seconds.
-  path: Assets/URP/UniversalRenderPipelineAsset.asset
-  artifactKey: Guid(0190b0abe61f3254a9312f578ac0e7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/URP/UniversalRenderPipelineAsset.asset using Guid(0190b0abe61f3254a9312f578ac0e7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '451c2c59339208504da648950145821a') in 0.012448 seconds 
+  Time since last request: 47.692358 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Bark.mat
+  artifactKey: Guid(5119c045476dc0c4b930f2644191a44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Bark.mat using Guid(5119c045476dc0c4b930f2644191a44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9571501a8db3ecbf052cfdd1e55aba39') in 0.427708 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 48.813338 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials
-  artifactKey: Guid(d04196917faaa024b85c7b346aa3d4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials using Guid(d04196917faaa024b85c7b346aa3d4b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb0110a953325551de50ce7df150c92f') in 0.013966 seconds 
+  Time since last request: 0.000016 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Leaves.mat
+  artifactKey: Guid(5b5b16bdb69d5834caf011ec2cb5301b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Leaves.mat using Guid(5b5b16bdb69d5834caf011ec2cb5301b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ff6f706192bff87606491a8e30c21e1') in 0.525188 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.858265 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Environment
-  artifactKey: Guid(56325b2eef485834bb432aff84a90e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Environment using Guid(56325b2eef485834bb432aff84a90e07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36c189cdd14d15dbec31cead02e9a9d') in 0.012360 seconds 
+  Time since last request: 0.000023 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Snag_Stump.mat
+  artifactKey: Guid(613c31e5217b8124f85c5baa8c8e6ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Snag_Stump.mat using Guid(613c31e5217b8124f85c5baa8c8e6ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1d9f7a35c9ff80cf847646f7477b74d') in 0.200766 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 5.370659 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Particle Effects
-  artifactKey: Guid(45c4cfedbaacab442b2da094f063bd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Particle Effects using Guid(45c4cfedbaacab442b2da094f063bd5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3df72d7ecdc077fdc0ad122cf332e799') in 0.010496 seconds 
+  Time since last request: 0.000015 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_2.mat
+  artifactKey: Guid(26cfe8ba7430e5844a466c5db1eae5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_2.mat using Guid(26cfe8ba7430e5844a466c5db1eae5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a192eb9c1739cd4b60e9ac8bf06d6d43') in 0.254043 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.619216 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Rocks
-  artifactKey: Guid(64c9b73774581884290d14996a7b78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Rocks using Guid(64c9b73774581884290d14996a7b78e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '517949187a034b4ebb32ed2e74feabe5') in 0.010467 seconds 
+  Time since last request: 0.000018 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Lotus_Flower.mat
+  artifactKey: Guid(c9f8e665fb68adb419db423d55753d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Lotus_Flower.mat using Guid(c9f8e665fb68adb419db423d55753d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '253d6d8f59a51781c404651fd7739d69') in 0.213036 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.365758 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation
-  artifactKey: Guid(a4987911e7473d246939008aed035e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation using Guid(a4987911e7473d246939008aed035e4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1faa1a65fb8ca4dbb73cb38005e45ec7') in 0.014620 seconds 
+  Time since last request: 0.000020 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_1.mat
+  artifactKey: Guid(fa30476022aff864d9210c04c3dd2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_1.mat using Guid(fa30476022aff864d9210c04c3dd2269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fe2e18c7b77fae304a1c88ec8d908f5') in 0.009741 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.914600 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Other
-  artifactKey: Guid(e500f585c60a218439088e49d0c25bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Other using Guid(e500f585c60a218439088e49d0c25bbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '832aa6e6501cb7f2e3296f16185c78f4') in 0.010839 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001141 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.660 seconds
-Domain Reload Profiling:
-	ReloadAssembly (661ms)
-		BeginReloadAssembly (94ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (21ms)
-		EndReloadAssembly (505ms)
-			LoadAssemblies (55ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (118ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (272ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (36ms)
-				ProcessInitializeOnLoadAttributes (165ms)
-				ProcessInitializeOnLoadMethodAttributes (49ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.74 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3219 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (0.7 MB). Loaded Objects now: 3909.
-Memory consumption went from 258.8 MB to 258.1 MB.
-Total: 2.719700 ms (FindLiveObjects: 0.160100 ms CreateObjectMapping: 0.053000 ms MarkObjects: 2.032000 ms  DeleteObjects: 0.473700 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001108 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.676 seconds
-Domain Reload Profiling:
-	ReloadAssembly (676ms)
-		BeginReloadAssembly (91ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (2ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (525ms)
-			LoadAssemblies (58ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (120ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (24ms)
-			SetupLoadedEditorAssemblies (285ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (44ms)
-				ProcessInitializeOnLoadAttributes (168ms)
-				ProcessInitializeOnLoadMethodAttributes (51ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (11ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.83 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3218 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (0.7 MB). Loaded Objects now: 3924.
-Memory consumption went from 258.7 MB to 258.1 MB.
-Total: 2.552600 ms (FindLiveObjects: 0.179500 ms CreateObjectMapping: 0.059000 ms MarkObjects: 2.016400 ms  DeleteObjects: 0.296900 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 0.000011 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Branches.mat
+  artifactKey: Guid(1b8fea648fbd0d843a109b0255366f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Branches.mat using Guid(1b8fea648fbd0d843a109b0255366f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9be8c26e9741fe688b61d9b04197c3f1') in 0.298605 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 232.598015 seconds.
-  path: Assets/Raygeas/Shared Assets/Shaders/URP
-  artifactKey: Guid(b5367ba61c605bc48b5841495c99367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Shared Assets/Shaders/URP using Guid(b5367ba61c605bc48b5841495c99367a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '450948c0e147523bc0fa5e68b177622e') in 0.010851 seconds 
+  Time since last request: 0.000015 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_3.mat
+  artifactKey: Guid(3825ca4067bb01f44bf05251bb48407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Grass_3.mat using Guid(3825ca4067bb01f44bf05251bb48407f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f2e85c6cc91e6a2f88b94c42f55789') in 0.010500 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1949.724711 seconds.
-  path: Assets/Character/Flower/Materials/body.mat
-  artifactKey: Guid(c130d779c85b0ad4799563cfa27c89b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Character/Flower/Materials/body.mat using Guid(c130d779c85b0ad4799563cfa27c89b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '309f398fccd54647e12e0a5e3316ecad') in 0.651563 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 0.000040 seconds.
-  path: Assets/Character/Flower/Materials/skirt.mat
-  artifactKey: Guid(52e206ad39af1bf4c8328cc6b82ca0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Character/Flower/Materials/skirt.mat using Guid(52e206ad39af1bf4c8328cc6b82ca0da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '851eb88e425233ae4d9f0e3cebdcfce2') in 0.128601 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001102 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.824 seconds
-Domain Reload Profiling:
-	ReloadAssembly (824ms)
-		BeginReloadAssembly (153ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (11ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (47ms)
-		EndReloadAssembly (610ms)
-			LoadAssemblies (67ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (142ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (33ms)
-			SetupLoadedEditorAssemblies (296ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (37ms)
-				ProcessInitializeOnLoadAttributes (184ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (0.7 MB). Loaded Objects now: 4027.
-Memory consumption went from 266.5 MB to 265.8 MB.
-Total: 3.306600 ms (FindLiveObjects: 0.172400 ms CreateObjectMapping: 0.061000 ms MarkObjects: 2.748300 ms  DeleteObjects: 0.323500 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 8.097179 seconds.
-  path: Assets/Character/Flower/Materials/headAcc.mat
-  artifactKey: Guid(6bcf4a2df91ce6e41858efe7cd4ed865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Character/Flower/Materials/headAcc.mat using Guid(6bcf4a2df91ce6e41858efe7cd4ed865) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c113ef9dac6f81ab4285709fb1d2f4f') in 0.378415 seconds 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001120 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.60 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.744 seconds
-Domain Reload Profiling:
-	ReloadAssembly (745ms)
-		BeginReloadAssembly (94ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (22ms)
-		EndReloadAssembly (591ms)
-			LoadAssemblies (52ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (118ms)
-			ReleaseScriptCaches (2ms)
-			RebuildScriptCaches (32ms)
-			SetupLoadedEditorAssemblies (307ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (24ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (40ms)
-				ProcessInitializeOnLoadAttributes (178ms)
-				ProcessInitializeOnLoadMethodAttributes (62ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (14ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.90 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (0.7 MB). Loaded Objects now: 4082.
-Memory consumption went from 266.7 MB to 266.0 MB.
-Total: 3.115300 ms (FindLiveObjects: 0.204600 ms CreateObjectMapping: 0.067900 ms MarkObjects: 2.441700 ms  DeleteObjects: 0.400000 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001619 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.683 seconds
-Domain Reload Profiling:
-	ReloadAssembly (684ms)
-		BeginReloadAssembly (90ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (538ms)
-			LoadAssemblies (55ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (110ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (26ms)
-			SetupLoadedEditorAssemblies (284ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (19ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (39ms)
-				ProcessInitializeOnLoadAttributes (165ms)
-				ProcessInitializeOnLoadMethodAttributes (57ms)
-				AfterProcessingInitializeOnLoad (4ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (12ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.73 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (0.7 MB). Loaded Objects now: 4097.
-Memory consumption went from 266.6 MB to 265.9 MB.
-Total: 2.744300 ms (FindLiveObjects: 0.177400 ms CreateObjectMapping: 0.066300 ms MarkObjects: 2.165200 ms  DeleteObjects: 0.334400 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.001091 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 0.38 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  0.686 seconds
-Domain Reload Profiling:
-	ReloadAssembly (687ms)
-		BeginReloadAssembly (100ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (20ms)
-		EndReloadAssembly (528ms)
-			LoadAssemblies (61ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (117ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (25ms)
-			SetupLoadedEditorAssemblies (279ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (0ms)
-				BeforeProcessingInitializeOnLoad (39ms)
-				ProcessInitializeOnLoadAttributes (163ms)
-				ProcessInitializeOnLoadMethodAttributes (56ms)
-				AfterProcessingInitializeOnLoad (3ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (11ms)
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.84 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3226 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 23 unused Assets / (0.7 MB). Loaded Objects now: 4112.
-Memory consumption went from 266.6 MB to 265.9 MB.
-Total: 2.734900 ms (FindLiveObjects: 0.191200 ms CreateObjectMapping: 0.073900 ms MarkObjects: 2.146600 ms  DeleteObjects: 0.322600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  Time since last request: 0.000016 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Leaves_2.mat
+  artifactKey: Guid(c9a90c8820136b14dafa3d416fbf4e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Leaves_2.mat using Guid(c9a90c8820136b14dafa3d416fbf4e8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05a2d8671524940846f225a8a9b4a131') in 0.008545 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
