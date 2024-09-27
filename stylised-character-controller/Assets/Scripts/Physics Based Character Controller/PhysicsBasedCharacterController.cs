@@ -174,6 +174,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
         {
             if (_prevGrounded == false)
             {
+                _animator.SetBool("is_down", false);
                 if (!FindObjectOfType<AudioManager>().IsPlaying("Land"))
                 {
                     FindObjectOfType<AudioManager>().Play("Land");
@@ -206,6 +207,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
             if (_timeSinceJump > 0.2f)
             {
                 _isJumping = false;
+                _animator.SetTrigger("fin_jump");
             }
         }
         else
@@ -454,10 +456,12 @@ public class PhysicsBasedCharacterController : MonoBehaviour
         _timeSinceJump += Time.fixedDeltaTime;
         if (_rb.velocity.y < 0)
         {
+            
             _shouldMaintainHeight = true;
             _jumpReady = true;
             if (!grounded)
             {
+                _animator.SetBool("is_down", true);
                 // Increase downforce for a sudden plummet.
                 _rb.AddForce(_gravitationalForce * (_fallGravityFactor - 1f)); // Hmm... this feels a bit weird. I want a reactive jump, but I don't want it to dive all the time...
             }
@@ -499,6 +503,7 @@ public class PhysicsBasedCharacterController : MonoBehaviour
                     _timeSinceJump = 0f;
 
                     FindObjectOfType<AudioManager>().Play("Jump");
+                    
                     
                 }
             }
