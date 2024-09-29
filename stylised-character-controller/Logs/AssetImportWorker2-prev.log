@@ -15,7 +15,7 @@ C:/GitHub/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-62247
+65115
 Successfully changed project path to: C:/GitHub/DK_GP/stylised-character-controller
 C:/GitHub/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/GitHub/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [16564] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 2235091410 [EditorId] 2235091410 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [114004] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 903483270 [EditorId] 903483270 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [16564] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 2235091410 [EditorId] 2235091410 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [114004] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 903483270 [EditorId] 903483270 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 36.20 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 78.33 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
@@ -67,97 +67,97 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56372
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007201 seconds.
+Registered in 0.008204 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 285 ms
-Refreshing native plugins compatible for Editor in 75.39 ms, found 0 plugins.
+Android Extension - Scanning For ADB Devices 267 ms
+Refreshing native plugins compatible for Editor in 85.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.804 seconds
+- Completed reload, in  0.768 seconds
 Domain Reload Profiling:
-	ReloadAssembly (805ms)
-		BeginReloadAssembly (63ms)
+	ReloadAssembly (769ms)
+		BeginReloadAssembly (61ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (668ms)
-			LoadAssemblies (63ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (622ms)
+			LoadAssemblies (60ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (60ms)
+			SetupTypeCache (74ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (16ms)
-			SetupLoadedEditorAssemblies (559ms)
+			RebuildScriptCaches (17ms)
+			SetupLoadedEditorAssemblies (494ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (333ms)
+				InitializePlatformSupportModulesInManaged (315ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (75ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (96ms)
-				ProcessInitializeOnLoadMethodAttributes (53ms)
+				RefreshPlugins (85ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (58ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.003233 seconds.
+Registered in 0.003445 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 36.24 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 85.87 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.791 seconds
+- Completed reload, in  1.058 seconds
 Domain Reload Profiling:
-	ReloadAssembly (791ms)
-		BeginReloadAssembly (77ms)
+	ReloadAssembly (1058ms)
+		BeginReloadAssembly (81ms)
 			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (3ms)
+			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (13ms)
-		EndReloadAssembly (648ms)
-			LoadAssemblies (63ms)
+			CreateAndSetChildDomain (14ms)
+		EndReloadAssembly (905ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (116ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (417ms)
+			SetupTypeCache (156ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (581ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (17ms)
+				InitializePlatformSupportModulesInManaged (22ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (36ms)
-				BeforeProcessingInitializeOnLoad (55ms)
-				ProcessInitializeOnLoadAttributes (256ms)
-				ProcessInitializeOnLoadMethodAttributes (47ms)
+				RefreshPlugins (86ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (10ms)
+			AwakeInstancesAfterBackupRestoration (11ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 1.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3421 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 161 unused Assets / (1.1 MB). Loaded Objects now: 3867.
-Memory consumption went from 188.7 MB to 187.6 MB.
-Total: 2.851100 ms (FindLiveObjects: 0.146300 ms CreateObjectMapping: 0.052300 ms MarkObjects: 2.241800 ms  DeleteObjects: 0.410300 ms)
+Unloading 5229 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 308 unused Assets / (12.0 MB). Loaded Objects now: 5576.
+Memory consumption went from 318.7 MB to 306.8 MB.
+Total: 8.062100 ms (FindLiveObjects: 0.629900 ms CreateObjectMapping: 0.145700 ms MarkObjects: 3.960200 ms  DeleteObjects: 3.325700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -171,89 +171,115 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 8277.334001 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Flower_Garden_01.unity
-  artifactKey: Guid(039f8a3faba1c0245b5305977666cb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Flower_Garden_01.unity using Guid(039f8a3faba1c0245b5305977666cb40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9db5060b8cca684d4cb8d28d8d2d7bb9') in 0.010245 seconds 
+  Time since last request: 37297.494438 seconds.
+  path: Assets/URP
+  artifactKey: Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP using Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178c291684b933e74a029fa024ffb1fd') in 0.030835 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.824643 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Flower_Garden.unity
-  artifactKey: Guid(0044035adbe1f1147bf09ed286529e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Flower_Garden.unity using Guid(0044035adbe1f1147bf09ed286529e9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f922d96baa853b39437df788ffd92685') in 0.005979 seconds 
+  Time since last request: 11.235116 seconds.
+  path: Assets/URP/HDRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP/HDRenderPipelineGlobalSettings.asset using Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeea8e09cc7bc39ac1b901ee563958bd') in 0.037659 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 1.133739 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity
-  artifactKey: Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity using Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc07d92e16abf808e2c83200f39186f') in 0.006218 seconds 
+  Time since last request: 138.779814 seconds.
+  path: Assets/UI Toolkit/PanelSettings.asset
+  artifactKey: Guid(c9ae6fecdd59e444aba8522aa86a1cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/PanelSettings.asset using Guid(c9ae6fecdd59e444aba8522aa86a1cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a384c4b688ccf3136281997364909a8') in 0.022382 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 38.347569 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Lotus_Albedo.png
-  artifactKey: Guid(49cb8541a414004498ecfa0b1581dd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Lotus_Albedo.png using Guid(49cb8541a414004498ecfa0b1581dd70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c590cfb0b64658447249e8e9eb51bb7') in 0.074314 seconds 
+  Time since last request: 18.338118 seconds.
+  path: Assets/Underwater/Scenes/NewShaderVariants.shadervariants
+  artifactKey: Guid(d081c4b1db3a73444821aabdc26cff82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/NewShaderVariants.shadervariants using Guid(d081c4b1db3a73444821aabdc26cff82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3072673532989ca9a33028412e4de1') in 0.011130 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 47.690787 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Big_Branches.mat
-  artifactKey: Guid(d499219001082ac409e183cb68fb525c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Big_Branches.mat using Guid(d499219001082ac409e183cb68fb525c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e9cbc8d34f5f1e183f677ce225b4520') in 0.342754 seconds 
+  Time since last request: 56.218488 seconds.
+  path: Assets/Underwater/Setting/Plant_001.asset
+  artifactKey: Guid(5529ec4c800f09245b2eb9f2e6e2961f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Plant_001.asset using Guid(5529ec4c800f09245b2eb9f2e6e2961f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d0cda97c1f37abc4ed3b52b7b4bfcd') in 0.010274 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Ivy.mat
-  artifactKey: Guid(cf1c1d90a25bd924785bfd8efa4a0eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Ivy.mat using Guid(cf1c1d90a25bd924785bfd8efa4a0eb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '014ab8c76b2c285e7e2e7b683f9c490c') in 0.517493 seconds 
+  Time since last request: 0.000014 seconds.
+  path: Assets/Underwater/Setting/Sun_Flare_2.asset
+  artifactKey: Guid(4f27922f670cf9d43b9ecf4ec7142356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Sun_Flare_2.asset using Guid(4f27922f670cf9d43b9ecf4ec7142356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9b1a6ca7b56769b8c9cee9d7709e46') in 0.011488 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Branches.mat
-  artifactKey: Guid(55277534c11e34942b34ad1f72e21103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Branches.mat using Guid(55277534c11e34942b34ad1f72e21103) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '613038ba93f77c94eb4baf52edb9249a') in 0.011375 seconds 
+  Time since last request: 0.000013 seconds.
+  path: Assets/Underwater/Setting/Simple_2.asset
+  artifactKey: Guid(a46716d82b084404a91302bc017098fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Simple_2.asset using Guid(a46716d82b084404a91302bc017098fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f07e94324ad03aac3f0f291f62bb222') in 0.009590 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000010 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Bush.mat
-  artifactKey: Guid(abb41071a649aaf47acd58d6b339d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Bush.mat using Guid(abb41071a649aaf47acd58d6b339d1dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb8b44a345286670a60e84065ecc23ec') in 0.404970 seconds 
+  Time since last request: 17.419897 seconds.
+  path: Assets/Underwater-URP/Setting
+  artifactKey: Guid(4a6bc9ca6232122449eb63646c3e952f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Setting using Guid(4a6bc9ca6232122449eb63646c3e952f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fad89580c07e9767cb11043df54b07') in 0.005735 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Lotus.mat
-  artifactKey: Guid(06faa6b01cd8cad40b2e5412a7e62792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Lotus.mat using Guid(06faa6b01cd8cad40b2e5412a7e62792) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54ff0808811156e9b39afa3f5a65ceb7') in 0.010653 seconds 
+  Time since last request: 0.075551 seconds.
+  path: Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset using Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edd020653bc9830f0a6e7b1b411a3f7') in 0.012099 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Leaves.mat
-  artifactKey: Guid(16c0793c4f774004ea6882bfa0330669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Birch_Leaves.mat using Guid(16c0793c4f774004ea6882bfa0330669) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f69f65a61691631a61e6bdf6ea494df1') in 0.256937 seconds 
+  Time since last request: 19.626944 seconds.
+  path: Assets/Underwater-URP/Scene
+  artifactKey: Guid(16fe560f34d38a24bb978442bb2d0959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene using Guid(16fe560f34d38a24bb978442bb2d0959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba04d968e1c485c77316d6f8abc67b89') in 0.005592 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Mushrooms.mat
-  artifactKey: Guid(89bbe831582a36f47997b203c5fe09fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Mushrooms.mat using Guid(89bbe831582a36f47997b203c5fe09fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66924b724648608b2aae3639c71e4b84') in 0.013003 seconds 
+  Time since last request: 0.734656 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset
+  artifactKey: Guid(ffc704dc4575edd4093bf5f438794d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset using Guid(ffc704dc4575edd4093bf5f438794d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2e04fdd702b6f10afd951bccc0f060') in 0.005628 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Bark.mat
-  artifactKey: Guid(5fd645561007b8e498f31d5c62956c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Broadleaf_Bark.mat using Guid(5fd645561007b8e498f31d5c62956c33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7d77f8a0c2778ee45ce6e561f9fe341') in 0.272969 seconds 
+  Time since last request: 0.073270 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/Box.mat
+  artifactKey: Guid(27ea08085ce6bb747a02e6bc91b652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/Box.mat using Guid(27ea08085ce6bb747a02e6bc91b652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec83c65ff8326d2568c76794ae9b589') in 0.513433 seconds 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Flowers_1.mat
-  artifactKey: Guid(a4cd70e77d6ff5640b3761761e95caf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Flowers_1.mat using Guid(a4cd70e77d6ff5640b3761761e95caf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f495810a25bdebb2f9aa55acb8e9fe76') in 0.010557 seconds 
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 134 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (1.7 MB). Loaded Objects now: 5897.
+Memory consumption went from 197.7 MB to 196.0 MB.
+Total: 12.568500 ms (FindLiveObjects: 0.336700 ms CreateObjectMapping: 0.093100 ms MarkObjects: 11.659800 ms  DeleteObjects: 0.478300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 0 -> 1
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/active-color-space: 02000000000000000000000000000000 -> 03000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Flowers_2.mat
-  artifactKey: Guid(efc7ef86dbdb066439b129fa4db3fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Materials/Vegetation/Flowers_2.mat using Guid(efc7ef86dbdb066439b129fa4db3fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e18eadc37885515f5e6caab6d04ec17') in 0.208132 seconds 
-Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
-AssetImportWorker is now disconnected from the server
-Process exiting
-Exiting without the bug reporter. Application will terminate with return code 0
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 5897.
+Memory consumption went from 195.7 MB to 194.1 MB.
+Total: 3.605800 ms (FindLiveObjects: 0.341800 ms CreateObjectMapping: 0.113300 ms MarkObjects: 2.728400 ms  DeleteObjects: 0.421700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/active-color-space: 03000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
