@@ -15,7 +15,7 @@ C:/GitHub/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-60145
+65115
 Successfully changed project path to: C:/GitHub/DK_GP/stylised-character-controller
 C:/GitHub/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/GitHub/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [114028] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 2520098039 [EditorId] 2520098039 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [114004] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 903483270 [EditorId] 903483270 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [114028] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 2520098039 [EditorId] 2520098039 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [114004] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 903483270 [EditorId] 903483270 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 49.72 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 78.33 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
@@ -67,83 +67,83 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56596
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008792 seconds.
+Registered in 0.008204 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 301 ms
-Refreshing native plugins compatible for Editor in 47.73 ms, found 0 plugins.
+Android Extension - Scanning For ADB Devices 267 ms
+Refreshing native plugins compatible for Editor in 85.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.765 seconds
+- Completed reload, in  0.768 seconds
 Domain Reload Profiling:
-	ReloadAssembly (765ms)
-		BeginReloadAssembly (80ms)
+	ReloadAssembly (769ms)
+		BeginReloadAssembly (61ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (0ms)
-		EndReloadAssembly (615ms)
-			LoadAssemblies (79ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (622ms)
+			LoadAssemblies (60ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (67ms)
+			SetupTypeCache (74ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (20ms)
+			RebuildScriptCaches (17ms)
 			SetupLoadedEditorAssemblies (494ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (354ms)
+				InitializePlatformSupportModulesInManaged (315ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (48ms)
+				RefreshPlugins (85ms)
 				BeforeProcessingInitializeOnLoad (1ms)
 				ProcessInitializeOnLoadAttributes (58ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
+				ProcessInitializeOnLoadMethodAttributes (35ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.005432 seconds.
+Registered in 0.003445 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 59.32 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 85.87 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.002 seconds
+- Completed reload, in  1.058 seconds
 Domain Reload Profiling:
-	ReloadAssembly (1002ms)
-		BeginReloadAssembly (89ms)
+	ReloadAssembly (1058ms)
+		BeginReloadAssembly (81ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (4ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (825ms)
-			LoadAssemblies (102ms)
+		EndReloadAssembly (905ms)
+			LoadAssemblies (80ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (129ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (537ms)
+			SetupTypeCache (156ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (58ms)
+			SetupLoadedEditorAssemblies (581ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (18ms)
+				InitializePlatformSupportModulesInManaged (22ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (59ms)
-				BeforeProcessingInitializeOnLoad (72ms)
-				ProcessInitializeOnLoadAttributes (328ms)
-				ProcessInitializeOnLoadMethodAttributes (52ms)
+				RefreshPlugins (86ms)
+				BeforeProcessingInitializeOnLoad (80ms)
+				ProcessInitializeOnLoadAttributes (362ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
@@ -151,13 +151,13 @@ Domain Reload Profiling:
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 1.21 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 1.34 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3740 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 175 unused Assets / (0.7 MB). Loaded Objects now: 4206.
-Memory consumption went from 217.3 MB to 216.6 MB.
-Total: 4.892700 ms (FindLiveObjects: 0.492800 ms CreateObjectMapping: 0.111400 ms MarkObjects: 3.628800 ms  DeleteObjects: 0.659000 ms)
+Unloading 5229 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 308 unused Assets / (12.0 MB). Loaded Objects now: 5576.
+Memory consumption went from 318.7 MB to 306.8 MB.
+Total: 8.062100 ms (FindLiveObjects: 0.629900 ms CreateObjectMapping: 0.145700 ms MarkObjects: 3.960200 ms  DeleteObjects: 3.325700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -171,85 +171,87 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 36430.824517 seconds.
-  path: Assets/Underwater/Assets
-  artifactKey: Guid(b5a0b67a763db9b49b058e5abbcea6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Underwater/Assets using Guid(b5a0b67a763db9b49b058e5abbcea6e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55d59702288eed20e2255c28b2533f4') in 0.011774 seconds 
+  Time since last request: 37297.494438 seconds.
+  path: Assets/URP
+  artifactKey: Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP using Guid(117120d5568392f4d9122b205ccce290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '178c291684b933e74a029fa024ffb1fd') in 0.030835 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.473111 seconds.
-  path: Assets/Underwater/Scenes
-  artifactKey: Guid(95a93de208b0e2d4a87875983d387dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Underwater/Scenes using Guid(95a93de208b0e2d4a87875983d387dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a15403ef2711410927c93d67b8c1e617') in 0.006015 seconds 
+  Time since last request: 11.235116 seconds.
+  path: Assets/URP/HDRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP/HDRenderPipelineGlobalSettings.asset using Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eeea8e09cc7bc39ac1b901ee563958bd') in 0.037659 seconds 
 ========================================================================
 Received Import Request.
-  Time since last request: 41.975836 seconds.
-  path: Assets/UniversalRenderPipelineGlobalSettings 1.asset
-  artifactKey: Guid(f237afd8e51642b46bf15d3338e11589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/UniversalRenderPipelineGlobalSettings 1.asset using Guid(f237afd8e51642b46bf15d3338e11589) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6054883b3ae31816efe3fae137c37a97') in 0.023810 seconds 
+  Time since last request: 138.779814 seconds.
+  path: Assets/UI Toolkit/PanelSettings.asset
+  artifactKey: Guid(c9ae6fecdd59e444aba8522aa86a1cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/UI Toolkit/PanelSettings.asset using Guid(c9ae6fecdd59e444aba8522aa86a1cbc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a384c4b688ccf3136281997364909a8') in 0.022382 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.338118 seconds.
+  path: Assets/Underwater/Scenes/NewShaderVariants.shadervariants
+  artifactKey: Guid(d081c4b1db3a73444821aabdc26cff82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/NewShaderVariants.shadervariants using Guid(d081c4b1db3a73444821aabdc26cff82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3072673532989ca9a33028412e4de1') in 0.011130 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 56.218488 seconds.
+  path: Assets/Underwater/Setting/Plant_001.asset
+  artifactKey: Guid(5529ec4c800f09245b2eb9f2e6e2961f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Plant_001.asset using Guid(5529ec4c800f09245b2eb9f2e6e2961f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01d0cda97c1f37abc4ed3b52b7b4bfcd') in 0.010274 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Underwater/Setting/Sun_Flare_2.asset
+  artifactKey: Guid(4f27922f670cf9d43b9ecf4ec7142356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Sun_Flare_2.asset using Guid(4f27922f670cf9d43b9ecf4ec7142356) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c9b1a6ca7b56769b8c9cee9d7709e46') in 0.011488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Underwater/Setting/Simple_2.asset
+  artifactKey: Guid(a46716d82b084404a91302bc017098fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Setting/Simple_2.asset using Guid(a46716d82b084404a91302bc017098fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f07e94324ad03aac3f0f291f62bb222') in 0.009590 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 17.419897 seconds.
+  path: Assets/Underwater-URP/Setting
+  artifactKey: Guid(4a6bc9ca6232122449eb63646c3e952f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Setting using Guid(4a6bc9ca6232122449eb63646c3e952f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95fad89580c07e9767cb11043df54b07') in 0.005735 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.075551 seconds.
+  path: Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset
+  artifactKey: Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset using Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9edd020653bc9830f0a6e7b1b411a3f7') in 0.012099 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 19.626944 seconds.
+  path: Assets/Underwater-URP/Scene
+  artifactKey: Guid(16fe560f34d38a24bb978442bb2d0959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene using Guid(16fe560f34d38a24bb978442bb2d0959) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba04d968e1c485c77316d6f8abc67b89') in 0.005592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.734656 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset
+  artifactKey: Guid(ffc704dc4575edd4093bf5f438794d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset using Guid(ffc704dc4575edd4093bf5f438794d26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2e04fdd702b6f10afd951bccc0f060') in 0.005628 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.073270 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/Box.mat
+  artifactKey: Guid(27ea08085ce6bb747a02e6bc91b652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/Box.mat using Guid(27ea08085ce6bb747a02e6bc91b652db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec83c65ff8326d2568c76794ae9b589') in 0.513433 seconds 
 ========================================================================
 Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006260 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 88.67 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 2.35 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  2.311 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2312ms)
-		BeginReloadAssembly (163ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (35ms)
-		EndReloadAssembly (2082ms)
-			LoadAssemblies (438ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (224ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (40ms)
-			SetupLoadedEditorAssemblies (1326ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (27ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (89ms)
-				BeforeProcessingInitializeOnLoad (70ms)
-				ProcessInitializeOnLoadAttributes (1092ms)
-				ProcessInitializeOnLoadMethodAttributes (38ms)
-				AfterProcessingInitializeOnLoad (10ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (23ms)
-Platform modules already initialized, skipping
-Shader 'HDRP/Unlit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/LitTessellation': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/TerrainLit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/TerrainLit': dependency 'BaseMapShader' shader 'Hidden/HDRP/TerrainLit_Basemap' not found
-Shader 'HDRP/TerrainLit': dependency 'BaseMapGenShader' shader 'Hidden/HDRP/TerrainLit_BasemapGen' not found
-Shader 'HDRP/LayeredLit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/AxF': fallback shader 'Hidden/HDRP/FallbackError' not found
-Refreshing native plugins compatible for Editor in 1.45 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4990 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 232 unused Assets / (20.1 MB). Loaded Objects now: 5494.
-Memory consumption went from 300.0 MB to 279.9 MB.
-Total: 7.039600 ms (FindLiveObjects: 0.266500 ms CreateObjectMapping: 0.086100 ms MarkObjects: 2.481900 ms  DeleteObjects: 4.204500 ms)
+Unloading 134 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 30 unused Assets / (1.7 MB). Loaded Objects now: 5897.
+Memory consumption went from 197.7 MB to 196.0 MB.
+Total: 12.568500 ms (FindLiveObjects: 0.336700 ms CreateObjectMapping: 0.093100 ms MarkObjects: 11.659800 ms  DeleteObjects: 0.478300 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 0 -> 1
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
@@ -258,32 +260,26 @@ AssetImportParameters requested are different than current active one (requested
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/active-color-space: 02000000000000000000000000000000 -> 03000000000000000000000000000000
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 303.267235 seconds.
-  path: Assets
-  artifactKey: Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets using Guid(00000000000000001000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79842766b460edbeab6a34051e857a80') in 0.012813 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 11.555525 seconds.
-  path: Assets/New HDRenderPipelineAsset.asset
-  artifactKey: Guid(ae47a8c3f44139b4ea3930a0a40a8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/New HDRenderPipelineAsset.asset using Guid(ae47a8c3f44139b4ea3930a0a40a8840) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
-UnityEngine.Logger:Log (UnityEngine.LogType,object)
-UnityEngine.Debug:LogError (object)
-UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
-UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+Received Prepare
+Refreshing native plugins compatible for Editor in 2.15 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 28 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 28 unused Assets / (1.6 MB). Loaded Objects now: 5897.
+Memory consumption went from 195.7 MB to 194.1 MB.
+Total: 3.605800 ms (FindLiveObjects: 0.341800 ms CreateObjectMapping: 0.113300 ms MarkObjects: 2.728400 ms  DeleteObjects: 0.421700 ms)
 
-(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
-
- -> (artifact id: '7caafec0e2b2532ecfbe7422e4b28dc1') in 0.036191 seconds 
-========================================================================
-Received Import Request.
-  Time since last request: 60.367627 seconds.
-  path: Assets/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(06ccbc783c0c2354298b9ec71efb5652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/HDRPDefaultResources/HDRenderPipelineGlobalSettings.asset using Guid(06ccbc783c0c2354298b9ec71efb5652) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd7b1c918978c03d8d78fb555796029a') in 0.010878 seconds 
+AssetImportParameters requested are different than current active one (requested -> active):
+  colorSpace: 1 -> 0
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:graphics/active-color-space: 03000000000000000000000000000000 -> 02000000000000000000000000000000
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 

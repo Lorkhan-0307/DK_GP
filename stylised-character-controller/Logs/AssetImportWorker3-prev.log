@@ -15,7 +15,7 @@ C:/GitHub/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker3.log
 -srvPort
-60145
+65115
 Successfully changed project path to: C:/GitHub/DK_GP/stylised-character-controller
 C:/GitHub/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -47,11 +47,11 @@ C:/GitHub/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [113752] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 1189941042 [EditorId] 1189941042 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [101704] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 1783077151 [EditorId] 1783077151 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [113752] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 1189941042 [EditorId] 1189941042 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [101704] Host "[IP] 192.168.0.15 [Port] 0 [Flags] 2 [Guid] 1783077151 [EditorId] 1783077151 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-R5BOSMI) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
-Refreshing native plugins compatible for Editor in 49.40 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 71.39 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.23f1 (213b516bf396)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
@@ -67,97 +67,97 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56264
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.008146 seconds.
+Registered in 0.007619 seconds.
 Native extension for WindowsStandalone target not found
 [usbmuxd] Start listen thread
 [usbmuxd] Listen thread started
 [usbmuxd] Send listen message
 Native extension for iOS target not found
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 269 ms
-Refreshing native plugins compatible for Editor in 47.35 ms, found 0 plugins.
+Android Extension - Scanning For ADB Devices 267 ms
+Refreshing native plugins compatible for Editor in 75.19 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.758 seconds
+- Completed reload, in  0.723 seconds
 Domain Reload Profiling:
-	ReloadAssembly (759ms)
-		BeginReloadAssembly (66ms)
+	ReloadAssembly (724ms)
+		BeginReloadAssembly (63ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (617ms)
-			LoadAssemblies (64ms)
+		EndReloadAssembly (592ms)
+			LoadAssemblies (61ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (71ms)
+			SetupTypeCache (63ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (30ms)
-			SetupLoadedEditorAssemblies (477ms)
+			RebuildScriptCaches (18ms)
+			SetupLoadedEditorAssemblies (478ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (338ms)
+				InitializePlatformSupportModulesInManaged (312ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (47ms)
+				RefreshPlugins (75ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (57ms)
-				ProcessInitializeOnLoadMethodAttributes (33ms)
+				ProcessInitializeOnLoadAttributes (58ms)
+				ProcessInitializeOnLoadMethodAttributes (31ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002940 seconds.
+Registered in 0.003080 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
 Native extension for iOS target not found
 Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 53.58 ms, found 0 plugins.
+Refreshing native plugins compatible for Editor in 75.22 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.877 seconds
+- Completed reload, in  1.011 seconds
 Domain Reload Profiling:
-	ReloadAssembly (877ms)
-		BeginReloadAssembly (81ms)
+	ReloadAssembly (1012ms)
+		BeginReloadAssembly (78ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (3ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (14ms)
-		EndReloadAssembly (729ms)
-			LoadAssemblies (68ms)
+			CreateAndSetChildDomain (13ms)
+		EndReloadAssembly (869ms)
+			LoadAssemblies (71ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (118ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (482ms)
+			SetupTypeCache (140ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (581ms)
 				LogAssemblyErrors (0ms)
 				InitializePlatformSupportModulesInManaged (18ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (54ms)
-				BeforeProcessingInitializeOnLoad (62ms)
-				ProcessInitializeOnLoadAttributes (293ms)
-				ProcessInitializeOnLoadMethodAttributes (49ms)
+				RefreshPlugins (75ms)
+				BeforeProcessingInitializeOnLoad (75ms)
+				ProcessInitializeOnLoadAttributes (381ms)
+				ProcessInitializeOnLoadMethodAttributes (24ms)
 				AfterProcessingInitializeOnLoad (7ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (11ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.05 ms, found 0 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.80 ms, found 0 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3740 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 175 unused Assets / (0.7 MB). Loaded Objects now: 4206.
-Memory consumption went from 217.3 MB to 216.6 MB.
-Total: 3.506100 ms (FindLiveObjects: 0.226800 ms CreateObjectMapping: 0.064600 ms MarkObjects: 2.812800 ms  DeleteObjects: 0.401200 ms)
+Unloading 5229 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 308 unused Assets / (12.0 MB). Loaded Objects now: 5576.
+Memory consumption went from 318.8 MB to 306.8 MB.
+Total: 4.487600 ms (FindLiveObjects: 0.243200 ms CreateObjectMapping: 0.103700 ms MarkObjects: 2.384700 ms  DeleteObjects: 1.755500 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
@@ -170,74 +170,36 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.006566 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Native extension for iOS target not found
-Native extension for Android target not found
-Refreshing native plugins compatible for Editor in 104.84 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Warning: Annotation not found!
-UnityEngine.StackTraceUtility:ExtractStackTrace ()
-UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
-UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
-System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
-UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
-
-[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
-
-Mono: successfully reloaded assembly
-- Completed reload, in  2.226 seconds
-Domain Reload Profiling:
-	ReloadAssembly (2226ms)
-		BeginReloadAssembly (161ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (5ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (34ms)
-		EndReloadAssembly (1994ms)
-			LoadAssemblies (126ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (360ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (46ms)
-			SetupLoadedEditorAssemblies (1368ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (25ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (105ms)
-				BeforeProcessingInitializeOnLoad (76ms)
-				ProcessInitializeOnLoadAttributes (1102ms)
-				ProcessInitializeOnLoadMethodAttributes (48ms)
-				AfterProcessingInitializeOnLoad (11ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (27ms)
-Platform modules already initialized, skipping
-Shader 'HDRP/Unlit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/LitTessellation': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/TerrainLit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/TerrainLit': dependency 'BaseMapShader' shader 'Hidden/HDRP/TerrainLit_Basemap' not found
-Shader 'HDRP/TerrainLit': dependency 'BaseMapGenShader' shader 'Hidden/HDRP/TerrainLit_BasemapGen' not found
-Shader 'HDRP/LayeredLit': fallback shader 'Hidden/HDRP/FallbackError' not found
-Shader 'HDRP/AxF': fallback shader 'Hidden/HDRP/FallbackError' not found
-Refreshing native plugins compatible for Editor in 1.46 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 4990 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 232 unused Assets / (20.1 MB). Loaded Objects now: 5493.
-Memory consumption went from 300.0 MB to 279.9 MB.
-Total: 7.104800 ms (FindLiveObjects: 0.245700 ms CreateObjectMapping: 0.087500 ms MarkObjects: 2.489500 ms  DeleteObjects: 4.281600 ms)
-
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Received Import Request.
+  Time since last request: 37560.216258 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/New Terrain.asset
+  artifactKey: Guid(df8fa22e99645b044a6d164a323d0061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/New Terrain.asset using Guid(df8fa22e99645b044a6d164a323d0061) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51d406b22256c670e79df33b9ea4ea3d') in 0.085997 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000.tga
+  artifactKey: Guid(abad2b5e2398c6b4c936bd4a08b6c5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000.tga using Guid(abad2b5e2398c6b4c936bd4a08b6c5e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'caf9ab6a65847af3992d233ce55cabd0') in 0.035321 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000_N.png
+  artifactKey: Guid(cd3cf17743b09b143a70be376e205824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000_N.png using Guid(cd3cf17743b09b143a70be376e205824) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '717c26a2c3c214c26083fcdef48e8ede') in 0.070447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000011 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/Terrain layer.terrainlayer
+  artifactKey: Guid(3eb0a6fe5b106834eadddac3a7c23913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/Terrain layer.terrainlayer using Guid(3eb0a6fe5b106834eadddac3a7c23913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6244782b296d2e99631a3a447a58296c') in 0.025413 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000_M.tga
+  artifactKey: Guid(d14382f287e51444092603aa1071be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Scene/Scene_Asset/T_Terrain_000_M.tga using Guid(d14382f287e51444092603aa1071be74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d814d023dfc0089f8042c9922c4edd9') in 0.009680 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

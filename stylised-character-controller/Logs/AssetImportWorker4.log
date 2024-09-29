@@ -1,0 +1,2130 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'ko' Physical Memory: 32555 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker4
+-projectPath
+C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
+-logFile
+Logs/AssetImportWorker4.log
+-srvPort
+50662
+Successfully changed project path to: C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
+C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [43724] Host "[IP] 192.168.219.102 [Port] 0 [Flags] 2 [Guid] 2808815165 [EditorId] 2808815165 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VL9NS21) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [43724] Host "[IP] 192.168.219.102 [Port] 0 [Flags] 2 [Guid] 2808815165 [EditorId] 2808815165 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VL9NS21) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 122.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.3.23f1 (213b516bf396)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
+    Vendor:   NVIDIA
+    VRAM:     10053 MB
+    Driver:   31.0.15.5244
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56844
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.012094 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 115.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.742 seconds
+Domain Reload Profiling:
+	ReloadAssembly (743ms)
+		BeginReloadAssembly (110ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (511ms)
+			LoadAssemblies (107ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (107ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (313ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (10ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (115ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (133ms)
+				ProcessInitializeOnLoadMethodAttributes (53ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005727 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 130.94 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.778 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1779ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1527ms)
+			LoadAssemblies (119ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (275ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (100ms)
+			SetupLoadedEditorAssemblies (979ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (131ms)
+				BeforeProcessingInitializeOnLoad (136ms)
+				ProcessInitializeOnLoadAttributes (647ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (9ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 1.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5230 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 308 unused Assets / (11.9 MB). Loaded Objects now: 5574.
+Memory consumption went from 389.1 MB to 377.2 MB.
+Total: 6.480400 ms (FindLiveObjects: 0.845400 ms CreateObjectMapping: 0.234000 ms MarkObjects: 3.134500 ms  DeleteObjects: 2.264800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 11434.383643 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Door_1A1.prefab
+  artifactKey: Guid(521d00e661f62e74c91782431ac27877) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Door_1A1.prefab using Guid(521d00e661f62e74c91782431ac27877) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd22bdced2477b99242d3ae62d70fde12') in 0.257731 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Floor_Boards_1A10.prefab
+  artifactKey: Guid(89f36999eeab9c74c981076e5a29f8dd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Floor_Boards_1A10.prefab using Guid(89f36999eeab9c74c981076e5a29f8dd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '957d3d82873e7f98aaebad4a0afabba9') in 0.033510 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Caves_Pieces_1A1_LOD1.fbx
+  artifactKey: Guid(82dbe075413d75b499bdb9cef08f9fbb) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Caves_Pieces_1A1_LOD1.fbx using Guid(82dbe075413d75b499bdb9cef08f9fbb) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e398dbd34d0eb4c168ac44b942596dcd') in 0.263610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Underwater/Setting/Plant_002.asset
+  artifactKey: Guid(221153a5e70c83347911308c6dc823f8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Underwater/Setting/Plant_002.asset using Guid(221153a5e70c83347911308c6dc823f8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '264a307c4fda5cff415edba4ad7e2cbe') in 0.036915 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Plane Texture Maker 1A_Cliff_3A1_BaseColor.png
+  artifactKey: Guid(7da4493c730078d43b36a7fe1d8ffe39) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Plane Texture Maker 1A_Cliff_3A1_BaseColor.png using Guid(7da4493c730078d43b36a7fe1d8ffe39) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '00086a957b351dfa4266f3cfb399cf99') in 0.060271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A8.prefab
+  artifactKey: Guid(0caf882e8d99a1845b8bbe59b4950a43) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A8.prefab using Guid(0caf882e8d99a1845b8bbe59b4950a43) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8b6834a3230e7bd743d5617a68de883d') in 0.019675 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Stone_Low_A_Stone_Styled_1A1_AlbedoTransparency.png
+  artifactKey: Guid(4032b6bcd6d5b4e4eb6e02d98e6018b9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Stone_Low_A_Stone_Styled_1A1_AlbedoTransparency.png using Guid(4032b6bcd6d5b4e4eb6e02d98e6018b9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bccb4e1626108a4dc850ce35f4e69e43') in 0.022620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Awning_1A1.prefab
+  artifactKey: Guid(60765c5af4c155248b213ace4ef1815f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Awning_1A1.prefab using Guid(60765c5af4c155248b213ace4ef1815f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6695ed1e60e137c642080d413cfb4a57') in 0.023172 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A1.prefab
+  artifactKey: Guid(4dc1616a36e518e4eaf3efe22af0d7e6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A1.prefab using Guid(4dc1616a36e518e4eaf3efe22af0d7e6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e2254c325d5b788fa2ba5f3588faa470') in 0.023847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Shaders/Highlands_Surface.shader
+  artifactKey: Guid(9c453302c6300e64996a20b6e6d61178) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Shaders/Highlands_Surface.shader using Guid(9c453302c6300e64996a20b6e6d61178) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5355ecf6ccce806858d7d1110e650847') in 0.026719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Floor_Boards_1A8.prefab
+  artifactKey: Guid(b60949d0ec6e72f49a285a5ff6987204) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Floor_Boards_1A8.prefab using Guid(b60949d0ec6e72f49a285a5ff6987204) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '59af4b76dda19e5922d206ab7f89d418') in 0.024114 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Cave Scatter Pack/Scene Utilities/M_Floor.mat
+  artifactKey: Guid(1e2a6108aff51534483d5196f966c37f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Scene Utilities/M_Floor.mat using Guid(1e2a6108aff51534483d5196f966c37f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4b1ecd490b16ff2fc491371faf48b6dd') in 0.031962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Materials/Rock_Cover_Standard.shader
+  artifactKey: Guid(7c5a0d65d40c78b4bbbb69c888cd3390) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Materials/Rock_Cover_Standard.shader using Guid(7c5a0d65d40c78b4bbbb69c888cd3390) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71f32cb9ddf87cd5e02acbf5a1366499') in 0.017423 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Snowy_Top_1A1.png
+  artifactKey: Guid(91324e422eb81fe4c93da18e480dd26f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Snowy_Top_1A1.png using Guid(91324e422eb81fe4c93da18e480dd26f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '36d8a03a5a211d91c4e97d043732af41') in 0.017328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/ReflectionProbe-1.exr
+  artifactKey: Guid(b42c524855cf28545a46569b174de213) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/ReflectionProbe-1.exr using Guid(b42c524855cf28545a46569b174de213) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ad36667d669896b85c665e13e78c9fc2') in 0.021634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Crystals_A_LOW_Crystals_1A1_AlbedoTransparency.png
+  artifactKey: Guid(23294756d2efb1a4a9b521b9501df7b7) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Crystals_A_LOW_Crystals_1A1_AlbedoTransparency.png using Guid(23294756d2efb1a4a9b521b9501df7b7) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '260af5bfa747841fb790b67825f5f62a') in 0.030121 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Materials/Stone_Plane_2A.mat
+  artifactKey: Guid(21fd84ab6290f6b449d3b009ad51a964) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Materials/Stone_Plane_2A.mat using Guid(21fd84ab6290f6b449d3b009ad51a964) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0d0877c6593f58e516dc3ab84b172527') in 0.015722 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Shaders/Highlands_Background_Objects.shader
+  artifactKey: Guid(ca17eb9d328bd334c93af7d8e6e8842e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Shaders/Highlands_Background_Objects.shader using Guid(ca17eb9d328bd334c93af7d8e6e8842e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e32c51b0ee9d82c5cad3aabd3c477738') in 0.018403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Modules/Huge_Stairs_Module_A.prefab
+  artifactKey: Guid(6587bff25afc57048b46a9f28b9da771) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Modules/Huge_Stairs_Module_A.prefab using Guid(6587bff25afc57048b46a9f28b9da771) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ac9d9b9d774a6191087b7eeaf7577c7b') in 0.445585 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A3.prefab
+  artifactKey: Guid(575f6eff22838094fa9530122a53d558) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Crystals/Crystal_1A3.prefab using Guid(575f6eff22838094fa9530122a53d558) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dcbc4e5ec8e11df9857fe8e4b3ac87e0') in 0.027665 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Pebble_02.prefab
+  artifactKey: Guid(c6bdc91d01a5a404f982d0096d55961a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Pebble_02.prefab using Guid(c6bdc91d01a5a404f982d0096d55961a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1aaca538c33f9289a681443790a24a98') in 0.016235 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_08.prefab
+  artifactKey: Guid(f51ead089ca95004980c1ea611baf310) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_08.prefab using Guid(f51ead089ca95004980c1ea611baf310) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '00c8847079a741c9e8b4c1a48c6892ac') in 0.016898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Mushrooms Large/M_Mushroom_Large_06.mat
+  artifactKey: Guid(5ec9dab87b3965d4a80a079a9f0177fe) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Mushrooms Large/M_Mushroom_Large_06.mat using Guid(5ec9dab87b3965d4a80a079a9f0177fe) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '28a79448381bdf0d6e00c31880059480') in 0.018203 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_06.mat
+  artifactKey: Guid(f06a05517f0293743b6ac53fb09404c6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_06.mat using Guid(f06a05517f0293743b6ac53fb09404c6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b76906138de9e276d949ee2add415b3f') in 0.018537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_07.prefab
+  artifactKey: Guid(9a615a70c2e20ea4abe62e67a6af4115) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_07.prefab using Guid(9a615a70c2e20ea4abe62e67a6af4115) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c86f1e692f4ce44c41b0b419031567d4') in 0.018396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Mushrooms Large/M_Mushroom_Large_04.mat
+  artifactKey: Guid(f7f57addfbd62494b8f693f46f6d66af) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Mushrooms Large/M_Mushroom_Large_04.mat using Guid(f7f57addfbd62494b8f693f46f6d66af) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'da8a52734e395aaf3695b76e8a786e2f') in 0.017581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Mushrooms Small/M_Mushroom_Small.mat
+  artifactKey: Guid(b19e5535dc8f0d542a6a8277cbb94ca3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Mushrooms Small/M_Mushroom_Small.mat using Guid(b19e5535dc8f0d542a6a8277cbb94ca3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f7a05f8f04d064105ba7170f102f3247') in 0.015242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Short_1A2.prefab
+  artifactKey: Guid(496b0e980f958ae4d8fa0b8df6f108fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Short_1A2.prefab using Guid(496b0e980f958ae4d8fa0b8df6f108fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '80223d0a670dbae867a0ea812c297dab') in 0.022023 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Ladder_1A1.prefab
+  artifactKey: Guid(246b61cdc434e524fbc371ff5169a8d0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Ladder_1A1.prefab using Guid(246b61cdc434e524fbc371ff5169a8d0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2bef186c556012ca54e65a31bfefa2b0') in 0.025029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_09.prefab
+  artifactKey: Guid(3a9964dd9531a144c982c185db9c3e2d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_09.prefab using Guid(3a9964dd9531a144c982c185db9c3e2d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fea49fff541fb55794b8f6ac45e33713') in 0.014661 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Stairs_1A3.prefab
+  artifactKey: Guid(3f2e96b82c6f9004f9620cb2c9b396be) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Stairs_1A3.prefab using Guid(3f2e96b82c6f9004f9620cb2c9b396be) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c87c57b833a79a3f71f107d5d34332a1') in 0.022880 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Blue/Pref_Crystal_Large_04.prefab
+  artifactKey: Guid(e2f7de9ff0df216468023ab71ff87a74) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Blue/Pref_Crystal_Large_04.prefab using Guid(e2f7de9ff0df216468023ab71ff87a74) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '77dc08974b6fe514d541c65e997a4c60') in 0.016186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_04.prefab
+  artifactKey: Guid(d47d2fb70b9cd6a44a745e772dc2cc53) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_04.prefab using Guid(d47d2fb70b9cd6a44a745e772dc2cc53) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2b7f2fcc9080a7c4b58e8c78cfb897e8') in 0.014673 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Gem_03.prefab
+  artifactKey: Guid(b7428cfa6eb1e0745bd14e4db60572e1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Gem_03.prefab using Guid(b7428cfa6eb1e0745bd14e4db60572e1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'edb0d7f09cf4ab56b7ce2f8215cdcdf2') in 0.015406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Stairs_1A2.prefab
+  artifactKey: Guid(69f3370b1bf0df9419e5255861e38ffd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Stairs_1A2.prefab using Guid(69f3370b1bf0df9419e5255861e38ffd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc50d3ba37da71b460f0fe8b93ddf891') in 0.022713 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_08.mat
+  artifactKey: Guid(39832e6f8f5236f41bd5b981628ce859) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_08.mat using Guid(39832e6f8f5236f41bd5b981628ce859) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '857160aee89c56ce7af55912ce3e25d5') in 0.016920 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Small_1A1.prefab
+  artifactKey: Guid(81c42ef6128f2a6469cbd6170901a209) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Small_1A1.prefab using Guid(81c42ef6128f2a6469cbd6170901a209) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '42f08a2336aecc5a6a9264ee9240f1e6') in 0.030656 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Tall_1A1.prefab
+  artifactKey: Guid(41a57b4e3e98fb841af65f5043209c2d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Tall_1A1.prefab using Guid(41a57b4e3e98fb841af65f5043209c2d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4d67c3882aea792992ee34b38d116dae') in 0.021719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_10.mat
+  artifactKey: Guid(1ceef56ec368f2e4aa9929b48ff00bde) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Materials/Crystals/M_Crystal_10.mat using Guid(1ceef56ec368f2e4aa9929b48ff00bde) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aa1b90efe0ba2ab6501ef09079d1fa43') in 0.017244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Tall_1A7.prefab
+  artifactKey: Guid(c9807d4429af4454792ab42d65fd77fd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Tall_1A7.prefab using Guid(c9807d4429af4454792ab42d65fd77fd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fdefe7c95bf2e936f684874f4fa77387') in 0.024207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Materials/Caves_1A2.mat
+  artifactKey: Guid(991813160afd5824c9b2e4943ed17e70) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Materials/Caves_1A2.mat using Guid(991813160afd5824c9b2e4943ed17e70) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b68652ec4939d8737cc1ebcc779e95d8') in 0.041076 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Ladder_1A2.prefab
+  artifactKey: Guid(d11dbf21da6483847aff6e678eca4b4b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Ladder_1A2.prefab using Guid(d11dbf21da6483847aff6e678eca4b4b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f6cfdc55c2eef6a2ebf4fd7351d4cbe6') in 0.021184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Gem_05.prefab
+  artifactKey: Guid(ce1ddc066995c2045ba11ac4c865f369) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Gem_05.prefab using Guid(ce1ddc066995c2045ba11ac4c865f369) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b8a9e441708c7a1d9e20cea0d55c788e') in 0.016113 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity
+  artifactKey: Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity using Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Opening scene 'Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity additively'
+Loaded scene 'Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity'
+	Deserialize:            93.251 ms
+	Integration:            426.883 ms
+	Integration of assets:  0.030 ms
+	Thread Wait Time:       -0.021 ms
+	Total Operation Time:   520.143 ms
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3902aab35d079c7923e976a3ac98dba8') in 34.400727 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Stone_3.fbx
+  artifactKey: Guid(be883d816d5ff80499d001501f38af7a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Stone_3.fbx using Guid(be883d816d5ff80499d001501f38af7a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec1dc10ef7b68532a21db508667825cd') in 0.024405 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_02_N.png
+  artifactKey: Guid(ad22860c805857c4c8eeaa1c6743a870) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_02_N.png using Guid(ad22860c805857c4c8eeaa1c6743a870) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e45451c5a238d068e2933f9ff2e31df9') in 0.021682 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Fir_3.fbx
+  artifactKey: Guid(f2360ba37b0d23b4391662d90b7c5429) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Fir_3.fbx using Guid(f2360ba37b0d23b4391662d90b7c5429) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ae343e06d9355da51e48a78b3a132f91') in 0.026170 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Fir_Tall_3.fbx
+  artifactKey: Guid(e36130ce5c8d5e843823b512fc1dbc5a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Fir_Tall_3.fbx using Guid(e36130ce5c8d5e843823b512fc1dbc5a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1223adcc19b27d48478bb29d878bd7e6') in 0.025940 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Stump_2.fbx
+  artifactKey: Guid(2ac8b338c69ccf04eae0b5ffe5b2418d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Stump_2.fbx using Guid(2ac8b338c69ccf04eae0b5ffe5b2418d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5e3ef59c5303f0ca228c61c9211c0c1e') in 0.023615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Pillar.fbx
+  artifactKey: Guid(759e592dfd67c3349b23a23e1eba93fb) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Pillar.fbx using Guid(759e592dfd67c3349b23a23e1eba93fb) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '21b9ec2e9eb7e2df3679dd4e278961b5') in 0.034058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Fence_3.fbx
+  artifactKey: Guid(8675152870e38764c8ec58a25c83d3d9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Fence_3.fbx using Guid(8675152870e38764c8ec58a25c83d3d9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '25f82e0c5f970f0568a831f3d980300d') in 0.023500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Materials/Forest/Water.mat
+  artifactKey: Guid(adea0dedcb58e2e4590575eeabbfd486) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Materials/Forest/Water.mat using Guid(adea0dedcb58e2e4590575eeabbfd486) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6dfa636b134eeca76498c15ff65744fc') in 0.018500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Camp/Bow.fbx
+  artifactKey: Guid(80442c56725f5c44ab4a9d416e6f494e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Camp/Bow.fbx using Guid(80442c56725f5c44ab4a9d416e6f494e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'daa740fb2b4d61d7578d2456c96f3d86') in 0.022260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Jug.prefab
+  artifactKey: Guid(a7cd09dff53e6f844b49c9e2f993db43) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Jug.prefab using Guid(a7cd09dff53e6f844b49c9e2f993db43) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd24bf243810498708a64fb92e31559ed') in 0.025891 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Pouch.prefab
+  artifactKey: Guid(ff90a3610bf0bda4485d16e46c207544) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Pouch.prefab using Guid(ff90a3610bf0bda4485d16e46c207544) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cc404ccaacc0214aac72a8fb9d43038f') in 0.022810 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_3.prefab
+  artifactKey: Guid(68bc6f7a123c0384290c0fb56d3a6d95) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_3.prefab using Guid(68bc6f7a123c0384290c0fb56d3a6d95) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0d61e3be606a01ce96df4ae462188635') in 0.023507 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Dead_1.prefab
+  artifactKey: Guid(38fb3f5cf9afca14e8298862fec72a7d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Dead_1.prefab using Guid(38fb3f5cf9afca14e8298862fec72a7d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '74580be56e2f3df73de79d3b0c2afe5d') in 0.023658 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Shield.prefab
+  artifactKey: Guid(c2b5034ab6effee4882bd04780ecdca0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Shield.prefab using Guid(c2b5034ab6effee4882bd04780ecdca0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '07a835adfd1e3989b26bfca50ea62bf1') in 0.021393 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Box_2.prefab
+  artifactKey: Guid(3131030a3c0ddc34ea8bb0c47db1fe67) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Box_2.prefab using Guid(3131030a3c0ddc34ea8bb0c47db1fe67) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b835da08e687dd4620a2e7cb1bcf6db3') in 0.020139 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Dagger.prefab
+  artifactKey: Guid(746674167c452484ab9449b55cefb2a9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Dagger.prefab using Guid(746674167c452484ab9449b55cefb2a9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a70cfd8185cc03e555d74c91c6836424') in 0.022750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Fish.prefab
+  artifactKey: Guid(c4bdbaed28613374b8e9aea54c868fda) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Fish.prefab using Guid(c4bdbaed28613374b8e9aea54c868fda) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe5635642e9da502277d77f28b2c974a') in 0.022250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Dead_Bush_1.prefab
+  artifactKey: Guid(1cee0e8f64ae4674fb4077c9749fca8e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Dead_Bush_1.prefab using Guid(1cee0e8f64ae4674fb4077c9749fca8e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3b9d280ade84407112efe6dbafef66cf') in 0.020942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bottle_2.prefab
+  artifactKey: Guid(b54a50f61002ad946be4c695bda3b0bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bottle_2.prefab using Guid(b54a50f61002ad946be4c695bda3b0bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e71f7f967f87c393a0abf185b8d6f02a') in 0.023012 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Knife.prefab
+  artifactKey: Guid(57dd35e693168094ea365dd4df5b49ac) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Knife.prefab using Guid(57dd35e693168094ea365dd4df5b49ac) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2426ffb43bbb900a89149b6541b64b0e') in 0.019162 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Fork.prefab
+  artifactKey: Guid(658d606e48d204748b6b0a9345eecef8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Fork.prefab using Guid(658d606e48d204748b6b0a9345eecef8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fca034877454960060dc98a7aef3873c') in 0.025222 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Box_2.prefab
+  artifactKey: Guid(0ac25131bb3acc948a7ce4bb4c5077f1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Box_2.prefab using Guid(0ac25131bb3acc948a7ce4bb4c5077f1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '03ff54a714f950158082cbe5ff00429d') in 0.024064 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fern_2.prefab
+  artifactKey: Guid(2486b78c40f9dd64b9beca44ec6ed305) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fern_2.prefab using Guid(2486b78c40f9dd64b9beca44ec6ed305) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '880673baf5cc2310a40e54a1bb616d15') in 0.020427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Cup.prefab
+  artifactKey: Guid(7eb7ad86c45336a438a0b8140d0911ca) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Cup.prefab using Guid(7eb7ad86c45336a438a0b8140d0911ca) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f06a09c34098e75c849f402152b752d6') in 0.021975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Meat.prefab
+  artifactKey: Guid(04b5b53e02a9d9e46830091bbb197ee9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Meat.prefab using Guid(04b5b53e02a9d9e46830091bbb197ee9) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7df8cf3b91aeb5759bafeec6b51615b6') in 0.021847 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bucket.prefab
+  artifactKey: Guid(70d72f7ecf1865f42b620acb998dc92f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bucket.prefab using Guid(70d72f7ecf1865f42b620acb998dc92f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bdd0635c23539886d5780d2021968fe0') in 0.033389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_2.prefab
+  artifactKey: Guid(8b00fe718f6724246a1ce539ed28c6fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_2.prefab using Guid(8b00fe718f6724246a1ce539ed28c6fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '705787da438229bde9db6ad38c94cf9f') in 0.026750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Arrow.prefab
+  artifactKey: Guid(cc435fc0e1fab774597f0ec418c6a321) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Arrow.prefab using Guid(cc435fc0e1fab774597f0ec418c6a321) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dc5d9786d94f2adcdf4f58966bb825f2') in 0.043110 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Sword.prefab
+  artifactKey: Guid(26fdbf515d9ead940bf83aee2997cc04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Sword.prefab using Guid(26fdbf515d9ead940bf83aee2997cc04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f487f1c1296fc6d70843d17b4a5f8251') in 0.020391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Sword.prefab
+  artifactKey: Guid(fd2e6a2dddf498e4a804b2e7cd8acd4c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Sword.prefab using Guid(fd2e6a2dddf498e4a804b2e7cd8acd4c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '405cc1af36472aa88d5e66b8f2338bb8') in 0.026309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_1.prefab
+  artifactKey: Guid(7d975aa620250e74c86e071ff1544174) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_1.prefab using Guid(7d975aa620250e74c86e071ff1544174) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bf05c95de0608e193bb0f4903ed88630') in 0.025288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Quiver.prefab
+  artifactKey: Guid(34523d3f8844b85478315639cd0e229d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Quiver.prefab using Guid(34523d3f8844b85478315639cd0e229d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4fd4f450b7e54abf4f386bd39e40a464') in 0.028733 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Box_1.prefab
+  artifactKey: Guid(5863beed18fcd1443a521ba94a2091bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Box_1.prefab using Guid(5863beed18fcd1443a521ba94a2091bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a2433e91f9eb3e78b1745e5c2cb732ad') in 0.018528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Axe.prefab
+  artifactKey: Guid(a551a67d1a8add34f995e4c90d754eec) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Axe.prefab using Guid(a551a67d1a8add34f995e4c90d754eec) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1e3cae291a9d7aed9026d32049cfb070') in 0.023056 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Pot.prefab
+  artifactKey: Guid(1682ff570d8098d41aed096ded8a4719) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Pot.prefab using Guid(1682ff570d8098d41aed096ded8a4719) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '71606805504d7c58f6e32577f31a083e') in 0.021459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Spoon.prefab
+  artifactKey: Guid(b874c6f00d6e2bf46aadc26905661801) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Spoon.prefab using Guid(b874c6f00d6e2bf46aadc26905661801) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e3bf6c3868a66b66379a20de20af781b') in 0.025068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bread.prefab
+  artifactKey: Guid(64caf32811b724b4b8e94607419c48be) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props (Interactable)/Bread.prefab using Guid(64caf32811b724b4b8e94607419c48be) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3510388ebfc11b330e31b434414c427f') in 0.021699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Quiver.prefab
+  artifactKey: Guid(0288277be26f66d479ac7cdb55ca06ed) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp Props/Quiver.prefab using Guid(0288277be26f66d479ac7cdb55ca06ed) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ed3eca58be0810db97bb5454e7f87c4f') in 0.022668 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Gold_2.prefab
+  artifactKey: Guid(775223507430a794495d2ba0db556c6d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Gold_2.prefab using Guid(775223507430a794495d2ba0db556c6d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ee7776cbb864c51b9da1f4fdd5cc4e5a') in 0.019343 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Camp/Onion.fbx
+  artifactKey: Guid(f68f30bd3c1568c48b924ed1704e41aa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Camp/Onion.fbx using Guid(f68f30bd3c1568c48b924ed1704e41aa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ca4c630c2ea25dbe8da58994214bfa09') in 0.022615 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Custom Colliders/Table_2_Collider.fbx
+  artifactKey: Guid(7d8c27fdd4de90a4ea044058ffd4453f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Custom Colliders/Table_2_Collider.fbx using Guid(7d8c27fdd4de90a4ea044058ffd4453f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '54bf51896ae6041a519c7b2c793ee841') in 0.025938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Branches_2.prefab
+  artifactKey: Guid(58b8965426ec1074181409926efee1af) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Branches_2.prefab using Guid(58b8965426ec1074181409926efee1af) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7daa7c648d9d11de4286812eef354770') in 0.021250 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Green/Pref_Crystal_Small_09.prefab
+  artifactKey: Guid(4ea515fa74904914284490f8ba72cdaa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Green/Pref_Crystal_Small_09.prefab using Guid(4ea515fa74904914284490f8ba72cdaa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7bd2971828a8a4f6e9406c7e7bb238d7') in 0.015637 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Custom Colliders/Fir_Tall_2_Collider.fbx
+  artifactKey: Guid(2dbef3a70bc083341a32e99029fd5d69) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Custom Colliders/Fir_Tall_2_Collider.fbx using Guid(2dbef3a70bc083341a32e99029fd5d69) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bd58e0ad81b9266b6763a2cee3790fae') in 0.019952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Boiler.prefab
+  artifactKey: Guid(a25f84c53c7e5974793fdc9b7faf534a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Boiler.prefab using Guid(a25f84c53c7e5974793fdc9b7faf534a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6c8e7d4f2d7076c8addda5a08143011d') in 0.023059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Table_2.prefab
+  artifactKey: Guid(0fb638f93407d6442ac14f6325e7ef35) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Camp/Table_2.prefab using Guid(0fb638f93407d6442ac14f6325e7ef35) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2781bbe7b65c8ec42645cc4c56db9dc4') in 0.019573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Book_3.fbx
+  artifactKey: Guid(549bac9dad2d5ca4da2b7bd4feacfc2b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Witches House/Book_3.fbx using Guid(549bac9dad2d5ca4da2b7bd4feacfc2b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '261292a13e81a1242d19fefd1ad87949') in 0.024930 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Flower_1.fbx
+  artifactKey: Guid(4be088b8d3e898047a4a05f91091d76f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Flower_1.fbx using Guid(4be088b8d3e898047a4a05f91091d76f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '83e06ddce4bdb69fda64de261e3b08bd') in 0.022728 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Mushroom_2.fbx
+  artifactKey: Guid(ded280e66d2103243b6dfb72c41d30ec) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Meshes/Forest/Mushroom_2.fbx using Guid(ded280e66d2103243b6dfb72c41d30ec) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0e6b6ef1b2af1f3b65fcf27a27dcade8') in 0.021893 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Fairy/Pref_Crystal_Large_02.prefab
+  artifactKey: Guid(c082ba4a56d9a5844ba7cc1ae3f58a04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Fairy/Pref_Crystal_Large_02.prefab using Guid(c082ba4a56d9a5844ba7cc1ae3f58a04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '34fc5ee7ea8aece21166d46abfcdedd9') in 0.018743 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Mushroom Large Green/Pref_Mushroom_Middle_11.prefab
+  artifactKey: Guid(0de64771dcda59d43b7ec5babb23989e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Mushroom Large Green/Pref_Mushroom_Middle_11.prefab using Guid(0de64771dcda59d43b7ec5babb23989e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '12a9ed231ca164956cc2ff61b82e0579') in 0.018400 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/ReflectionProbe-0.exr
+  artifactKey: Guid(fa51d6a409143394e8b5f794ffead341) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/ReflectionProbe-0.exr using Guid(fa51d6a409143394e8b5f794ffead341) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe612669a5b2fd5d297ddd4cf6fc9774') in 0.019016 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Small_1A2.prefab
+  artifactKey: Guid(10795313b14e7ee4394eb290d0f04c5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Scaffolding_Small_1A2.prefab using Guid(10795313b14e7ee4394eb290d0f04c5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2f049a3e79f2f711092bd2a46346e8b4') in 0.028442 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Purple/Pref_Crystal_Medium_03.prefab
+  artifactKey: Guid(8b31387ec3d60ec429d7efd743677898) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Purple/Pref_Crystal_Medium_03.prefab using Guid(8b31387ec3d60ec429d7efd743677898) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '267567d17c1b5acaf1cf3b2c70a2944d') in 0.020029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_01.prefab
+  artifactKey: Guid(9cdf5b916800d51499c8d392b64f9c49) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Cave Scatter/Pref_Scatter_Obsidian_01.prefab using Guid(9cdf5b916800d51499c8d392b64f9c49) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e2390d65ce12520b4e46fd6c36eabc4b') in 0.017840 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Fenced_Box_1A2.prefab
+  artifactKey: Guid(8fd8b40ca50447248bbc5fe1bb29b01a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Fenced_Box_1A2.prefab using Guid(8fd8b40ca50447248bbc5fe1bb29b01a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ccc9fb7a3b98c45ffd85b2d59aa6899e') in 0.029667 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Demo/Settings/Highlands Universal Render Pipeline Asset.asset
+  artifactKey: Guid(b8021ec7c3f3fec4a91e221d927f5415) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Demo/Settings/Highlands Universal Render Pipeline Asset.asset using Guid(b8021ec7c3f3fec4a91e221d927f5415) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b3cbb31d21a5e828fbe38ae6969bc0fd') in 0.031620 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Red/Pref_Crystal_Medium_02.prefab
+  artifactKey: Guid(b1548af70461dd748b412a662319f6d0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Red/Pref_Crystal_Medium_02.prefab using Guid(b1548af70461dd748b412a662319f6d0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8192d95257354426b9651d027ed1a43e') in 0.018345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Fire/Pref_Crystal_Small_02.prefab
+  artifactKey: Guid(2948a482eb1d1d849b06d14627ca0ead) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Fire/Pref_Crystal_Small_02.prefab using Guid(2948a482eb1d1d849b06d14627ca0ead) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '72f80a05e293507f7c341fada10606b1') in 0.017967 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Fence_Boards_1A2.prefab
+  artifactKey: Guid(3fde4a4284517524f93856efef1e1033) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/Prefabs/Wood, Scaffolding/Fence_Boards_1A2.prefab using Guid(3fde4a4284517524f93856efef1e1033) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5272970ddff4a744dff2b2f279aa462a') in 0.022233 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Cave Scatter Pack/Prefabs/Crystal Fire/Pref_Crystal_Medium_02.prefab
+  artifactKey: Guid(3bc1ea30aabd7ae4c8a1447576dfdf69) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Prefabs/Crystal Fire/Pref_Crystal_Medium_02.prefab using Guid(3bc1ea30aabd7ae4c8a1447576dfdf69) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c6833baea28e36d73f3e87167c97b30c') in 0.017960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Stone_Stairs_1B2.prefab
+  artifactKey: Guid(fa57790de7025e747b33fcc2c9c0e957) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Stone_Stairs_1B2.prefab using Guid(fa57790de7025e747b33fcc2c9c0e957) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'af4d95cf9c23bd3489ffc193adb840ab') in 0.023571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Cave Scatter Pack/Scene Utilities/Sky_HDR.mat
+  artifactKey: Guid(0781d7ed292d33d4b958c06445c400bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Cave Scatter Pack/Scene Utilities/Sky_HDR.mat using Guid(0781d7ed292d33d4b958c06445c400bf) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cb3b74bbb247fd3a500170872e445a82') in 0.012092 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Scroll_2.prefab
+  artifactKey: Guid(d7b10d08bf0cb31469c47a5d49536a35) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Scroll_2.prefab using Guid(d7b10d08bf0cb31469c47a5d49536a35) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c5c85a77ecab9551aa5a03a5d51d5785') in 0.018367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_MetallicSmoothness.png
+  artifactKey: Guid(c6d631b640b4e8842915d12e2848ec5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_MetallicSmoothness.png using Guid(c6d631b640b4e8842915d12e2848ec5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8a33469b7c7590e6f0f3da17b0731c4a') in 0.018459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Stand.prefab
+  artifactKey: Guid(1902c46b7e945284c909edf73c78e3ed) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Stand.prefab using Guid(1902c46b7e945284c909edf73c78e3ed) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '72cd3a5b78bdde3cd12d783ee0982f27') in 0.016984 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Shelf.prefab
+  artifactKey: Guid(b4a63df7e1834454f965fd3634104df8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Shelf.prefab using Guid(b4a63df7e1834454f965fd3634104df8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e169f8237f2368f40f6d42e7feb39c86') in 0.018417 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Books_1.prefab
+  artifactKey: Guid(a291b0af416d37b499b55e6aa88e5e6e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Books_1.prefab using Guid(a291b0af416d37b499b55e6aa88e5e6e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd13c975c8b867a7881e32ca4cc124809') in 0.019881 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Mortar_And_Pestle.prefab
+  artifactKey: Guid(e0ca6d96b2352b34db56b2f319d54a67) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Mortar_And_Pestle.prefab using Guid(e0ca6d96b2352b34db56b2f319d54a67) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'add45f4b315f7ca8082f5f35a7621bec') in 0.022833 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Table.prefab
+  artifactKey: Guid(473547bf95be29f4f8e5bedfbd95c1ae) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Table.prefab using Guid(473547bf95be29f4f8e5bedfbd95c1ae) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '00728b3777d3f9459c84d303aac2eb83') in 0.019464 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Flask_5.prefab
+  artifactKey: Guid(ca5fa106c9c984c46abb3a996e4e2acc) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Flask_5.prefab using Guid(ca5fa106c9c984c46abb3a996e4e2acc) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec5698a11f8ef850b973874ebbadf7b3') in 0.021353 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Mountains/Mountain_1.prefab
+  artifactKey: Guid(eb83d5fc0ef6b3649b37132a43709220) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Mountains/Mountain_1.prefab using Guid(eb83d5fc0ef6b3649b37132a43709220) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '130fea12cdbd9a1c06738ae916362c73') in 0.016719 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stump_2.prefab
+  artifactKey: Guid(b398b57820760bb4eac3bc6d816785b2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stump_2.prefab using Guid(b398b57820760bb4eac3bc6d816785b2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'daf623f893b05ce9ab83ba1b0b4fb9d2') in 0.022367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Bone_2.prefab
+  artifactKey: Guid(d7bcb3a4f74aaf544a19370271562c10) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Bone_2.prefab using Guid(d7bcb3a4f74aaf544a19370271562c10) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '670961f39eaa6a390be2f0c3001505dd') in 0.022499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Mushroom_1.prefab
+  artifactKey: Guid(e23a272b6404b4e4cb8bbaebf99cbca7) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Mushroom_1.prefab using Guid(e23a272b6404b4e4cb8bbaebf99cbca7) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2c0d6f1e1da761142d57b1f6638d4fdd') in 0.026020 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_Normal.png
+  artifactKey: Guid(4ad4d682fcafca143bf13b63c87c1426) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_Normal.png using Guid(4ad4d682fcafca143bf13b63c87c1426) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '41a48524c934f2d852b0761bb67f8461') in 0.018472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_4.prefab
+  artifactKey: Guid(fb013e4d50b40e94cb2a123be56ce716) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_4.prefab using Guid(fb013e4d50b40e94cb2a123be56ce716) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'efbd096af8547ffc700e9912aa67aade') in 0.020926 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/Birds.prefab
+  artifactKey: Guid(e68549bed024cba44b8d7809fbffd963) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/Birds.prefab using Guid(e68549bed024cba44b8d7809fbffd963) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6d21ef4c75927087154bf6438fe23d65') in 0.117333 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Tall_3.prefab
+  artifactKey: Guid(2c0b684abc2775f40a28ec636c59d079) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Tall_3.prefab using Guid(2c0b684abc2775f40a28ec636c59d079) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9361c714730adff7690b2c3f3e25b197') in 0.022478 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Flask_3.prefab
+  artifactKey: Guid(60cd8f79631b96844909111da5f8939e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Flask_3.prefab using Guid(60cd8f79631b96844909111da5f8939e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2dcb17ffb2b5adc664aacddd7a07cc4c') in 0.019365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Scroll_1.prefab
+  artifactKey: Guid(4e72a810484a99a4297fd1b873dab025) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Scroll_1.prefab using Guid(4e72a810484a99a4297fd1b873dab025) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '78ef9a41cf77e2adbbe5f3bdd07e2689') in 0.018488 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushroom_2.prefab
+  artifactKey: Guid(d8433626b12d8974cbb940b3436e12dd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushroom_2.prefab using Guid(d8433626b12d8974cbb940b3436e12dd) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5f4bea44d6729db8209e6e7f12f40cc6') in 0.017558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/Fog.prefab
+  artifactKey: Guid(e846f277b7995a34fbc420aaead1d9ce) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/Fog.prefab using Guid(e846f277b7995a34fbc420aaead1d9ce) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '803bb71a23d10db6aa96efe9d69f3a65') in 0.106093 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_2(Grass).prefab
+  artifactKey: Guid(b4dabbab59e276644bd5fe1038367344) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_2(Grass).prefab using Guid(b4dabbab59e276644bd5fe1038367344) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49748ab61420035b0c38e98e70995edd') in 0.017939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Dead_2.prefab
+  artifactKey: Guid(75f76e75e07e352439fc1f1c4803133d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Dead_2.prefab using Guid(75f76e75e07e352439fc1f1c4803133d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6db3a7c87625cc78084a57a8df18a8c4') in 0.021472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Fence_2.prefab
+  artifactKey: Guid(c16ae3c9ba4e5594fbb6388f7f92030c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Fence_2.prefab using Guid(c16ae3c9ba4e5594fbb6388f7f92030c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6e6bc63a40559ac4356cc79d9481a160') in 0.020152 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_AlbedoTransparency.png
+  artifactKey: Guid(6e453e1945ab0414281ca9425b1445b1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Bag_AlbedoTransparency.png using Guid(6e453e1945ab0414281ca9425b1445b1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4e342c0869f9ff867473f9ba08430607') in 0.018306 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_1(Grass).prefab
+  artifactKey: Guid(6dcbe6917d35deb4ab0325d8c61cf95b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_1(Grass).prefab using Guid(6dcbe6917d35deb4ab0325d8c61cf95b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'cbd19dc0cfbc68ee335b59d9d8bdcde1') in 0.020684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House.prefab
+  artifactKey: Guid(78770e97e37fac245953fb2a4d605e3f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House.prefab using Guid(78770e97e37fac245953fb2a4d605e3f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '99ba99e4d8af3e1b5a0f37a55fa30dd6') in 0.047475 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_1.prefab
+  artifactKey: Guid(2f1f1a99a03849746adb662fa05676c2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_1.prefab using Guid(2f1f1a99a03849746adb662fa05676c2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'eb73c1fa62e058a63036943ed04d5bce') in 0.017687 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_2(Grass).prefab
+  artifactKey: Guid(8c90b79c1f594184cb689fcb7dffa13a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_2(Grass).prefab using Guid(8c90b79c1f594184cb689fcb7dffa13a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e04c3b7d355a6c73fb408a6d9ce731f1') in 0.020181 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Book.prefab
+  artifactKey: Guid(dff861242c762ec4ab98dbfcfa1d140a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Book.prefab using Guid(dff861242c762ec4ab98dbfcfa1d140a) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49a8abadcd334af4e78fc59b27fb4149') in 0.023553 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Boiler_Cover.prefab
+  artifactKey: Guid(5efa324036cb7674f9ebcd6a39a5c1b3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Boiler_Cover.prefab using Guid(5efa324036cb7674f9ebcd6a39a5c1b3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49a13f83b219feaf1a156ba9804c5aa6') in 0.026273 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushroom_1.prefab
+  artifactKey: Guid(ca0ed3edfca05e745a45a7e13e82f075) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushroom_1.prefab using Guid(ca0ed3edfca05e745a45a7e13e82f075) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '614ac798bcbadb6b36c725fbfb000e07') in 0.020153 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_4.prefab
+  artifactKey: Guid(2bdba0d2cfc89924491dd44826759183) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_4.prefab using Guid(2bdba0d2cfc89924491dd44826759183) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2a86cf61cfbf6f7c5df92d4850093f5b') in 0.020049 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_1(Grass).prefab
+  artifactKey: Guid(31898a4bd42ea28409e84c71ef9dcfd5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_1(Grass).prefab using Guid(31898a4bd42ea28409e84c71ef9dcfd5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '592de5f8b0dd9b299c2de83c355a4c45') in 0.021251 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_3.prefab
+  artifactKey: Guid(bd51f5f316382da4994ddc1c6efe00e5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_3.prefab using Guid(bd51f5f316382da4994ddc1c6efe00e5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fbcf32ea431b1191acea3228eafe6657') in 0.018742 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Lamp.prefab
+  artifactKey: Guid(be402a00756742b408e5e53d0a8b5a5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Lamp.prefab using Guid(be402a00756742b408e5e53d0a8b5a5e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd368e571b00c891f5335fe86bd720fd1') in 0.083198 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House_Stairs.prefab
+  artifactKey: Guid(b49e405fb583ec5419e9483852228897) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House_Stairs.prefab using Guid(b49e405fb583ec5419e9483852228897) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b48cc136c444deb261e0620f6df66083') in 0.018142 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Bone_1.prefab
+  artifactKey: Guid(8c4001c1e124c6b4287914f5fc05863f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props (Interactable)/Bone_1.prefab using Guid(8c4001c1e124c6b4287914f5fc05863f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c1e994a92426bdfb6fbcbbc02863c3fd') in 0.023750 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Mushroom_3.prefab
+  artifactKey: Guid(56bb1fdabe634b14887ecea3882087a6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House Props/Mushroom_3.prefab using Guid(56bb1fdabe634b14887ecea3882087a6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'edc0f327635efca81d3fc6061ad1894f') in 0.017561 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_1.prefab
+  artifactKey: Guid(a7d95df6a1559f6479ca6d6e18bccfc1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_1.prefab using Guid(a7d95df6a1559f6479ca6d6e18bccfc1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '709555992817dc698ff7b89ebe79a10f') in 0.017189 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_AlbedoTransparency.png
+  artifactKey: Guid(c7d371ef4edb73340a228f7429ce601e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_AlbedoTransparency.png using Guid(c7d371ef4edb73340a228f7429ce601e) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a94a553ad72d1d943d8dd436901fba09') in 0.020638 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Chair.prefab
+  artifactKey: Guid(42518d73635baef438cb951b04bceb86) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Chair.prefab using Guid(42518d73635baef438cb951b04bceb86) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c2d1cf102e8db8c3269f96ec7a43ee4a') in 0.020252 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House_Door.prefab
+  artifactKey: Guid(8e3be80bd5d469c4e9c99f0e63361066) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/House_Door.prefab using Guid(8e3be80bd5d469c4e9c99f0e63361066) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9a8f2d202f9d50e04b49d9ae0b6b0336') in 0.025337 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_2.prefab
+  artifactKey: Guid(7a56db3bdcec604409171c917c2a0052) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Rock_2.prefab using Guid(7a56db3bdcec604409171c917c2a0052) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f28b17f80a6f05c2a0d94e343bf6ed66') in 0.018015 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/StonesRocks_Normal.png
+  artifactKey: Guid(5788985df048a7344a7b3584587bca04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/StonesRocks_Normal.png using Guid(5788985df048a7344a7b3584587bca04) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a6daa54c7ee05ed7891a67d852a2d84b') in 0.019995 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/FX/Smoke.png
+  artifactKey: Guid(e377543f29a2e3846b6a9ee32a68fe5c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/FX/Smoke.png using Guid(e377543f29a2e3846b6a9ee32a68fe5c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b659e0560abcd80a72fb034b89628090') in 0.020103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Albedo.png
+  artifactKey: Guid(2749470a5db6aa2429f3501f1effe7a0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Albedo.png using Guid(2749470a5db6aa2429f3501f1effe7a0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd6e11e93dba90e88e8dc168c32bf96d6') in 0.018111 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_3_Normal.PNG
+  artifactKey: Guid(0a5674331dc3f41459ee804ba7cdf0c5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_3_Normal.PNG using Guid(0a5674331dc3f41459ee804ba7cdf0c5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ea6e52452f0ca71a4fb5df01ffd0db1c') in 0.023769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_1_Albedo.png
+  artifactKey: Guid(07a6a70a7384a1d408f28685f74f69de) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_1_Albedo.png using Guid(07a6a70a7384a1d408f28685f74f69de) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe356269636601040fdd8a4499b517fa') in 0.019191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Weapon_Albedo.png
+  artifactKey: Guid(fb51379c3e6e1b94198e3ba21692a1ef) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Weapon_Albedo.png using Guid(fb51379c3e6e1b94198e3ba21692a1ef) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c0b935d461219f5282fe44445d43a99a') in 0.019512 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Moss_Normal.png
+  artifactKey: Guid(a050c74b858db0845a90f393385999d1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Moss_Normal.png using Guid(a050c74b858db0845a90f393385999d1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6df709f51faf553bbaab3198773641e5') in 0.022264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_MetallicSmoothness.png
+  artifactKey: Guid(f6ce6e8121585b14db9a3f0e2b49c0e3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_MetallicSmoothness.png using Guid(f6ce6e8121585b14db9a3f0e2b49c0e3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '43ca44f4b50f540321b05b54509796a5') in 0.021384 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/FX/Birds.png
+  artifactKey: Guid(dcf7d4ba31e13c2438a6b9222f2fee77) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/FX/Birds.png using Guid(dcf7d4ba31e13c2438a6b9222f2fee77) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a3083fe96ad86560d8bd89ccf2b2e651') in 0.023269 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Log_MetallicSmoothness.png
+  artifactKey: Guid(b72b8b454c624734e9312cc32c967a78) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Log_MetallicSmoothness.png using Guid(b72b8b454c624734e9312cc32c967a78) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e0e4834e94bda10ca0200fd7fe5c151') in 0.028781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Boiler_Bonfire_Normal.png
+  artifactKey: Guid(d8ef72a19547bba419357fdd87cff4e8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Boiler_Bonfire_Normal.png using Guid(d8ef72a19547bba419357fdd87cff4e8) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '13ee5b41cae27969f277c9951d7774fd') in 0.028819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Cart_Normal.png
+  artifactKey: Guid(3fb4a76dd3aef3a44b1b39efc69d5f84) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Cart_Normal.png using Guid(3fb4a76dd3aef3a44b1b39efc69d5f84) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2f1aa7142e4f0ca9a34537443315a5e3') in 0.039430 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_MetallicSmoothness.png
+  artifactKey: Guid(a7e3544f9c8c2ae4a83a30cf5a9d15ac) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_MetallicSmoothness.png using Guid(a7e3544f9c8c2ae4a83a30cf5a9d15ac) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b2ec8332aab523cc5d20f4185d29314c') in 0.018587 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_1_Normal.PNG
+  artifactKey: Guid(45577e093d5c840419b36c5502bff95f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_1_Normal.PNG using Guid(45577e093d5c840419b36c5502bff95f) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9fc1a3ec08796e452d31aa2d0c2438d9') in 0.020266 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_Normal.png
+  artifactKey: Guid(75b0271b53f64d548bd072e42409b944) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Barrel_Normal.png using Guid(75b0271b53f64d548bd072e42409b944) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '198ebfc4381c969df6c04cdce7419110') in 0.018659 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_3_4_Albedo.png
+  artifactKey: Guid(a5db2e47bb02ab54c89069dc3ca6a6c0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_3_4_Albedo.png using Guid(a5db2e47bb02ab54c89069dc3ca6a6c0) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0bcd0eca627ca697d445f055e0a0cb94') in 0.018278 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_2_Normal.PNG
+  artifactKey: Guid(7a78d858cff46d44da2702c1b3357112) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Mountains/Mountain_2_Normal.PNG using Guid(7a78d858cff46d44da2702c1b3357112) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e80c4323b91f2d9bc728de7972e1f98a') in 0.019702 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bark_Albedo.png
+  artifactKey: Guid(6a900d677377db64c824e5ff2c2e6994) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bark_Albedo.png using Guid(6a900d677377db64c824e5ff2c2e6994) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6e2704f4f02b425fa7805225633fce6a') in 0.020703 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Log_Normal.png
+  artifactKey: Guid(50e30eb0e803e6549966dd5c9c6234db) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Log_Normal.png using Guid(50e30eb0e803e6549966dd5c9c6234db) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ffe504ed3988835f5e5c529bf1e7ad68') in 0.022591 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Cloud_Shadow_URP.png
+  artifactKey: Guid(471b4787027c71b40a2af4c73bbdc4d4) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Cloud_Shadow_URP.png using Guid(471b4787027c71b40a2af4c73bbdc4d4) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7a47cfecb4aa1023285388482c073d98') in 0.025236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Water_Normal.bmp
+  artifactKey: Guid(e9407124b3e65014cb8f7f3607d467fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Water_Normal.bmp using Guid(e9407124b3e65014cb8f7f3607d467fa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '828a3f94fef5dcff209f26f43c7ba420') in 0.020704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Moss_Albedo.png
+  artifactKey: Guid(23e13916fca698c41a77b6bac9959ad5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Moss_Albedo.png using Guid(23e13916fca698c41a77b6bac9959ad5) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '667d28352c4935eb99a1bf97747b17d1') in 0.024924 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Terrain/Grass_1_AlbedoSmoothness.png
+  artifactKey: Guid(dfd4b1d9e2f80464eb14a14b76c4c504) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Terrain/Grass_1_AlbedoSmoothness.png using Guid(dfd4b1d9e2f80464eb14a14b76c4c504) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f697e077bde4214d132dfe67a00ad621') in 0.025515 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/MushroomsFlowers_Normal.png
+  artifactKey: Guid(9d15cbad498cb0243845de2099358c40) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/MushroomsFlowers_Normal.png using Guid(9d15cbad498cb0243845de2099358c40) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50bca28ebd2e2ce8050b710674bf9769') in 0.022080 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bush_Leafs.png
+  artifactKey: Guid(230781886057c5b4e9aaae22def4b437) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bush_Leafs.png using Guid(230781886057c5b4e9aaae22def4b437) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7c8a1b1d8251af74187306677fa18325') in 0.018676 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Grass_2.png
+  artifactKey: Guid(55722177a9e26114c9df16c3af5aedaa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Grass_2.png using Guid(55722177a9e26114c9df16c3af5aedaa) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7489023154f9bd19e0ec8fc90de243e7') in 0.017778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_Albedo.png
+  artifactKey: Guid(661a84778b071d6409ad65ae0771d751) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_Albedo.png using Guid(661a84778b071d6409ad65ae0771d751) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bbe60bbdddf80369bd57a0e6e175e396') in 0.018981 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Dishes_Normal.png
+  artifactKey: Guid(7417dd33b05bd294281baa21ba81f61d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Dishes_Normal.png using Guid(7417dd33b05bd294281baa21ba81f61d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ea63a5828a2e9ec482ca2b2842e68f3c') in 0.017186 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_Normal.png
+  artifactKey: Guid(abfc917e03b6afa4186d3c5aa7e1620b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_Normal.png using Guid(abfc917e03b6afa4186d3c5aa7e1620b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '253bd5afd54e4582ee0f2747b312f1e4') in 0.020336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Cloud_Shadow.png
+  artifactKey: Guid(cc4186679441c2f4a851ada7fcd7a751) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Cloud_Shadow.png using Guid(cc4186679441c2f4a851ada7fcd7a751) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '860294f7465bd8ed54e48faa3a95d1a3') in 0.022344 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_2_Albedo.png
+  artifactKey: Guid(5759286c0a45ea74f8f69cbdea766469) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_2_Albedo.png using Guid(5759286c0a45ea74f8f69cbdea766469) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fbc0a807db93d5ad34e95ca69187cdf2') in 0.022562 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_3_4_MetallicSmoothness.png
+  artifactKey: Guid(6945f73f1c5b4c64097b6e716576e2ef) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_3_4_MetallicSmoothness.png using Guid(6945f73f1c5b4c64097b6e716576e2ef) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f413b15375027ff54cb45e3a26c6eb4f') in 0.019606 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/FernBranchSmothness.png
+  artifactKey: Guid(77db51ddc5b56af43a2f94da72506339) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/FernBranchSmothness.png using Guid(77db51ddc5b56af43a2f94da72506339) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c15200f2fe287c5df505d4bd70f7f60e') in 0.018037 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Box_MetallicSmoothness.png
+  artifactKey: Guid(75b5f8e00b787f049b737bf12b65dbb2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Box_MetallicSmoothness.png using Guid(75b5f8e00b787f049b737bf12b65dbb2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7ecce1191c67e4a8ef9468f6cf63d900') in 0.017029 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Chest_Normal.png
+  artifactKey: Guid(64672491eb94ddd458f9bf9798814670) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Chest_Normal.png using Guid(64672491eb94ddd458f9bf9798814670) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c29ac033e912e86d69240ddf6e03962a') in 0.018799 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_1_Albedo.png
+  artifactKey: Guid(f027e578e1641b24d9a09ab39165d621) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_1_Albedo.png using Guid(f027e578e1641b24d9a09ab39165d621) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bd7d9ce970fb7d51085d56e84079936b') in 0.020778 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_2.prefab
+  artifactKey: Guid(be7f438a72bd95748940ba65230b4f08) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Mushrooms_2.prefab using Guid(be7f438a72bd95748940ba65230b4f08) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '44576c1be68b6f0d6236a8980c3f2f9d') in 0.017003 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_2.prefab
+  artifactKey: Guid(c2374b37e98aa8d44b879f9f38d88474) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Stone_2.prefab using Guid(c2374b37e98aa8d44b879f9f38d88474) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6bae7e91b28bd3d27aa770a18cf2030b') in 0.018197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Mountains/Mountain_2.prefab
+  artifactKey: Guid(233830ccb83c8824c900e9078f565d21) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Mountains/Mountain_2.prefab using Guid(233830ccb83c8824c900e9078f565d21) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '63d9af61eb41ab5a0c5cecc631de6a77') in 0.016494 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Books_2.prefab
+  artifactKey: Guid(bb91fc3dbd8d03e4cbadfbb6f5dee7ff) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Witches House/Books_2.prefab using Guid(bb91fc3dbd8d03e4cbadfbb6f5dee7ff) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '38f97d3427f2c818f155ef579e6d7aa6') in 0.020341 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/GodRays.prefab
+  artifactKey: Guid(1db3c35651e532a45a71fb6d2b2db427) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/FX/GodRays.prefab using Guid(1db3c35651e532a45a71fb6d2b2db427) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '76bed2440196ee2618c4f19675df3aec') in 0.106554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_MetallicSmoothness.png
+  artifactKey: Guid(3d12f866d06dbe64e96b8194f9c66a2b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_MetallicSmoothness.png using Guid(3d12f866d06dbe64e96b8194f9c66a2b) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ea649c34971bfc74889ddafaafeadec') in 0.019998 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Tall_Dead_1.prefab
+  artifactKey: Guid(0d034eeb50615a44dad5b77f4b88630c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Prefabs/Forest/Fir_Tall_Dead_1.prefab using Guid(0d034eeb50615a44dad5b77f4b88630c) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '39991b3cbea2bb1309711c6a9d721a76') in 0.023558 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_Albedo.png
+  artifactKey: Guid(a5c81c2f046413a489d141c04b2a92e3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Table_Albedo.png using Guid(a5c81c2f046413a489d141c04b2a92e3) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fc49903488a0242b10e87410864a8ab3') in 0.018700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Logs_MetallicSmoothness.png
+  artifactKey: Guid(360312169377ebe42af2dcb7a6bf51e4) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Logs_MetallicSmoothness.png using Guid(360312169377ebe42af2dcb7a6bf51e4) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '083ef4be9f4d286f0281377a4dd8f62a') in 0.018928 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_2_MetallicSmoothness.png
+  artifactKey: Guid(41920f0f4c0c9c243a0f612bbc4eb2a1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Tent_2_MetallicSmoothness.png using Guid(41920f0f4c0c9c243a0f612bbc4eb2a1) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5c8e05203dbf8b445a1293469cbc0caa') in 0.021412 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Furniture_1_MetallicSmoothness.png
+  artifactKey: Guid(2b85584821ba8914f85ac9129d70c04d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Furniture_1_MetallicSmoothness.png using Guid(2b85584821ba8914f85ac9129d70c04d) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '50c601a248add13094c83ec15d28c6a6') in 0.019961 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Underwater/Assets/Materials/M_Seabed_0025.mat
+  artifactKey: Guid(92cfce53eeeac6046bd9c4b43a4aecb6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Underwater/Assets/Materials/M_Seabed_0025.mat using Guid(92cfce53eeeac6046bd9c4b43a4aecb6) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c6b5acf1d4d64084e1c5b323ae531cbe') in 0.024969 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Underwater/Assets/Materials/M_Seabed_0024.mat
+  artifactKey: Guid(5aa33a69041e6494891c7cf2d6dfbf33) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Underwater/Assets/Materials/M_Seabed_0024.mat using Guid(5aa33a69041e6494891c7cf2d6dfbf33) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '94c535b5bb5f4e021745800cdf0555bb') in 0.020415 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Underwater/Assets/Meshes/0012.FBX
+  artifactKey: Guid(8f48b481c9de4154c9aedc74b44d7327) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Underwater/Assets/Meshes/0012.FBX using Guid(8f48b481c9de4154c9aedc74b44d7327) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b7a6efd07792dc38a4caba5c56f79f4c') in 0.030938 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity
+  artifactKey: Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity using Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Opening scene 'Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity additively'
+Loaded scene 'Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity'
+	Deserialize:            207.986 ms
+	Integration:            1320.788 ms
+	Integration of assets:  3.129 ms
+	Thread Wait Time:       -0.041 ms
+	Total Operation Time:   1531.862 ms
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4355689a09430baf0de3ec89b21e347d') in 49.200478 seconds 
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.88 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 134 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 139 unused Assets / (11.4 MB). Loaded Objects now: 5710.
+Memory consumption went from 274.6 MB to 263.2 MB.
+Total: 21.751400 ms (FindLiveObjects: 0.869300 ms CreateObjectMapping: 0.185900 ms MarkObjects: 18.729000 ms  DeleteObjects: 1.965500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1.497419 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity
+  artifactKey: Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity using Guid(2c9d71b156bef6846b6ba8d4b2f01fc2) Importer(2089858483,c653a7c40615fbf8c82c05b109e42dfe) Opening scene 'Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity additively'
+Loaded scene 'Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo.unity'
+	Deserialize:            177.756 ms
+	Integration:            1711.179 ms
+	Integration of assets:  0.284 ms
+	Thread Wait Time:       -0.098 ms
+	Total Operation Time:   1889.121 ms
+Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2d05c6b6f20eab0943d99fdc9be2c846') in 46.821345 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 161.479723 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity
+  artifactKey: Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity using Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed6d196e2006ac7604806a759ec1030') in 0.009039 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 73.641264 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Materials/Caves_1A1.mat
+  artifactKey: Guid(956e8dec7b18ef1448229f0f6d24e755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Materials/Caves_1A1.mat using Guid(956e8dec7b18ef1448229f0f6d24e755) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdc36bcdec3842f7ad35ad64a64a788b') in 0.742373 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Aquarius_Stylized_Caves/FBX/Materials/Water_Plane_A.mat
+  artifactKey: Guid(a38bab60bdf2c2c4a9c8ea5efe239ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/FBX/Materials/Water_Plane_A.mat using Guid(a38bab60bdf2c2c4a9c8ea5efe239ad4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '032b18cf460c8fb9753d6bab23fabe38') in 0.265124 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 12.477466 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_AlbedoTransparency.png
+  artifactKey: Guid(64a4fc031c3fb524ba886e25f3019105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_AlbedoTransparency.png using Guid(64a4fc031c3fb524ba886e25f3019105) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cec5fa37e17618166ad44bd7fb3b32ea') in 0.033158 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_AO.png
+  artifactKey: Guid(3c0cacd4dfd649244a19e07e7c93203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_AO.png using Guid(3c0cacd4dfd649244a19e07e7c93203e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c261e5ef839905c7ecff049108fe39dc') in 0.016460 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 29.361543 seconds.
+  path: Assets/Underwater/Assets/Textures/Other/3DTexture_GroundSmoke.png
+  artifactKey: Guid(80eceedfbed74c04fa0d2ecf873d6c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Textures/Other/3DTexture_GroundSmoke.png using Guid(80eceedfbed74c04fa0d2ecf873d6c8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38d64fef88a4fbe55238326c1f8e9126') in 0.047068 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine.psd
+  artifactKey: Guid(0d9a36012a224080966c7b55896aa0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCapLine.psd using Guid(0d9a36012a224080966c7b55896aa0f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '956e09983076fb19e0d530768855f2dc') in 0.022791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Albedo.png
+  artifactKey: Guid(7b28547075e5e4343af9da70edd8d3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Branches_Albedo.png using Guid(7b28547075e5e4343af9da70edd8d3f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81abe0e4306e81e370bca3faa07b2291') in 0.014843 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/Resources/blue.png
+  artifactKey: Guid(33f32142c2c2d4662be5f5274db27158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/AssetEditor/Resources/blue.png using Guid(33f32142c2c2d4662be5f5274db27158) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61faa86b9671510435948d4fff3635ad') in 0.021947 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush.psd
+  artifactKey: Guid(691475c57a824010be0c6f474caeb7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignFlush.psd using Guid(691475c57a824010be0c6f474caeb7e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '826147f6402ee678e69a2962528b1f80') in 0.026770 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Boiler_Bonfire_Normal.png
+  artifactKey: Guid(d8ef72a19547bba419357fdd87cff4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Boiler_Bonfire_Normal.png using Guid(d8ef72a19547bba419357fdd87cff4e8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b8374da34893cc608aa03530c5c4c8d') in 0.019633 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Add Binding.png
+  artifactKey: Guid(958a10dec4f3a4764bb345b0aa03510b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Add Binding.png using Guid(958a10dec4f3a4764bb345b0aa03510b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46dbc8b6944ca3c94d38d4b043b3cca7') in 0.016359 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Box Barrel_MetallicSmoothness.png
+  artifactKey: Guid(9938f954bf45f7045a60f946dc90c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Box Barrel_MetallicSmoothness.png using Guid(9938f954bf45f7045a60f946dc90c4e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a07b56e0a487f9bb3648c49fe033ad9') in 0.015540 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Axis@3x.png
+  artifactKey: Guid(2e27a82b5cc4e4ef98cbef2d0b324aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Axis@3x.png using Guid(2e27a82b5cc4e4ef98cbef2d0b324aed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503e7fa77c2a2e7a1cbffb122358a713') in 0.018740 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Box_Albedo.png
+  artifactKey: Guid(3a009f839881eec4cb2ebff5513b3c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Box_Albedo.png using Guid(3a009f839881eec4cb2ebff5513b3c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f44eb41d2b01143e17832c405cc78483') in 0.015018 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Bezier_Mirrored.png
+  artifactKey: Guid(ef7e9b1becafe43e08ebc38b881ce60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Bezier_Mirrored.png using Guid(ef7e9b1becafe43e08ebc38b881ce60d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '567d8b057e0bc0a1b6cdd805f63322d8') in 0.017304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Arch_Albedo.png
+  artifactKey: Guid(2a811b4080e403c43bca70c50032bc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Arch_Albedo.png using Guid(2a811b4080e403c43bca70c50032bc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52568762c9e2cc00e522c02e3a6374df') in 0.020781 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_MetallicSmoothness.png
+  artifactKey: Guid(7433bb411c84c3b45b48e2b12bdf2b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_MetallicSmoothness.png using Guid(7433bb411c84c3b45b48e2b12bdf2b9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d53dd9d88b218db0163308857c9aac9') in 0.018348 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd
+  artifactKey: Guid(585b70cb75dd43efbfead809c30a1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom_Light.psd using Guid(585b70cb75dd43efbfead809c30a1731) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d200c88dde7c1b752ee53d22da23732') in 0.017299 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bark_Albedo.png
+  artifactKey: Guid(6a900d677377db64c824e5ff2c2e6994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Bark_Albedo.png using Guid(6a900d677377db64c824e5ff2c2e6994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06242bd6a2a30e0f94b55fbfe711c532') in 0.017072 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Book_Albedo.png
+  artifactKey: Guid(251e9ce7c80de5b48992b229432b42cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Book_Albedo.png using Guid(251e9ce7c80de5b48992b229432b42cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8dd165b57dd2227a124d6a8ac8b20ad2') in 0.018282 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd
+  artifactKey: Guid(12736c98af174f91827a26b66d2b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignLeft_Light.psd using Guid(12736c98af174f91827a26b66d2b01b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ad812edcb706ce2982bb9f7f45260d') in 0.018931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter.psd
+  artifactKey: Guid(81ed8c76d2bc4a4c95d092c98af4e58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignCenter.psd using Guid(81ed8c76d2bc4a4c95d092c98af4e58f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '835a1bad815a04cb83f7522a1d3e6267') in 0.016496 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Bezier_Free.png
+  artifactKey: Guid(da4df1da6f6124e98950375683b8fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Bezier_Free.png using Guid(da4df1da6f6124e98950375683b8fe1b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143c156497e9a620e96e370c67d2ffe6') in 0.018933 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Box Barrel_Albedo.png
+  artifactKey: Guid(ec67c1c7cfa4c76469e9b0317d7ac21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Box Barrel_Albedo.png using Guid(ec67c1c7cfa4c76469e9b0317d7ac21e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e39957a3b14cc4ef7873291dfe0b75e') in 0.015586 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/AltButton_Hover.png
+  artifactKey: Guid(d4f4647229a9f47a3b8739dad2c59db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/AltButton_Hover.png using Guid(d4f4647229a9f47a3b8739dad2c59db5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82c83e9a86c57d2ebc40a41b5a660446') in 0.018127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd
+  artifactKey: Guid(8bc445bb79654bf496c92d0407840a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine.psd using Guid(8bc445bb79654bf496c92d0407840a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbd767b5512c11811b7b212e05962df2') in 0.017864 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd
+  artifactKey: Guid(18775b51e3bd42299fd30bd036ea982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBaseLine_Light.psd using Guid(18775b51e3bd42299fd30bd036ea982f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5996742b09d4b790541ef5ea6cfdede4') in 0.016674 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/UVEditor/camera-64x64_Light.png
+  artifactKey: Guid(33945f703736c47498502b3fdb360955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/UVEditor/camera-64x64_Light.png using Guid(33945f703736c47498502b3fdb360955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7081c1ab5bdbe028d157f4f1cd7bb00a') in 0.016931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Bridge_MetallicSmoothness.png
+  artifactKey: Guid(2c6103bdb86145b49a342d7329301f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Bridge_MetallicSmoothness.png using Guid(2c6103bdb86145b49a342d7329301f75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a499d9ec1ebfaba0e28e4f1dbd7fcf6') in 0.018700 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Broadleaf_Bark_Normal.png
+  artifactKey: Guid(3042c270bffb86543822258e46e6e948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Broadleaf_Bark_Normal.png using Guid(3042c270bffb86543822258e46e6e948) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1976354e6fc2cdf7372cf9122e9b679b') in 0.015479 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_Albedo.png
+  artifactKey: Guid(2003265ce948fba41b02654a63f65930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Big_branches_Albedo.png using Guid(2003265ce948fba41b02654a63f65930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e3ea2aa5cbe9a8d33e8e25d00e72f7f') in 0.020441 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/FX/Birds.png
+  artifactKey: Guid(dcf7d4ba31e13c2438a6b9222f2fee77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/FX/Birds.png using Guid(dcf7d4ba31e13c2438a6b9222f2fee77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010fbceb3efc30d536af592969e3f8f4') in 0.010006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Arch_MetallicSmoothness.png
+  artifactKey: Guid(dd8f2a3b04acbd741b7612c9b7de00d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Arch_MetallicSmoothness.png using Guid(dd8f2a3b04acbd741b7612c9b7de00d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81c80d676a1a230c1bb9685487ba8bd0') in 0.018752 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Arch@2x.png
+  artifactKey: Guid(88a167cee1bb94744976dbe4929b3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Arch@2x.png using Guid(88a167cee1bb94744976dbe4929b3d70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034a09c702fa87d476a122e9c654f96b') in 0.018756 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd
+  artifactKey: Guid(fa6bd40a216346b783a4cce741d277a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignJustified_Light.psd using Guid(fa6bd40a216346b783a4cce741d277a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9f93e41e47c6c7bb640405b7c766d65') in 0.015391 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Add Binding@3x.png
+  artifactKey: Guid(8be1fbf4b24de44c99840805bdae9e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Add Binding@3x.png using Guid(8be1fbf4b24de44c99840805bdae9e40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40f05e6c8da48aab2b21a7123cc49d86') in 0.019491 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom.psd
+  artifactKey: Guid(ca51b19024094d1b87f3e07edb0a75fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.textmeshpro/Editor Resources/Textures/btn_AlignBottom.psd using Guid(ca51b19024094d1b87f3e07edb0a75fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30123178e6e4d564a306df834eedd99d') in 0.017169 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/AltButton_Normal.png
+  artifactKey: Guid(c175d9b0ccfa2428ea936c9c6b654bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/AltButton_Normal.png using Guid(c175d9b0ccfa2428ea936c9c6b654bd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf6bc4ffc7c603af2e515b12392147a7') in 0.018922 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1.550701 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Cart_Albedo.png
+  artifactKey: Guid(fc21b823502b21e4ca68be10f11fd8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Cart_Albedo.png using Guid(fc21b823502b21e4ca68be10f11fd8f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc2aa5f0ee5375f93383e8366a41c82d') in 0.025002 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_Normal.png
+  artifactKey: Guid(eff6ebf6ab275294db58fe2a07e711d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Clif_3_Normal.png using Guid(eff6ebf6ab275294db58fe2a07e711d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7df63228c38485be4f2150a660f6d0b1') in 0.061369 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronUp@2x.png
+  artifactKey: Guid(57dfdce0eaf2f48a9bd9e60e920e446b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronUp@2x.png using Guid(57dfdce0eaf2f48a9bd9e60e920e446b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03a5ace867e0791c1ab5c96247ed91d2') in 0.019480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronUp.png
+  artifactKey: Guid(a9fe7c3d19af4432b9ae2a5172f4ea72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronUp.png using Guid(a9fe7c3d19af4432b9ae2a5172f4ea72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b164bec83e473a8b86f6982a138fcd93') in 0.019485 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Circle-22px_Pressed.png
+  artifactKey: Guid(47c61016cb52642a5874516ada0bc94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Circle-22px_Pressed.png using Guid(47c61016cb52642a5874516ada0bc94f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bef28982221b32db60ac825c1be1480c') in 0.018941 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronDown@4x.png
+  artifactKey: Guid(d1acbe0a708dc40dc80254764e67ecfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/ChevronDown@4x.png using Guid(d1acbe0a708dc40dc80254764e67ecfa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce4640a3b0b056704bec10e8931937c8') in 0.021643 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Column_3_Normal.png
+  artifactKey: Guid(f4ab0239ad5b7a94687f78584650d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Column_3_Normal.png using Guid(f4ab0239ad5b7a94687f78584650d424) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a1f562f946f592307b54d2cd2b50bb4') in 0.020191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Circle-22px_Normal_Light.png
+  artifactKey: Guid(6abea02926aae664b81d90bcfae924c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Circle-22px_Normal_Light.png using Guid(6abea02926aae664b81d90bcfae924c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0514949eac434e9a69e467c4fb4be648') in 0.018079 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Chair_Albedo.png
+  artifactKey: Guid(4b470630597f08e478aa622148683502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Chair_Albedo.png using Guid(4b470630597f08e478aa622148683502) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e22d6fa8346c4e8838cdf3911bde0e4') in 0.015414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Cave_Details_A_Low_Cave_Details_1A1_Normal.png
+  artifactKey: Guid(65f63b1102d89f9478a30362382346eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Cave_Details_A_Low_Cave_Details_1A1_Normal.png using Guid(65f63b1102d89f9478a30362382346eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3290cc5ad5303d5155f48f4ac0e95ec2') in 0.016800 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 4.629672 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Face_Merge_disabled.png
+  artifactKey: Guid(b101a01607718410bb1121fee004c8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Face_Merge_disabled.png using Guid(b101a01607718410bb1121fee004c8b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d2387eecdacbd2495a22d923c0b8506') in 0.022155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Gold_MetallicSmoothness.png
+  artifactKey: Guid(8097a06f39d34c645910aca4295668ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Gold_MetallicSmoothness.png using Guid(8097a06f39d34c645910aca4295668ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39dc103be9474984033d94669463e97a') in 0.015182 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Floor_1 Ladder_Normal.png
+  artifactKey: Guid(63b31c81e4613b84081a754cef6237dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Floor_1 Ladder_Normal.png using Guid(63b31c81e4613b84081a754cef6237dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7366288443c3ce8bdefec3e8a5a6a728') in 0.024336 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_headacc_Normal.png
+  artifactKey: Guid(f73f6c471585b5c469e89d393d9de0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_headacc_Normal.png using Guid(f73f6c471585b5c469e89d393d9de0f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8771e8c9bdb8914396f7bca01858cb23') in 0.025147 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_skirt_AO.png
+  artifactKey: Guid(65ed40ab970e7294ba7d413b8061f2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_skirt_AO.png using Guid(65ed40ab970e7294ba7d413b8061f2b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ffda70af7d89e098e529ad85d428d85') in 0.307476 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Grass_2.png
+  artifactKey: Guid(55722177a9e26114c9df16c3af5aedaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Grass_2.png using Guid(55722177a9e26114c9df16c3af5aedaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d37a90ddf4965d80be7e99882def001') in 0.013791 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Pressed_Horizontal.png
+  artifactKey: Guid(6cfa1f4fa4f524777b44a27293390e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Pressed_Horizontal.png using Guid(6cfa1f4fa4f524777b44a27293390e0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c1033eef00a1465d53f074309b95ab') in 0.017119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/FalloffConstantOpaque.png
+  artifactKey: Guid(82484ae14a89f4e4ba789e22422cd57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/FalloffConstantOpaque.png using Guid(82484ae14a89f4e4ba789e22422cd57e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a2df54207583a8b80a900234dce38c') in 0.017641 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Gold_Albedo.png
+  artifactKey: Guid(16263d396a2056a44b51e27b71be0ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Gold_Albedo.png using Guid(16263d396a2056a44b51e27b71be0ac2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c6b65d06150efe6ed0cb82bd3256d83') in 0.014135 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/FX/Glow.png
+  artifactKey: Guid(e8d031225b3662e49a083b31e192cdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/FX/Glow.png using Guid(e8d031225b3662e49a083b31e192cdfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '215b3b34fda6db2e72f2e4ddb6248e17') in 0.013236 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Fake_Tree_Normal.png
+  artifactKey: Guid(f01ad7b6991e1e445b473b41343ac970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Fake_Tree_Normal.png using Guid(f01ad7b6991e1e445b473b41343ac970) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc61e269ba3b1d6b6475446ff12dbd4f') in 0.015595 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_Normal.png
+  artifactKey: Guid(04f4b96970059a7499e450e55ae13a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Flats_A_Low_Caves_1A1_Normal.png using Guid(04f4b96970059a7499e450e55ae13a00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '062017162e96b05e326fb4d753f229ec') in 0.020952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Pressed_Horizontal_Light.png
+  artifactKey: Guid(ceaaf12e14b14a14a9cfb6c1345984ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Pressed_Horizontal_Light.png using Guid(ceaaf12e14b14a14a9cfb6c1345984ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b2e6fe4208173e7c5d9111098485b31') in 0.017706 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_skirt_Normal.png
+  artifactKey: Guid(342fa886a28735e49b33bb37171736b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_skirt_Normal.png using Guid(342fa886a28735e49b33bb37171736b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a2e322e5a2804c84ab0dbc1bbec28d8') in 0.019993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_headacc_MetallicSmoothness.png
+  artifactKey: Guid(b2e3b649a04d8e04c830096b7220b36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_headacc_MetallicSmoothness.png using Guid(b2e3b649a04d8e04c830096b7220b36d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdefcc90a000eed8e4ca1cab41298eac') in 0.191630 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_1_Normal.png
+  artifactKey: Guid(85cbbda1ca1cbf6408c0090dfa014071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Flowers_1_Normal.png using Guid(85cbbda1ca1cbf6408c0090dfa014071) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b318d7ce961df57769d6ceb0fed1f29') in 0.014383 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_body_MetallicSmoothness.png
+  artifactKey: Guid(a5db1081873de7148aa03ef11f42cccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_body_MetallicSmoothness.png using Guid(a5db1081873de7148aa03ef11f42cccc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '914167e418eb327657eac5a6ffcddae7') in 0.295749 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_MetallicSmoothness.png
+  artifactKey: Guid(a7e3544f9c8c2ae4a83a30cf5a9d15ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_MetallicSmoothness.png using Guid(a7e3544f9c8c2ae4a83a30cf5a9d15ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a25b2a968c8444780579826c33ae78') in 0.014886 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Normal_Horizontal.png
+  artifactKey: Guid(632d7c73bc4e14782b46b7ee28b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Normal_Horizontal.png using Guid(632d7c73bc4e14782b46b7ee28b5d383) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba2e62fa94df78ec2375c5be61daacd6') in 0.016912 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Fake_Tree_Albedo.png
+  artifactKey: Guid(b679bfc5fe36c0849b751e49dce1dde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Fake_Tree_Albedo.png using Guid(b679bfc5fe36c0849b751e49dce1dde7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50e705d0503e394619cd93ca5e42a64e') in 0.013765 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Terrain/Grass_1_Normal.png
+  artifactKey: Guid(cf2bd95fa057a2d419ded8ce428e7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Terrain/Grass_1_Normal.png using Guid(cf2bd95fa057a2d419ded8ce428e7ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee31bb44f4456ac7ad5d8c2199131a2') in 0.020406 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Hover_Vertical.png
+  artifactKey: Guid(c7981a40a407c43c2a395acff035ec71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Toolbar/Background/Geo_Hover_Vertical.png using Guid(c7981a40a407c43c2a395acff035ec71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0927ea56011d69c81da612a9a3baa87') in 0.015326 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/FalloffReverse.png
+  artifactKey: Guid(d21c709a1989b5a4aa794b3704dd1662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/FalloffReverse.png using Guid(d21c709a1989b5a4aa794b3704dd1662) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4a5d5b5c7cda312d2e8cac1516b1eaa') in 0.016434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Grass_Color.png
+  artifactKey: Guid(f827816e18f50c142816c887299a17ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Grass_Color.png using Guid(f827816e18f50c142816c887299a17ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b3aa36eb469d58bbd6a130586670a1d') in 0.015296 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Gamepad@4x.png
+  artifactKey: Guid(7543bb6341c2140f292c8c852e7a3bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Gamepad@4x.png using Guid(7543bb6341c2140f292c8c852e7a3bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c97e7b139f77494031503e95cf7db136') in 0.019992 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Character/Flower/Materials/flower_character_body_AlbedoTransparency.png
+  artifactKey: Guid(0a86fec27a8fac14091d7b8731cf14ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Character/Flower/Materials/flower_character_body_AlbedoTransparency.png using Guid(0a86fec27a8fac14091d7b8731cf14ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f71002497eef6de551807de0ba231ff') in 0.230208 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Floor_2_MetallicSmoothness.png
+  artifactKey: Guid(a46d5913d605a2d49a7a9f8785434c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Floor_2_MetallicSmoothness.png using Guid(a46d5913d605a2d49a7a9f8785434c4d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39bd71fae992a731956099fcceddaeed') in 0.018191 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_Normal.png
+  artifactKey: Guid(2a0986af195fd3f4db75ae257d9e27cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Camp/Gold_Normal.png using Guid(2a0986af195fd3f4db75ae257d9e27cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '303d0d6a4881e942d736cc9b8da44a75') in 0.013480 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.624768 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Cave_Details_A_Low_Cave_Details_1A1_AO.png
+  artifactKey: Guid(c60232eea1bfeef4782e29b4038297bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Cave_Details_A_Low_Cave_Details_1A1_AO.png using Guid(c60232eea1bfeef4782e29b4038297bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7f25b188504072e192cf9af92b4e63d') in 0.020502 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Detail Texture 1.png
+  artifactKey: Guid(128668c47963e6942b5da26dbcea2ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Detail Texture 1.png using Guid(128668c47963e6942b5da26dbcea2ecf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ff23925e2233956027ac7b67b30d1e0') in 0.017289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Stone_Low_A_Stone_Styled_1A1_AO.png
+  artifactKey: Guid(982365c3d7ff322449cd72e1f7fac705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Stone_Low_A_Stone_Styled_1A1_AO.png using Guid(982365c3d7ff322449cd72e1f7fac705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fbd24c8ff5b4e352460d5ff19fd7bdd1') in 0.015571 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Lava_1A1 Specular.png
+  artifactKey: Guid(73c0a7c3a8bbfab44a36ceacc282fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Lava_1A1 Specular.png using Guid(73c0a7c3a8bbfab44a36ceacc282fb69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f2826ee4ddbb8bd96e314da334fbe129') in 0.016309 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Crystals_A_LOW_Crystals_1A1_Emission.png
+  artifactKey: Guid(79e390bf4526806449ae0af94f13d259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Crystals_A_LOW_Crystals_1A1_Emission.png using Guid(79e390bf4526806449ae0af94f13d259) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '171951d8be8104b8d3290361d6882360') in 0.016378 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Wood Planks 1A_Wood_Styled_1A1_MetallicSmoothness.png
+  artifactKey: Guid(ee054ff9b2c68de40907d5321157cf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Wood Planks 1A_Wood_Styled_1A1_MetallicSmoothness.png using Guid(ee054ff9b2c68de40907d5321157cf9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13e4071d68f9d7ec2ad9667b40a3d56c') in 0.018116 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Wood Planks 1A_Wood_Styled_1A1_AlbedoTransparency.png
+  artifactKey: Guid(d85fa8c0c32bae6418eb47bfb681ffab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Wood Planks 1A_Wood_Styled_1A1_AlbedoTransparency.png using Guid(d85fa8c0c32bae6418eb47bfb681ffab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e1d4b7af03cbac58fcea03c50dfb820') in 0.014592 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Aquarius_Stylized_Caves/Textures/Lava_1A1.png
+  artifactKey: Guid(5811f6f3f7c96d9469c1e2dcee9dd6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Aquarius_Stylized_Caves/Textures/Lava_1A1.png using Guid(5811f6f3f7c96d9469c1e2dcee9dd6f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4bbb17eb618c5f3ef767b37a70903471') in 0.019969 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
