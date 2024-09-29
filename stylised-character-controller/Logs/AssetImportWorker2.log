@@ -3172,3 +3172,1100 @@ Received Import Request.
   path: Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity
   artifactKey: Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Aquarius_Stylized_Caves/Demo Scenes/The Cave/The Cave.unity using Guid(fdc07a94882a8bc40a84b5f05d9735d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1baf079fc5cd7e6e6a6304f9d359b581') in 0.003498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 377.313610 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Shrine_MetallicSmoothness.png
+  artifactKey: Guid(b21568346b7f4904d8522e5617b55778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Shrine_MetallicSmoothness.png using Guid(b21568346b7f4904d8522e5617b55778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16383c5b9da97196f770ad41f1c5ddd8') in 0.022447 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.016234 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_MetallicSmoothness.png
+  artifactKey: Guid(27a903f161b23014b8d9f20a70eaf50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_MetallicSmoothness.png using Guid(27a903f161b23014b8d9f20a70eaf50b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a35e2769eff793c2c205673f56e6cfb') in 0.015499 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Underwater/Assets/Textures/Other/T_moon_D.tga
+  artifactKey: Guid(a515b508cff48f84681b4c68e7067afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Textures/Other/T_moon_D.tga using Guid(a515b508cff48f84681b4c68e7067afc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd897dad17b3021edc3ea1afa5e67a8d0') in 0.018141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_E.tif
+  artifactKey: Guid(0934ede7a84868a47a4f391cb2e98bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_E.tif using Guid(0934ede7a84868a47a4f391cb2e98bb9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '588be64d6e97d89886819fb78fdba9a3') in 0.021261 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_BC.tif
+  artifactKey: Guid(416b3177b6f3ab244a81b7c8ab218dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_BC.tif using Guid(416b3177b6f3ab244a81b7c8ab218dc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2db78627ff32da579e5ba9855a7e118') in 0.035545 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Normal.png
+  artifactKey: Guid(0c65425be990654429a04f9d2a5befa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Normal.png using Guid(0c65425be990654429a04f9d2a5befa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '000655a005995bc54b3299184a5df1e7') in 0.017173 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Albedo.png
+  artifactKey: Guid(2749470a5db6aa2429f3501f1effe7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_Albedo.png using Guid(2749470a5db6aa2429f3501f1effe7a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '546b66119dc8643eeae0b0a48f599fee') in 0.039569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Normal.png
+  artifactKey: Guid(927f3ebcc77841549b9e1cb59908bf8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Normal.png using Guid(927f3ebcc77841549b9e1cb59908bf8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cc86944a9574d4349c21f9b33c6f061') in 0.020033 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_BC.tif
+  artifactKey: Guid(f28f375ef7cc71b498875dcf29d116d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_BC.tif using Guid(f28f375ef7cc71b498875dcf29d116d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cef1fcb83688d0d53791ed48675be675') in 0.014684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_E.tif
+  artifactKey: Guid(822a51fe7ef06f64bb9e51aaae3850cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_E.tif using Guid(822a51fe7ef06f64bb9e51aaae3850cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba7c15d82929ef7997cab120f0ae86f9') in 0.013528 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@4x.png
+  artifactKey: Guid(f5ace3d653812436a812bebfe7f9a242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@4x.png using Guid(f5ace3d653812436a812bebfe7f9a242) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7abc9fd94a00fe15713becf58c2bfdf') in 0.018736 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_MetallicSmoothness.png
+  artifactKey: Guid(0559a89e664590f4595001d262f168f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_MetallicSmoothness.png using Guid(0559a89e664590f4595001d262f168f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd880ef133a1b63a2239e709ddb3aec4d') in 0.019289 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_MTS.tif
+  artifactKey: Guid(939dd39b87762bf48acac0470000ed71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_MTS.tif using Guid(939dd39b87762bf48acac0470000ed71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51560c19a660004297ce1d199cb1e1d7') in 0.017870 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_Normal.png
+  artifactKey: Guid(b1df9cecfb60b35419e63f5653cdc6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_Normal.png using Guid(b1df9cecfb60b35419e63f5653cdc6b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2512685c4151f469b85f3f4fa7e800a5') in 0.018712 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_MTS.tif
+  artifactKey: Guid(22ea653022bcfae4e8eb325ed6935058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_MTS.tif using Guid(22ea653022bcfae4e8eb325ed6935058) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d4cb8890f4d48f19d3d2f9b1e141a64') in 0.016819 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4f756f51-92d2-49ee-a525-7c30e4dc6c99.asset
+  artifactKey: Guid(5e2a9e4db79e15c42b8a72f5e128fe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4f756f51-92d2-49ee-a525-7c30e4dc6c99.asset using Guid(5e2a9e4db79e15c42b8a72f5e128fe1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93db6461f76926ae053e40917f576af8') in 0.085801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_Bc.tif
+  artifactKey: Guid(85df3c0d8206f3744b982481225834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_Bc.tif using Guid(85df3c0d8206f3744b982481225834d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627b8c5210cea2860951c3fb4aa431a2') in 0.016317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sphere.png
+  artifactKey: Guid(cdd0908a37d2fa84980f8867a676049b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sphere.png using Guid(cdd0908a37d2fa84980f8867a676049b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5be7f10d261113aa465ab0729ea709cd') in 0.016145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_E.tif
+  artifactKey: Guid(3f4bbd04ad62b7541983b8d157c96498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_E.tif using Guid(3f4bbd04ad62b7541983b8d157c96498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8105f310ea3cc8ba1d8a6eb4e6c96c84') in 0.014785 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_BC.tif
+  artifactKey: Guid(2030aeb13ab7e6449bc1be1538d0c5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_BC.tif using Guid(2030aeb13ab7e6449bc1be1538d0c5bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4342435bc4dd7a6dd74bae87d06b50') in 0.013954 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_BC.tif
+  artifactKey: Guid(05c4783515d8abe4eb842f22f64fc67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_BC.tif using Guid(05c4783515d8abe4eb842f22f64fc67b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '982929554184b4489ea16a0c6bacab65') in 0.023365 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_MTS.tif
+  artifactKey: Guid(e29bc7de0fa5af44caec300bd3adfab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_MTS.tif using Guid(e29bc7de0fa5af44caec300bd3adfab8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '681a2af22725530854ea47cb0cea7e89') in 0.014244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Underwater/Scenes/Scene_Asset/New Terrain 00.asset
+  artifactKey: Guid(b25963baca0d7444f8832735c9ca904b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Scene_Asset/New Terrain 00.asset using Guid(b25963baca0d7444f8832735c9ca904b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee2a812a6f57062b9f628e160a15ac97') in 0.018695 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_Albedo.png
+  artifactKey: Guid(4a3539d1307455345b1acd1671c543fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_Albedo.png using Guid(4a3539d1307455345b1acd1671c543fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4969745de6316569df11587bf80c6158') in 0.016603 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_MTS.tif
+  artifactKey: Guid(32a940e6ac48da647a5135e60158023e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_MTS.tif using Guid(32a940e6ac48da647a5135e60158023e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd31a77d6ab59bffbab78614a0450dc') in 0.016396 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_BC.tif
+  artifactKey: Guid(13f3919c669396f4096f5546edd5d3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_BC.tif using Guid(13f3919c669396f4096f5546edd5d3cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24cfe217210283310e118f0b0075aee8') in 0.016013 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystals_N.tif
+  artifactKey: Guid(cce1de79065e8f841b8371322149db95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystals_N.tif using Guid(cce1de79065e8f841b8371322149db95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe60c5115133e3b72cc1acac559d2ad') in 0.018392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000050 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_f8e0f982-b9a2-4021-9b33-750d15859617.asset
+  artifactKey: Guid(1089e73448dd3af4e9016e3142161e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_f8e0f982-b9a2-4021-9b33-750d15859617.asset using Guid(1089e73448dd3af4e9016e3142161e1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156a1cc6b6e67e0b6668eb392cfce3de') in 0.042129 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sprite.png
+  artifactKey: Guid(697da9bd8aab3e74c9dd8fade1457ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sprite.png using Guid(697da9bd8aab3e74c9dd8fade1457ae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64548f02224b39a140ffd3820b3c83d1') in 0.017718 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/SpotLight.png
+  artifactKey: Guid(4f848b0f822864f98a95cd83af6854ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Imported/DynamicShadowProjector/ProjectorForLWRP-master-universalrp/Samples/Textures/SpotLight.png using Guid(4f848b0f822864f98a95cd83af6854ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '493fe43bd8dbeaff0056f947e6d7a16f') in 0.017472 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_BC.tif
+  artifactKey: Guid(377f58092e6d7a34eae18e2c402f1a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_BC.tif using Guid(377f58092e6d7a34eae18e2c402f1a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3858485ecf6f5429f7c598b9cc59316') in 0.014739 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x_Light.png
+  artifactKey: Guid(84f11703040232d429af65cbd3ee982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x_Light.png using Guid(84f11703040232d429af65cbd3ee982c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dbe13a64c9d12db5489d1fe2c6e0ffc3') in 0.017034 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_BC.tif
+  artifactKey: Guid(94bfdf7f4913fa6489bc2876192b378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_BC.tif using Guid(94bfdf7f4913fa6489bc2876192b378d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ec2eeeddf26221e655a6d318db4b23') in 0.014552 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_E.tif
+  artifactKey: Guid(be9a41cefcb9d2241a59c89b53cf6f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_E.tif using Guid(be9a41cefcb9d2241a59c89b53cf6f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '671ca77d59e9fa67e3926741ec24b96e') in 0.014120 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x.png
+  artifactKey: Guid(ad00c1523308ff84fa1a975de7a4f150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs@2x.png using Guid(ad00c1523308ff84fa1a975de7a4f150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f7cac07225b8fe1946c2a9401c76e25') in 0.016394 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_MetallicSmoothness.png
+  artifactKey: Guid(2842d4a4ba619e04dae5c4c4babdc6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/Stumps_MetallicSmoothness.png using Guid(2842d4a4ba619e04dae5c4c4babdc6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f1594033ae09490568d77675c085dbf') in 0.013688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Ice_MTS.tif
+  artifactKey: Guid(221c1fb0884684a488237439192687b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Ice_MTS.tif using Guid(221c1fb0884684a488237439192687b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32138be1c85079aa5421ef403a9878e0') in 0.012962 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sphere@2x.png
+  artifactKey: Guid(8a94b25b61361b64dadad57f3a3481b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sphere@2x.png using Guid(8a94b25b61361b64dadad57f3a3481b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91367c116d91f08c32205377cbcd0f70') in 0.018427 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_MTS.tif
+  artifactKey: Guid(4a5386efc68a91142b01d3134b54821f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_MTS.tif using Guid(4a5386efc68a91142b01d3134b54821f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '878a1a0ca3fa38c7a5152cb84af59541') in 0.015205 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_362134c8-0b48-4013-a0e4-90f9b56d74c5.asset
+  artifactKey: Guid(2c1741a1f75d2414684190778c194367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_362134c8-0b48-4013-a0e4-90f9b56d74c5.asset using Guid(2c1741a1f75d2414684190778c194367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '800732e60913fba773034fa3c0b026f6') in 0.067048 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_E.tif
+  artifactKey: Guid(35d2d053e37a5d84a803dbe022621ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Caves_E.tif using Guid(35d2d053e37a5d84a803dbe022621ad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '977a4c6b02a09895b9a66e7301e02aff') in 0.016001 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4558023e-343a-45a5-8ea7-50d47f090982.asset
+  artifactKey: Guid(d3ed15dff8ac530499d0e40efb43ab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4558023e-343a-45a5-8ea7-50d47f090982.asset using Guid(d3ed15dff8ac530499d0e40efb43ab30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ecdd7dc66bb42f0a88233b0475de3b6') in 0.047141 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Albedo.png
+  artifactKey: Guid(1e69073f8c4c5844498908e5a4ab3fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_Albedo.png using Guid(1e69073f8c4c5844498908e5a4ab3fc0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '523ccbc3aa1404ffec598e2089e4ef2f') in 0.015741 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Skybox.hdr
+  artifactKey: Guid(abf20d309db383e48875a4aaf7d955f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Other/Skybox.hdr using Guid(abf20d309db383e48875a4aaf7d955f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d3be8cfe71ba3901dabb703ecfcb9d8') in 0.055581 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere@2x_Light.png
+  artifactKey: Guid(01dae9d6b5998db4aa4a1676833ece41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere@2x_Light.png using Guid(01dae9d6b5998db4aa4a1676833ece41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5870d6b86a6b9555f3bdb22c15a9646') in 0.020140 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4b7293b9-d02e-43da-8dfc-2bfdf8dad67c.asset
+  artifactKey: Guid(591d16011e17e4a45875d0dbc29f9695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_4b7293b9-d02e-43da-8dfc-2bfdf8dad67c.asset using Guid(591d16011e17e4a45875d0dbc29f9695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fd44c55513acb5ebf9d792e8e1c7fd2') in 0.065145 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_6b411fb3-c78f-4d7c-905e-2139eec41be3.asset
+  artifactKey: Guid(20e9dfc46fdc2e540a2a553b4b7446ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_6b411fb3-c78f-4d7c-905e-2139eec41be3.asset using Guid(20e9dfc46fdc2e540a2a553b4b7446ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7e9f61e3c957c379de4da051c533128c') in 0.070890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair.png
+  artifactKey: Guid(47d1b6289109a1b448ba58881c54eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair.png using Guid(47d1b6289109a1b448ba58881c54eaba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec9a72daed50ea9f5d8aac201ce7c79') in 0.017699 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_Normal.png
+  artifactKey: Guid(db7d75415eff07a42b6ab64d2aa813c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_Normal.png using Guid(db7d75415eff07a42b6ab64d2aa813c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '258cce70daa2f2588fd14ea5b7c032e2') in 0.016851 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_MetallicSmoothness.png
+  artifactKey: Guid(41f985779b68eca47996f033039d2ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_MetallicSmoothness.png using Guid(41f985779b68eca47996f033039d2ac7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead01e55ba6ff6c4afaf14599fc8f41d') in 0.018942 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/Terrain.asset
+  artifactKey: Guid(02d396e90da7fb74b9133f58a5bcdc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/Terrain.asset using Guid(02d396e90da7fb74b9133f58a5bcdc9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6aefe1a24fb0edb523d8c4578a783f64') in 0.074346 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@2x.png
+  artifactKey: Guid(5881d226463a047cb8db57c9cb0ebc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@2x.png using Guid(5881d226463a047cb8db57c9cb0ebc0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197e5f429563f26c7f81fea54a01102b') in 0.018155 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@3x.png
+  artifactKey: Guid(a4deca3e01bf64bfc9136f4cb3b41c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick@3x.png using Guid(a4deca3e01bf64bfc9136f4cb3b41c9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53157008d8f96679983851fd080bbb46') in 0.017952 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_Normal.png
+  artifactKey: Guid(cbd6fdc2e1553924da08bc01662df35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_1,2_Normal.png using Guid(cbd6fdc2e1553924da08bc01662df35e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43c303c06e1ec2dfaaa7632a9b679fd8') in 0.022115 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_Albedo.png
+  artifactKey: Guid(6c580e8eb681efc46a83a95d1b1c2072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Small_Stones_Albedo.png using Guid(6c580e8eb681efc46a83a95d1b1c2072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697b10a06223452476a32a63102ebcda') in 0.015454 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Underwater/Assets/Textures/Other/SpectralLut_BlueRed.tga
+  artifactKey: Guid(3f69bf5e1dbbde7468101fe9973c55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Textures/Other/SpectralLut_BlueRed.tga using Guid(3f69bf5e1dbbde7468101fe9973c55f1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb6e29fb6c1e72b3b5ffd5f29865911') in 0.013237 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_MTS.tif
+  artifactKey: Guid(422146763647ae54da0f85c1802247e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_MTS.tif using Guid(422146763647ae54da0f85c1802247e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '65061234632f4fb4b9aaec3a919a0bac') in 0.013459 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/FX/Smoke.png
+  artifactKey: Guid(e377543f29a2e3846b6a9ee32a68fe5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/FX/Smoke.png using Guid(e377543f29a2e3846b6a9ee32a68fe5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a1dc338525f5ac4cdf5883503141e75') in 0.014180 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_Normal.png
+  artifactKey: Guid(c1999d08256ddfb4a800b2bc4b84e7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_Normal.png using Guid(c1999d08256ddfb4a800b2bc4b84e7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd07db3c902b2477c8778b0ae31c9d588') in 0.018492 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite.png
+  artifactKey: Guid(9d971e1338f705046a6f346777dbf801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite.png using Guid(9d971e1338f705046a6f346777dbf801) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30a395e38ea73e195adaacc3e4d35b81') in 0.015640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair@2x.png
+  artifactKey: Guid(d672df2ef6f6d8941988529120f24d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Stair@2x.png using Guid(d672df2ef6f6d8941988529120f24d5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c9cbca12501ba6d8f9163801a7b2bcf') in 0.016990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.051132 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_AlbedoSmoothness.png
+  artifactKey: Guid(6c2ffe730dc39d74db7b6d8f5a9a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_AlbedoSmoothness.png using Guid(6c2ffe730dc39d74db7b6d8f5a9a6a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ecf7d439ac12fb70173879856e658fc') in 0.019782 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_N.tif
+  artifactKey: Guid(8ef31111b2631c94b9fdce72c99e1c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_N.tif using Guid(8ef31111b2631c94b9fdce72c99e1c44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76307de9dcebdb23b62a051ae902430d') in 0.014925 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_E.tif
+  artifactKey: Guid(3b7836f753e1c464d82262cdee5f8102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_E.tif using Guid(3b7836f753e1c464d82262cdee5f8102) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce558106bbbd15b3caebf9177e284bb3') in 0.014557 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStonesGrass_Normal.png
+  artifactKey: Guid(0c151d06e8e7f714da587213f2fb411c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStonesGrass_Normal.png using Guid(0c151d06e8e7f714da587213f2fb411c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccdb23c1791793d5dc78d35a67d4a07f') in 0.018358 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 34.869362 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d457b26d2bc8024e58729449d46e968') in 0.010138 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.676475 seconds.
+  path: Assets/URP/HDRenderPipelineGlobalSettings.asset
+  artifactKey: Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/URP/HDRenderPipelineGlobalSettings.asset using Guid(bbb857ea365645143ae43d940a269db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7245cc327628504a36e7e39f825e548') in 0.186831 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 459.669433 seconds.
+  path: Assets/Underwater/Assets/Meshes/001.FBX
+  artifactKey: Guid(87a0d58ce56007b4abcc1e34fcdc2b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/001.FBX using Guid(87a0d58ce56007b4abcc1e34fcdc2b96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'ee76c970ac37e85295d32e00645e3868') in 0.350248 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater/Assets/Meshes/0017_2.FBX
+  artifactKey: Guid(97ae402e50ea8ea4f82603da38827c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0017_2.FBX using Guid(97ae402e50ea8ea4f82603da38827c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '362243458f46a6d85ceb73f66bcbcacd') in 0.350489 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Underwater/Assets/Meshes/009_2.FBX
+  artifactKey: Guid(b74600a02530eba4d8afd2a6c2098bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/009_2.FBX using Guid(b74600a02530eba4d8afd2a6c2098bcd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '7791fb4ed1b0a95434dc12d0f4e8ce47') in 0.040602 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Underwater/Assets/Meshes/0016_1.FBX
+  artifactKey: Guid(35c0e6d897d1a6c49b97fdfd3ad3b087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0016_1.FBX using Guid(35c0e6d897d1a6c49b97fdfd3ad3b087) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '8cdafdbc55007743c63e962b162bd8b3') in 0.050089 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater/Assets/Meshes/0027.FBX
+  artifactKey: Guid(a51309ffe0afd82439f34fcf6e56c99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0027.FBX using Guid(a51309ffe0afd82439f34fcf6e56c99a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '36eb82d5a3edfdff3b80667ac980bd17') in 0.047197 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater/Assets/Meshes/0012.FBX
+  artifactKey: Guid(8f48b481c9de4154c9aedc74b44d7327) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0012.FBX using Guid(8f48b481c9de4154c9aedc74b44d7327) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '74b3a4572691cfa01a1407c670bc264a') in 0.046420 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Underwater/Assets/Meshes/0010.FBX
+  artifactKey: Guid(cc4c586e44b3ab84f88e7f6aee33bc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0010.FBX using Guid(cc4c586e44b3ab84f88e7f6aee33bc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'f41ca3e5c07c039b02df0c9a8ddc1397') in 0.049685 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Underwater/Assets/Meshes/004.FBX
+  artifactKey: Guid(52a82efd2e72c944cad19b714c359106) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/004.FBX using Guid(52a82efd2e72c944cad19b714c359106) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '507d8257b30da9a5637ed203f094081f') in 0.051006 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Underwater/Assets/Meshes/0015.FBX
+  artifactKey: Guid(b6eede0a0dbf0684b90afa5672d4cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0015.FBX using Guid(b6eede0a0dbf0684b90afa5672d4cd58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'ec1427eb5c682de1c52f1a750529065f') in 0.050827 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Underwater/Assets/Meshes/006.FBX
+  artifactKey: Guid(f592c781f99fff24faacad1fda04a2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/006.FBX using Guid(f592c781f99fff24faacad1fda04a2e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '79d9923b83310d83f378669aaa1240a6') in 0.046644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Underwater/Assets/Meshes/008.FBX
+  artifactKey: Guid(1dd170e2f3ce4544e9908a3929aecf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/008.FBX using Guid(1dd170e2f3ce4544e9908a3929aecf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'fa80aa25c5c9d41e3dd4042cef347e08') in 0.051568 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Underwater/Assets/Meshes/0031_1.fbx
+  artifactKey: Guid(4ca419712ade9c74db2a350121bd2881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0031_1.fbx using Guid(4ca419712ade9c74db2a350121bd2881) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'd2bd83176c267d9b71769eb173ceee40') in 0.022588 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Underwater/Assets/Meshes/0023_2.FBX
+  artifactKey: Guid(6c77cb0ca258ad545a638c3daffea0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0023_2.FBX using Guid(6c77cb0ca258ad545a638c3daffea0b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '69f4f2eb7dfe4fe98feef24777eb17e9') in 0.047244 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Underwater/Assets/Meshes/0021_2.FBX
+  artifactKey: Guid(60e01333c430d5b4a8915fb514a94881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0021_2.FBX using Guid(60e01333c430d5b4a8915fb514a94881) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'f21967eee65566d07ff397ef5a625bfa') in 0.046328 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Underwater/Assets/Meshes/0022_2.FBX
+  artifactKey: Guid(b2bdd7046524459439659c55ede34e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0022_2.FBX using Guid(b2bdd7046524459439659c55ede34e37) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '97b7c400a183ba16cc2ff5ed60ab19a4') in 0.046828 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Underwater/Assets/Meshes/0013.FBX
+  artifactKey: Guid(bb66ba007e8e36043ad49d2bde9ce47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0013.FBX using Guid(bb66ba007e8e36043ad49d2bde9ce47b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'd855c5322a75eda014db0948c613319c') in 0.047254 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Underwater/Assets/Meshes/0026.FBX
+  artifactKey: Guid(e462cadc6b58fbf4485ae662c8009b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0026.FBX using Guid(e462cadc6b58fbf4485ae662c8009b23) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '9a3b85d12e9ff488d73b0b51bad70b7f') in 0.050027 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Underwater/Assets/Meshes/0030.FBX
+  artifactKey: Guid(365c1e0f4ede5544b8e738d252279cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0030.FBX using Guid(365c1e0f4ede5544b8e738d252279cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: 'a3b50d4e626785854023c7b2efbbabdc') in 0.046882 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater/Assets/Meshes/005_2.FBX
+  artifactKey: Guid(f5de8dd1828d75b4e9e8f97fbe16117e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/005_2.FBX using Guid(f5de8dd1828d75b4e9e8f97fbe16117e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '1cf7fc05af6c183520ba2a0dde391a3c') in 0.047340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Underwater/Assets/Meshes/0024.FBX
+  artifactKey: Guid(aecc8ddd0670ce74c976401213c80d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0024.FBX using Guid(aecc8ddd0670ce74c976401213c80d12) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '5ccc2ec8ba84cb2f6a3aa1516b1399e2') in 0.047392 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Underwater/Assets/Meshes/0028_1.FBX
+  artifactKey: Guid(54fdfcbd4dc22bc4aab52a2024c90e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes/0028_1.FBX using Guid(54fdfcbd4dc22bc4aab52a2024c90e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b) Tried to setup DLSS with a null globalSettings object.
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEngine.Rendering.HighDefinition.HDRenderPipeline:SetupDLSSFeature (UnityEngine.Rendering.HighDefinition.HDRenderPipelineGlobalSettings) (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs:596)
+UnityEngine.Rendering.HighDefinition.HDRenderPipelineAsset:OnEnable () (at Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipelineAsset.cs:32)
+UnityEngine.Rendering.GraphicsSettings:get_defaultRenderPipeline ()
+UnityEngine.Rendering.GraphicsSettings:get_renderPipelineAsset ()
+UnityEditor.EditorUtility:ConfigurePreviewObjectSRP (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InitInstantiatedPreviewRecursive (UnityEngine.GameObject)
+UnityEditor.EditorUtility:InstantiateForAnimatorPreview (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:UpdateGameObject (UnityEngine.Object)
+UnityEditor.GameObjectInspector/PreviewData:.ctor (UnityEngine.Object)
+UnityEditor.GameObjectInspector:GetPreviewData ()
+UnityEditor.GameObjectInspector:RenderStaticPreview (string,UnityEngine.Object[],int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreview (UnityEngine.Object,UnityEngine.Object[],string,int,int)
+UnityEditor.AssetPreviewUpdater:CreatePreviewForAsset (UnityEngine.Object,UnityEngine.Object[],string)
+
+(Filename: Library/PackageCache/com.unity.render-pipelines.high-definition@12.1.11/Runtime/RenderPipeline/HDRenderPipeline.cs Line: 596)
+
+ -> (artifact id: '2449ce86d98631b533ec5d30f72ea947') in 0.054334 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 26.014357 seconds.
+  path: Assets/Underwater/Assets/Meshes
+  artifactKey: Guid(9aa3143bb56641d4cbd2b837955afeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Assets/Meshes using Guid(9aa3143bb56641d4cbd2b837955afeb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76c5d9b4b58129faafb373c279b0603') in 0.010117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 224.641475 seconds.
+  path: Assets/Underwater-URP/Assets/Shader
+  artifactKey: Guid(76b1bb7b8f84c3e46b188c67ecd31e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater-URP/Assets/Shader using Guid(76b1bb7b8f84c3e46b188c67ecd31e41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801199332ae0ee58bc3bff9ea58d2fa4') in 0.008525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 30.020231 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/Demo_001.asset
+  artifactKey: Guid(b1c905b6c2ddcf247b4a47b3fa3c10c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/Demo_001.asset using Guid(b1c905b6c2ddcf247b4a47b3fa3c10c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666fb34ba0a6974b46f4b451bbf922c1') in 0.052387 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Underwater/Scenes/Scene_Asset/SceneAsset.asset
+  artifactKey: Guid(5fd507fcbd5672344b42ba3ac43cf7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Scene_Asset/SceneAsset.asset using Guid(5fd507fcbd5672344b42ba3ac43cf7bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61089d81b3153260562108a56a9affe7') in 0.053848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 21.702711 seconds.
+  path: Assets/Physics Materials/Bouncy.physicMaterial
+  artifactKey: Guid(301d5b3c584063c45a4a1ccfb36467d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics Materials/Bouncy.physicMaterial using Guid(301d5b3c584063c45a4a1ccfb36467d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0a508739d754c4898d8c24759b0b8b') in 0.012688 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Physics Materials/Smooth.physicMaterial
+  artifactKey: Guid(e4b10a4f7d7a12a46a30b54781812298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Physics Materials/Smooth.physicMaterial using Guid(e4b10a4f7d7a12a46a30b54781812298) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef3388e5140c6da22186e1bb20bb31f4') in 0.010698 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 7.045666 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/ReflectionProbe-0.exr
+  artifactKey: Guid(6b1ed71f287e99c4d86f386f85ef6376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/ReflectionProbe-0.exr using Guid(6b1ed71f287e99c4d86f386f85ef6376) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a562f18db839aadedd17e7aaacb7f16e') in 0.044166 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/terrain_002n.tga
+  artifactKey: Guid(9451127a9a947a047be952fe6e754a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/terrain_002n.tga using Guid(9451127a9a947a047be952fe6e754a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48d0f5deb40974b51f2c866793190e3c') in 0.018414 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/terrain_002Layer.terrainlayer
+  artifactKey: Guid(b01c734f3ef3b3642ae609aeff7a8743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/terrain_002Layer.terrainlayer using Guid(b01c734f3ef3b3642ae609aeff7a8743) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad65b8c8192a2bf59528ff74f1191233') in 0.023525 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/terrain_002.tga
+  artifactKey: Guid(5c3a32b4aeffd984c800792dec707d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/terrain_002.tga using Guid(5c3a32b4aeffd984c800792dec707d16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbb209a5b1b6c724b797305e5475e8b3') in 0.015216 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.007160 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 124.57 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.787 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1788ms)
+		BeginReloadAssembly (286ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (133ms)
+		EndReloadAssembly (1377ms)
+			LoadAssemblies (132ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (264ms)
+			ReleaseScriptCaches (2ms)
+			RebuildScriptCaches (71ms)
+			SetupLoadedEditorAssemblies (764ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (125ms)
+				BeforeProcessingInitializeOnLoad (109ms)
+				ProcessInitializeOnLoadAttributes (469ms)
+				ProcessInitializeOnLoadMethodAttributes (39ms)
+				AfterProcessingInitializeOnLoad (14ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (25ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.02 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5087 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 185 unused Assets / (15.2 MB). Loaded Objects now: 5962.
+Memory consumption went from 404.9 MB to 389.7 MB.
+Total: 8.394800 ms (FindLiveObjects: 0.863200 ms CreateObjectMapping: 0.238800 ms MarkObjects: 3.570200 ms  DeleteObjects: 3.721300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

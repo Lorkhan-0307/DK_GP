@@ -640,3 +640,355 @@ Received Import Request.
   path: Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset
   artifactKey: Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Start importing Assets/Underwater-URP/Setting/AAA Universal Render Pipeline Asset_Renderer.asset using Guid(02fc9ace809ba0546adb7c22307271b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adffcaf79056d55a299c602978081823') in 0.015573 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 479.832810 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Shrine_Normal.png
+  artifactKey: Guid(08a1d311abda48e438696f35703005bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Environment/Shrine_Normal.png using Guid(08a1d311abda48e438696f35703005bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '047275e00297e2f86de4fab32785a5bb') in 0.022975 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015714 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Materials/Forest/Skybox.hdr
+  artifactKey: Guid(407927323dd293b4d87d48eec7a72807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Materials/Forest/Skybox.hdr using Guid(407927323dd293b4d87d48eec7a72807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8368bbae80206a54812af88a14435a') in 0.217546 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_MTS.tif
+  artifactKey: Guid(d74e3e5024e8aad47921965f6e91df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_MTS.tif using Guid(d74e3e5024e8aad47921965f6e91df00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '196f40d935f0c56518617c9cb487ea69') in 0.018646 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_8b260417-adb9-4beb-a0e7-ca9c7ebb3ad9.asset
+  artifactKey: Guid(a86561cb9a126ff4882ea6536808d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_8b260417-adb9-4beb-a0e7-ca9c7ebb3ad9.asset using Guid(a86561cb9a126ff4882ea6536808d39d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9dd08dd0378b20f7328ec3f1b91a1df') in 0.072976 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_Albedo.png
+  artifactKey: Guid(a3bcb29aa52a6964e988fd4582f0b117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_Albedo.png using Guid(a3bcb29aa52a6964e988fd4582f0b117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41a5706522dd0a69e8d705e8fa08c4bd') in 0.017058 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_BC.png
+  artifactKey: Guid(2156f182a8b84884486dce057edbd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_BC.png using Guid(2156f182a8b84884486dce057edbd72b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9723d523ae47b9d1ccf8b11ae1f88c3') in 0.017978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Normal.png
+  artifactKey: Guid(3ee288acdb9ddf54d9a4d16129a29ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Normal.png using Guid(3ee288acdb9ddf54d9a4d16129a29ff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '298f2b5c50be7053a1b9c4bc64fb4f1a') in 0.019980 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sprite@2x.png
+  artifactKey: Guid(96312eb063a7d9647a0b394151460712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/on/Sprite@2x.png using Guid(96312eb063a7d9647a0b394151460712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73bd1fff6c3358a3e361408859de2142') in 0.018730 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Underwater/Scenes/Demo_001/New Terrain.asset
+  artifactKey: Guid(a2c2d1e2f73d7ae49958b3dc8c86700e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Demo_001/New Terrain.asset using Guid(a2c2d1e2f73d7ae49958b3dc8c86700e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3945ea5fe97cc743ab97a8a9ff6093b5') in 0.033612 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_MetallicSmoothness.png
+  artifactKey: Guid(1adf65a4f6b09c44b84c1de4e4351977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_MetallicSmoothness.png using Guid(1adf65a4f6b09c44b84c1de4e4351977) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96bacc1e1d4f9cec4686ea526ede177d') in 0.019640 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_E.tif
+  artifactKey: Guid(0c1056c5a73e7d44e8ffe4b1b8ae9f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_E.tif using Guid(0c1056c5a73e7d44e8ffe4b1b8ae9f9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a58fc9b28e33e6a8f62e79e0776a014') in 0.013987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_BC.tif
+  artifactKey: Guid(ead3bd39da3d1f749a8c0006e88dc71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_BC.tif using Guid(ead3bd39da3d1f749a8c0006e88dc71c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77bd44eff0e70be270e08e2d7146a197') in 0.014720 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_E.tif
+  artifactKey: Guid(995170e80b8063745b2a4ddcc62dc593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Blue_E.tif using Guid(995170e80b8063745b2a4ddcc62dc593) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed70cd2c088bfee33b6e94852f611ea8') in 0.014769 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_MetallicSmoothness.png
+  artifactKey: Guid(5e2cd65ae61086046b3a8508dfb60f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_MetallicSmoothness.png using Guid(5e2cd65ae61086046b3a8508dfb60f61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '800751389f1cbf8b2662452bf30cd6ff') in 0.031231 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Forest/StonesRocks_Normal.png
+  artifactKey: Guid(5788985df048a7344a7b3584587bca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Forest/StonesRocks_Normal.png using Guid(5788985df048a7344a7b3584587bca04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83ddc1154cdb987175e4b07e2336a482') in 0.019228 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_N.png
+  artifactKey: Guid(81bd80bd990591f4180afeb0bc423d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_N.png using Guid(81bd80bd990591f4180afeb0bc423d8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5f993c7fe950bd8a7facbf95368792a') in 0.017931 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite@2x.png
+  artifactKey: Guid(0827381bdac1bcb45ac1962eb838af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite@2x.png using Guid(0827381bdac1bcb45ac1962eb838af6b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '524c9db8a521da061fe6f3dbd98979b4') in 0.014697 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_BC.tif
+  artifactKey: Guid(c9a0de0a86ce3e745a84b9ddd123a201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_BC.tif using Guid(c9a0de0a86ce3e745a84b9ddd123a201) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db48cdc7b73eb833e2f8aca7bfc0123b') in 0.014259 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Demo/Demo/Demo_Terrain.asset
+  artifactKey: Guid(c2cef055ac2e2da478f57547c98e509e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Demo/Demo/Demo_Terrain.asset using Guid(c2cef055ac2e2da478f57547c98e509e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cc0638fab0921bab31173d50f88c2ee') in 0.025684 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_MTS.tif
+  artifactKey: Guid(940ea82d988666d4aafee52fa2129b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Red_MTS.tif using Guid(940ea82d988666d4aafee52fa2129b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75ea31527a58acc1cee6df421668c895') in 0.016059 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_E.tif
+  artifactKey: Guid(acfc7ea2faf2b7044bbc6fb7f4b8b367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Turquoise_E.tif using Guid(acfc7ea2faf2b7044bbc6fb7f4b8b367) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e2c6da8486590b05afdf77ec371c84') in 0.015279 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick.png
+  artifactKey: Guid(6234dae5cf6f04acb9a51e04d448e444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.inputsystem/InputSystem/Editor/Icons/Stick.png using Guid(6234dae5cf6f04acb9a51e04d448e444) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ccadf02f8bd29898ca4942c216cc558') in 0.016686 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_E.tif
+  artifactKey: Guid(6ffdeec80a08a6a428da9d63ec07a94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fire_E.tif using Guid(6ffdeec80a08a6a428da9d63ec07a94c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e354cedcdba15a763c496760ed934e5') in 0.014010 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_Normal.png
+  artifactKey: Guid(a627078f0187d9543b144ab9ae06e35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stones_7,8,9_Normal.png using Guid(a627078f0187d9543b144ab9ae06e35f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f4aa23fbc89466bf5353ed638832243') in 0.018939 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_MTS.tif
+  artifactKey: Guid(4e8461501d43ee644ab2699cab0cc455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Purple_MTS.tif using Guid(4e8461501d43ee644ab2699cab0cc455) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f2df0bce65a0eeb3455a9998b1d5f06') in 0.013987 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystals_AO.tif
+  artifactKey: Guid(e73c2b59be852524e921f8385591b2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystals_AO.tif using Guid(e73c2b59be852524e921f8385591b2b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93c52e72faef0e8eb6fd93b1fd4a8025') in 0.014117 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_Albedo.png
+  artifactKey: Guid(ff25a36dbe240674e95cc18032c6f008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HIGHLANDS - Stylized Environment/Textures/Witches House/Stuff_Albedo.png using Guid(ff25a36dbe240674e95cc18032c6f008) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9ab83639e2a804602126ec920827da') in 0.016332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Albedo.png
+  artifactKey: Guid(bd11adfebe8482b418cb6e3d62085fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Vegetation/Snag Stump_Albedo.png using Guid(bd11adfebe8482b418cb6e3d62085fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e28891417970c03e969802fafc5ec9e') in 0.016311 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs_Light.png
+  artifactKey: Guid(e4b05266707f99b40a50fd3e83973928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs_Light.png using Guid(e4b05266707f99b40a50fd3e83973928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56579603a42d5e8438465ea111322845') in 0.016403 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_E.png
+  artifactKey: Guid(be110dd594d60104bb5bb9f3abe1b960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_E.png using Guid(be110dd594d60104bb5bb9f3abe1b960) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '380fa0d00eaaeb1987145ccffd6b9239') in 0.017127 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_MTS.tif
+  artifactKey: Guid(b6f92edddc41f3344a1c5b0689e632eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Fairy_MTS.tif using Guid(b6f92edddc41f3344a1c5b0689e632eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64c748a9a570aab3fbeae774773e55cd') in 0.013732 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_Emission.tif
+  artifactKey: Guid(0e6b5cd5cfce46841a4474ef497947ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Green_Emission.tif using Guid(0e6b5cd5cfce46841a4474ef497947ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a4c32e1b069793246b4724e107fe76b') in 0.014644 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Cave Scatter Pack/Scene Utilities/T_FloorChecker_BC.png
+  artifactKey: Guid(f53823ce3fe0ef64880854a1347306aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Scene Utilities/T_FloorChecker_BC.png using Guid(f53823ce3fe0ef64880854a1347306aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bae3cd9eaf7dbc80ec5184de7ce1b6eb') in 0.013452 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere@2x.png
+  artifactKey: Guid(9d6b1e56a1b31ab4f9dc450952e94471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere@2x.png using Guid(9d6b1e56a1b31ab4f9dc450952e94471) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19cf1db7cfac72fe0f481e68f676c5ed') in 0.014890 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_MetallicSmoothness.png
+  artifactKey: Guid(90a477da032bb944a9559ab5954d7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_MetallicSmoothness.png using Guid(90a477da032bb944a9559ab5954d7278) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faa90b7cda139250a5842e54defbf03e') in 0.019291 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_MTS.tif
+  artifactKey: Guid(5e0467ff18c4e0c49bafa1daf4e28d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Cloud_MTS.tif using Guid(5e0467ff18c4e0c49bafa1daf4e28d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57482651d175f08ae1d67b34c2cb4c7c') in 0.013877 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite_Light.png
+  artifactKey: Guid(ead9ac35e4645134cac919aabeffe4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite_Light.png using Guid(ead9ac35e4645134cac919aabeffe4b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'feb92fb675c4ba82e67417a00f214cb5') in 0.016944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere_Light.png
+  artifactKey: Guid(6fee26175b0206b41aec451c63d48989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere_Light.png using Guid(6fee26175b0206b41aec451c63d48989) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3daf7035f60af3237ecf374ea3f0974') in 0.016265 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_5616a49f-96ec-4805-ad71-0499e2f72eb6.asset
+  artifactKey: Guid(752c647222f834e45aa6c266c0f32f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_5616a49f-96ec-4805-ad71-0499e2f72eb6.asset using Guid(752c647222f834e45aa6c266c0f32f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b26d700ffb0b32878facbf3262b7ade') in 0.040404 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Underwater/Scenes/Scene_Asset/Sky.hdr
+  artifactKey: Guid(fed3a5f68938d9f49abb4678dcbcdf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Underwater/Scenes/Scene_Asset/Sky.hdr using Guid(fed3a5f68938d9f49abb4678dcbcdf0a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fd4d974e5885432f86b47c3e1cb1795') in 0.015993 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_MTS.png
+  artifactKey: Guid(571c14677a6a1c64f805c8f8095cc640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Mushrooms Large/T_Mushroom_01_MTS.png using Guid(571c14677a6a1c64f805c8f8095cc640) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd949c95cb3fbbffdc800135468e18c7d') in 0.013990 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_42f6b72e-2507-4b26-a626-d635332dae96.asset
+  artifactKey: Guid(9adcc1861e5dea041a16d5bd0671ff07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_42f6b72e-2507-4b26-a626-d635332dae96.asset using Guid(9adcc1861e5dea041a16d5bd0671ff07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44c58a11f21fc563194b0bdabc0820b5') in 0.061084 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_E.tif
+  artifactKey: Guid(9766c33eac059af4ea1a2a429167dcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Void_E.tif using Guid(9766c33eac059af4ea1a2a429167dcdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac315973c4ed6ffb05fc445a81cf135') in 0.015584 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs.png
+  artifactKey: Guid(db8ede24485cce14ca6db9839d7eb3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Stairs.png using Guid(db8ede24485cce14ca6db9839d7eb3f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6b4a1d95f4689cbb9f6fc0e3ba0a25b') in 0.017332 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere.png
+  artifactKey: Guid(354177b5c3a3c6240ada0b1db08cad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sphere.png using Guid(354177b5c3a3c6240ada0b1db08cad55) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68e6a8534920847d644b0156cadfb0b4') in 0.014035 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_7ac8b55d-7891-474d-9fff-d100a39a15c4.asset
+  artifactKey: Guid(446642ac53593104d81aa01449a8cbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_7ac8b55d-7891-474d-9fff-d100a39a15c4.asset using Guid(446642ac53593104d81aa01449a8cbc2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3146709350b494d3eb7ebae6ca1b58') in 0.068866 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Ice_BC.tif
+  artifactKey: Guid(cfae04a8e1b03934dada15eb0988391a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Ice_BC.tif using Guid(cfae04a8e1b03934dada15eb0988391a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f21601d521c4335f5c0a00d4af1028db') in 0.015204 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_Albedo.png
+  artifactKey: Guid(f77e3ec5a5406c14eb66150a42006c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_5,6_Albedo.png using Guid(f77e3ec5a5406c14eb66150a42006c8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10a532fff28b87fa9da3ddc7781c8a00') in 0.016537 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_580421ec-5f54-4b70-9a2d-4b0d66bf362b.asset
+  artifactKey: Guid(a5d6ff5fa7521ed4c9e4ff56f02783d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Demo/Grasslands Demo/TerrainData_580421ec-5f54-4b70-9a2d-4b0d66bf362b.asset using Guid(a5d6ff5fa7521ed4c9e4ff56f02783d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b0e2501c57af3151850e2a7ac253b865') in 0.043744 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_BC.tif
+  artifactKey: Guid(650f576cb601b2a45a0e5ada38ce2a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Crystals/T_Crystal_Necro_BC.tif using Guid(650f576cb601b2a45a0e5ada38ce2a08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74a0a27863ccdcd217ab28165971bc65') in 0.015498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite_Light@2x.png
+  artifactKey: Guid(00e4f99de3d7dfa458b8121ffc287623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.probuilder/Content/Icons/Tools/ShapeTool/Sprite_Light@2x.png using Guid(00e4f99de3d7dfa458b8121ffc287623) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56e4770f05c308a5f9686c4835601dad') in 0.017340 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_MetallicSmoothness.png
+  artifactKey: Guid(42e3f598047c9f44c9087891feccf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Rocks/Stone_3,4_MetallicSmoothness.png using Guid(42e3f598047c9f44c9087891feccf29b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cbf204274e6aaa6896d4c8404be1c91') in 0.018242 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Materials/Skybox/symmetrical_garden_02_4k.exr
+  artifactKey: Guid(35691b0bfa631f645950ea22737caa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials/Skybox/symmetrical_garden_02_4k.exr using Guid(35691b0bfa631f645950ea22737caa32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3b716a517d283adfdb4d14748409233b') in 0.252303 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.036610 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_Normal.png
+  artifactKey: Guid(9d781b7d6d6355645a88b2765dddc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStones_Normal.png using Guid(9d781b7d6d6355645a88b2765dddc3e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02f52908f739a9795ff714181ce87289') in 0.020199 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStonesGrass_AlbedoSmoothness.png
+  artifactKey: Guid(cb2a242eb97179b48bf17a984e726d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Raygeas/Grasslands - Stylized Nature/Assets/Textures/Terrain/MudStonesGrass_AlbedoSmoothness.png using Guid(cb2a242eb97179b48bf17a984e726d03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef41355e05f7bffb59881861ac551b25') in 0.017972 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_AO.tif
+  artifactKey: Guid(ace0fc09749fb5242923a391b69cc074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_AO.tif using Guid(ace0fc09749fb5242923a391b69cc074) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a3e3aae66565fb07717a3b063eab456') in 0.013234 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_BC.tif
+  artifactKey: Guid(ff11813f14406704990c99f33e98c71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_BC.tif using Guid(ff11813f14406704990c99f33e98c71a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b55967ed2c826a3c632fbb465c8bd785') in 0.013622 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_MTS.tif
+  artifactKey: Guid(ebce887b216a63143858e69c753031db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cave Scatter Pack/Textures/Scatter/T_ScatterPack_GemsAndStones_MTS.tif using Guid(ebce887b216a63143858e69c753031db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '216409d1e3cdbb1890c74af281a01b5f') in 0.013456 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
