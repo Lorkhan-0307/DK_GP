@@ -1,23 +1,23 @@
 Using pre-set license
-Built from '2021.3/staging' branch; Version is '2021.3.23f1 (213b516bf396) revision 2177873'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 10  (10.0.19045) 64bit Education' Language: 'ko' Physical Memory: 32555 MB
+Built from '2022.3/staging' branch; Version is '2022.3.49f1 (4dae1bb8668d) revision 5090843'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ko' Physical Memory: 64661 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-C:\Program Files\Unity\Hub\Editor\2021.3.23f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2022.3.49f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker1
 -projectPath
-C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
+C:/Github/DK_GP/stylised-character-controller
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-53550
-Successfully changed project path to: C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
-C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
+59870
+Successfully changed project path to: C:/Github/DK_GP/stylised-character-controller
+C:/Github/DK_GP/stylised-character-controller
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -39,6 +39,8 @@ C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
     "memorysetup-job-temp-allocator-block-size=2097152"
     "memorysetup-job-temp-allocator-block-size-background=1048576"
     "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
     "memorysetup-temp-allocator-size-background-worker=32768"
     "memorysetup-temp-allocator-size-job-worker=262144"
     "memorysetup-temp-allocator-size-preload-manager=33554432"
@@ -47,145 +49,301 @@ C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [33872] Host "[IP] 192.168.219.102 [Port] 0 [Flags] 2 [Guid] 1172486414 [EditorId] 1172486414 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VL9NS21) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [48900]  Target information:
 
-Player connection [33872] Host "[IP] 192.168.219.102 [Port] 0 [Flags] 2 [Guid] 1172486414 [EditorId] 1172486414 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-VL9NS21) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [48900]  * "[IP] 192.168.0.32 [Port] 0 [Flags] 2 [Guid] 746213156 [EditorId] 746213156 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-7UKNV9B) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Refreshing native plugins compatible for Editor in 124.50 ms, found 0 plugins.
+Player connection [48900] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [48900] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+Refreshing native plugins compatible for Editor in 7.20 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Initialize engine version: 2021.3.23f1 (213b516bf396)
-[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/Choi/Documents/GitHub/DK_GP/stylised-character-controller/Assets
+Initialize engine version: 2022.3.49f1 (4dae1bb8668d)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Github/DK_GP/stylised-character-controller/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce RTX 3080 (ID=0x2216)
+    Renderer: NVIDIA GeForce RTX 4060 Ti (ID=0x2803)
     Vendor:   NVIDIA
-    VRAM:     10053 MB
-    Driver:   31.0.15.5244
+    VRAM:     7949 MB
+    Driver:   31.0.15.5222
 Initialize mono
-Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/Managed'
-Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56268
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56632
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.23f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.011555 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.49f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005472 seconds.
+- Loaded All Assemblies, in  0.238 seconds
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 117.63 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  0.716 seconds
-Domain Reload Profiling:
-	ReloadAssembly (717ms)
-		BeginReloadAssembly (107ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (0ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (498ms)
-			LoadAssemblies (103ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (106ms)
-			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (31ms)
-			SetupLoadedEditorAssemblies (305ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (9ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (118ms)
-				BeforeProcessingInitializeOnLoad (2ms)
-				ProcessInitializeOnLoadAttributes (127ms)
-				ProcessInitializeOnLoadMethodAttributes (49ms)
-				AfterProcessingInitializeOnLoad (0ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (0ms)
-Platform modules already initialized, skipping
-Registering precompiled user dll's ...
-Registered in 0.005893 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 133.33 ms, found 0 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.810 seconds
-Domain Reload Profiling:
-	ReloadAssembly (1811ms)
-		BeginReloadAssembly (116ms)
-			ExecutionOrderSort (0ms)
-			DisableScriptedObjects (6ms)
-			BackupInstance (0ms)
-			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (18ms)
-		EndReloadAssembly (1581ms)
-			LoadAssemblies (107ms)
-			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (239ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (114ms)
-			SetupLoadedEditorAssemblies (1074ms)
-				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (6ms)
-				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (133ms)
-				BeforeProcessingInitializeOnLoad (137ms)
-				ProcessInitializeOnLoadAttributes (744ms)
-				ProcessInitializeOnLoadMethodAttributes (40ms)
-				AfterProcessingInitializeOnLoad (12ms)
-				EditorAssembliesLoaded (0ms)
-			ExecutionOrderSort2 (0ms)
-			AwakeInstancesAfterBackupRestoration (8ms)
-Platform modules already initialized, skipping
+- Finished resetting the current domain, in  0.179 seconds
+Domain Reload Profiling: 416ms
+	BeginReloadAssembly (69ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (44ms)
+	LoadAllAssembliesAndSetupDomain (94ms)
+		LoadAssemblies (67ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (93ms)
+			TypeCache.Refresh (92ms)
+				TypeCache.ScanAssembly (84ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (180ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (150ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (1ms)
+			ProcessInitializeOnLoadAttributes (105ms)
+			ProcessInitializeOnLoadMethodAttributes (32ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
-Refreshing native plugins compatible for Editor in 1.20 ms, found 0 plugins.
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.480 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.504 seconds
+Domain Reload Profiling: 981ms
+	BeginReloadAssembly (103ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (15ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (11ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (311ms)
+		LoadAssemblies (223ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (147ms)
+			TypeCache.Refresh (112ms)
+				TypeCache.ScanAssembly (101ms)
+			ScanForSourceGeneratedMonoScriptInfo (24ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (505ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (388ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (57ms)
+			ProcessInitializeOnLoadAttributes (260ms)
+			ProcessInitializeOnLoadMethodAttributes (58ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (4ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.03 seconds
+Refreshing native plugins compatible for Editor in 3.73 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 5429 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 337 unused Assets / (16.2 MB). Loaded Objects now: 5746.
-Memory consumption went from 325.6 MB to 309.5 MB.
-Total: 6.705400 ms (FindLiveObjects: 0.791900 ms CreateObjectMapping: 0.202800 ms MarkObjects: 3.064100 ms  DeleteObjects: 2.645200 ms)
+Unloading 6377 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 200 unused Assets / (16.2 MB). Loaded Objects now: 6734.
+Memory consumption went from 378.6 MB to 362.4 MB.
+Total: 8.847400 ms (FindLiveObjects: 0.857000 ms CreateObjectMapping: 0.196800 ms MarkObjects: 3.052000 ms  DeleteObjects: 4.740700 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 3ead1caaecf1c488f20bcfeb224b6af5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 6826.449874 seconds.
-  path: Assets/BK/PureNature_Islands/Settings/URP/URP.unitypackage
-  artifactKey: Guid(30a54d5bf7c3f744590cd3fa89448cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BK/PureNature_Islands/Settings/URP/URP.unitypackage using Guid(30a54d5bf7c3f744590cd3fa89448cd0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96a3324fe0ed5028238aea442b7b8208') in 0.039440 seconds 
+  Time since last request: 265643.901244 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Verdivalis2.prefab
+  artifactKey: Guid(2319ae941379c7a49b75438c3e65d241) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Verdivalis2.prefab using Guid(2319ae941379c7a49b75438c3e65d241) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f126e2cff00a6ceaa652edb1e85b5367') in 0.834567 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 340
 ========================================================================
 Received Import Request.
-  Time since last request: 3.087450 seconds.
-  path: Assets/BK/PureNature_Islands/Settings/URP/UniversalRenderPipelineGlobalSettings.asset
-  artifactKey: Guid(d91342fec335c7646a2c068da2e33744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BK/PureNature_Islands/Settings/URP/UniversalRenderPipelineGlobalSettings.asset using Guid(d91342fec335c7646a2c068da2e33744) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1176b69e64446851b66731424508cfeb') in 0.027618 seconds 
+  Time since last request: 0.000027 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Glocus3.prefab
+  artifactKey: Guid(c02c71856589d984ba64102ff52d5e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Glocus3.prefab using Guid(c02c71856589d984ba64102ff52d5e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'd85557f3e7997ab0b78b95bf1d788b62') in 0.242589 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000036 seconds.
-  path: Assets/BK/PureNature_Islands/Settings/URP/URP Asset_Renderer.asset
-  artifactKey: Guid(2c4d4560489bb9f4db8d266fa6cc8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BK/PureNature_Islands/Settings/URP/URP Asset_Renderer.asset using Guid(2c4d4560489bb9f4db8d266fa6cc8e4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a85fdb504198fb0888abcdeebcf2a7c') in 0.009135 seconds 
+  Time since last request: 0.000264 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Homis1.prefab
+  artifactKey: Guid(35f2220ac40eb774fa9017c1af145033) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Homis1.prefab using Guid(35f2220ac40eb774fa9017c1af145033) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '90ea352a79f1e8aa4c28ba1ae4fb44a5') in 0.016193 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
 ========================================================================
 Received Import Request.
-  Time since last request: 96.098471 seconds.
-  path: Assets/BK/PureNature_Islands/Settings/Builtin/Underwater Post-process Volume Profile.asset
-  artifactKey: Guid(8250f915793ee6a45b95354b9f903a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BK/PureNature_Islands/Settings/Builtin/Underwater Post-process Volume Profile.asset using Guid(8250f915793ee6a45b95354b9f903a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09111ebc620baf0c1e08634fad342bc4') in 0.012828 seconds 
+  Time since last request: 0.000019 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Algae1.prefab
+  artifactKey: Guid(dbae05051b90eaf4b95961ae4c78ef4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Algae1.prefab using Guid(dbae05051b90eaf4b95961ae4c78ef4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7b745e8b0ded2c70cc954b2186ef7141') in 0.015158 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
 ========================================================================
 Received Import Request.
-  Time since last request: 82.740468 seconds.
-  path: Assets/BK/PureNature_Islands/Models/Trees/Coconut/CoconutLeaves_n.png
-  artifactKey: Guid(fd76ed910ba020b42b342e39819d05b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/BK/PureNature_Islands/Models/Trees/Coconut/CoconutLeaves_n.png using Guid(fd76ed910ba020b42b342e39819d05b6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a42d6b07dc7f1a640a4e20de26be90') in 0.089411 seconds 
+  Time since last request: 0.000019 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Flagilis1.prefab
+  artifactKey: Guid(e7cae0a5806c0c247ae89d24090e5043) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Flagilis1.prefab using Guid(e7cae0a5806c0c247ae89d24090e5043) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '80308b95ad6d1c49de5526aa0e3cdb17') in 0.014835 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Cerfolet2.prefab
+  artifactKey: Guid(62d6375c41434424fb9f8aea535832f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Cerfolet2.prefab using Guid(62d6375c41434424fb9f8aea535832f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'f28da9e6d26e6a77cc7b00e2807d898d') in 0.014396 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Muck2.prefab
+  artifactKey: Guid(0129624d4c43d4f47a2e19510c74358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Muck2.prefab using Guid(0129624d4c43d4f47a2e19510c74358f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '78b5e1e35dfe0789e3de30707ab70a97') in 0.014727 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Aquila3.prefab
+  artifactKey: Guid(8ee943222170f1147b3c96a0b76dfa9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Aquila3.prefab using Guid(8ee943222170f1147b3c96a0b76dfa9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '66ecfe2075ddde2a0249ebe3c9686df7') in 0.017532 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Whister1.prefab
+  artifactKey: Guid(8288ab130f4639e4f8e70624c1f39c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Whister1.prefab using Guid(8288ab130f4639e4f8e70624c1f39c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '715bc1f5e55c748c932723bedc0ec2ee') in 0.014844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Silvabor1.prefab
+  artifactKey: Guid(ab84c045fdf00ec45b988b99d52d0eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Silvabor1.prefab using Guid(ab84c045fdf00ec45b988b99d52d0eb6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'c07fb21e7b2cbdc59f9db9912d930aaf') in 0.013758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Escala2.prefab
+  artifactKey: Guid(f66e873b2f0b984429ebe072e41c9fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Escala2.prefab using Guid(f66e873b2f0b984429ebe072e41c9fa0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'b5b3c6dcebcef0e366e17e0a0881d044') in 0.015506 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/BigKelp2.prefab
+  artifactKey: Guid(06ada43296ed37d4a8d98bce59955e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/BigKelp2.prefab using Guid(06ada43296ed37d4a8d98bce59955e18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '6b254e3971a735e20312e21f7cb4d829') in 0.025893 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Silvabor3.prefab
+  artifactKey: Guid(f8de697004adc5c448f4918307b10a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Silvabor3.prefab using Guid(f8de697004adc5c448f4918307b10a39) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '87cf85293e0238ced4dc915e25ee4de4') in 0.014245 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Couec2.prefab
+  artifactKey: Guid(f9a31f2e9db82ba49ae043a68f45c8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Couec2.prefab using Guid(f9a31f2e9db82ba49ae043a68f45c8c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '99288e78083e717a4433a7fa1d319f4c') in 0.014803 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000094 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Homis2.prefab
+  artifactKey: Guid(42031477c92300d4b99efa4d4426b012) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Homis2.prefab using Guid(42031477c92300d4b99efa4d4426b012) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '7e48576dd492aaec5d59a3943babbfa2') in 0.017627 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Frondura2.prefab
+  artifactKey: Guid(cdf1633524482fd44a40cbe57552f928) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Frondura2.prefab using Guid(cdf1633524482fd44a40cbe57552f928) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: 'a812bb663dfce9902ff9a183a7ed14fe') in 0.015417 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/BK/PureNature_Islands/Prefabs/Underwater/Pepette1.prefab
+  artifactKey: Guid(6bcb80a7cce140e43a2203418207c828) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BK/PureNature_Islands/Prefabs/Underwater/Pepette1.prefab using Guid(6bcb80a7cce140e43a2203418207c828) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+[PhysX] Initialized MultithreadedTaskDispatcher with 16 workers.
+ -> (artifact id: '08257869ce2ea0bf54be708b07638680') in 0.011360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 20

@@ -37,3 +37,7 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.log
+stylised-character-controller/Logs/AssetImportWorker2.log
+stylised-character-controller/Logs/AssetImportWorker3.log
+stylised-character-controller/Logs/shadercompiler-AssetImportWorker0.log
+stylised-character-controller/Logs/shadercompiler-UnityShaderCompiler.exe0.log

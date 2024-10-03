@@ -9,6 +9,7 @@ TagManager:
   - Explosions
   - Platforms
   - unavailable
+  - sampleCamera
   layers:
   - Default
   - TransparentFX
