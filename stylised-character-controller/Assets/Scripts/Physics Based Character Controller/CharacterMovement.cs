@@ -6,13 +6,16 @@ using UnityEngine.InputSystem;
 
 public class CharacterMovement : MonoBehaviour
 {
+    
     public Transform cameraTransform;
     public float moveSpeed = 5f;
     public float rotationSpeed = 10f;
-    public float jumpForce = 10f; // 더 큰 초기 점프 힘
-    public float initialJumpGravity = -15f; // 처음 올라갈 때 큰 중력 값
-    public float jumpGravity = -8f; // 올라가는 동안 점점 감소하는 중력 값
-    public float fallGravity = -20f; // 내려오는 동안 큰 중력 값
+    public float jumpForce = 4.5f; 
+    public float initialJumpGravity = -30f; 
+    public float jumpGravity = -8f; 
+    public float fallGravity = -50f;
+
+    public bool isInteracting;
 
     [SerializeField] Animator _animator;
 
@@ -25,9 +28,16 @@ public class CharacterMovement : MonoBehaviour
     private static readonly int JumpAnim = Animator.StringToHash("jump_anim");
     private static readonly int IsDown = Animator.StringToHash("is_down");
 
+    private Collider _currentInteractionCollider;
+
+
+    [SerializeField] private GameObject interactionUI;
+
     private void Start()
     {
         _characterController = GetComponent<CharacterController>();
+        interactionUI.SetActive(false);
+        isInteracting = false;
     }
 
     public void MoveInputAction(InputAction.CallbackContext context)
@@ -44,10 +54,28 @@ public class CharacterMovement : MonoBehaviour
             _animator.SetBool(IsDown, false); // 공중에 있을 때 is_down을 false로 설정
         }
     }
-
-    private void Update()
+    
+    public void InteractionInputAction(InputAction.CallbackContext context)
     {
-        HandleMovement();
+        if (context.performed && _currentInteractionCollider != null)
+        {
+            
+            CutsceneObject interactionObject = _currentInteractionCollider.GetComponent<CutsceneObject>();
+            if (interactionObject != null)
+            {
+                interactionObject.PlayCutScene(); // 해당 오브젝트의 PlayCutScene 함수 호출
+            }
+            interactionUI.SetActive(false);
+            isInteracting = true;
+        }
+    }
+
+    private void FixedUpdate()
+    {
+        if (!isInteracting)
+        {
+            HandleMovement();
+        }
     }
 
     private void HandleMovement()
@@ -57,15 +85,11 @@ public class CharacterMovement : MonoBehaviour
         if (_isGrounded && _verticalVelocity < 0)
         {
             _verticalVelocity = -2f; // 약간의 음수 값을 주어 땅에 붙어있도록 설정
-            
         }
 
         // 애니메이션 상태 확인
         AnimatorStateInfo stateInfo = _animator.GetCurrentAnimatorStateInfo(0);
         bool isLanding = stateInfo.IsName("flower|Down"); // "Down" 상태인지 확인 (착지 애니메이션)
-
-        // 착지 상태에서는 이동하지 않음
-        //if (isLanding) return;
 
         Vector3 moveDirection = Vector3.zero;
 
@@ -107,7 +131,6 @@ public class CharacterMovement : MonoBehaviour
         {
             // 내려가는 동안 중력 적용
             _verticalVelocity += fallGravity * Time.deltaTime;
-            
             _animator.SetBool(IsDown, true); // 땅에 착지하면 is_down을 true로 설정
         }
 
@@ -115,5 +138,32 @@ public class CharacterMovement : MonoBehaviour
         moveDirection *= moveSpeed;
         moveDirection.y = _verticalVelocity;
         _characterController.Move(moveDirection * Time.deltaTime);
+    }
+    
+    private void OnTriggerEnter(Collider other)
+    {
+        Debug.Log(other.GetComponent<Transform>().name);
+        if (other.CompareTag("Interactive"))
+        {
+            interactionUI.SetActive(true);
+            _currentInteractionCollider = other;
+        }
+    }
+
+    private void OnTriggerExit(Collider other)
+    {
+        if (other.CompareTag("Interactive"))
+        {
+            if (_currentInteractionCollider == other)
+            {
+                _currentInteractionCollider = null;
+                interactionUI.SetActive(false);
+            }
+        }
+    }
+
+    public void SetIsNotInteracting()
+    {
+        isInteracting = false;
     }
 }
