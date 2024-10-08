@@ -166,4 +166,9 @@ public class CharacterMovement : MonoBehaviour
     {
         isInteracting = false;
     }
+    
+    public void SetTransform(Transform targetTransform)
+    {
+            
+    }
 }
