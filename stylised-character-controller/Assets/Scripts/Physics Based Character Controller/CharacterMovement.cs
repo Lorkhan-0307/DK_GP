@@ -59,14 +59,19 @@ public class CharacterMovement : MonoBehaviour
     {
         if (context.performed && _currentInteractionCollider != null)
         {
+            bool hasInteracted = false;
             
             CutsceneObject interactionObject = _currentInteractionCollider.GetComponent<CutsceneObject>();
             if (interactionObject != null)
             {
-                interactionObject.PlayCutScene(); // 해당 오브젝트의 PlayCutScene 함수 호출
+                hasInteracted = interactionObject.PlayCutScene(); // 해당 오브젝트의 PlayCutScene 함수 호출
             }
-            interactionUI.SetActive(false);
-            isInteracting = true;
+
+            if (hasInteracted)
+            {
+                interactionUI.SetActive(false);
+                isInteracting = true;
+            }
         }
     }
 

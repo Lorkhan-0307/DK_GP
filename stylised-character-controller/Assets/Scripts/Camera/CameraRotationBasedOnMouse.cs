@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -8,9 +9,16 @@ public class CameraRotationBasedOnMouse : MonoBehaviour
     private float MouseX;
 
     public bool isInteracting = false;
+    private CharacterMovement _cm;
+
+    private void Start()
+    {
+        _cm = FindObjectOfType<CharacterMovement>();
+    }
 
     private void Update()
     {
+        isInteracting = _cm.isInteracting;
         if(!isInteracting) Rotate();
     }
 
