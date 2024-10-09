@@ -45,6 +45,9 @@ public class SwitchSceneManager : SingletonMonoBehaviour<SwitchSceneManager> {
         
         
         Debug.Log("SwitchSceneManager.Start");
+        SwitchScene("Title", "LoadingScene", () => {
+            PageManager.ChangeImmediate("MainPage");
+        });
 
 /*#if UNITY_EDITOR
         SwitchScene("Title", "MainScene", () => {
