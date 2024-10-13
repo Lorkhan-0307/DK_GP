@@ -57,7 +57,7 @@ public class CharacterMovement : MonoBehaviour
     
     public void InteractionInputAction(InputAction.CallbackContext context)
     {
-        if (context.performed && _currentInteractionCollider != null)
+        if (context.performed && _currentInteractionCollider != null && !isInteracting)
         {
             bool hasInteracted = false;
             
