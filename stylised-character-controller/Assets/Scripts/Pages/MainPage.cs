@@ -46,8 +46,8 @@ public class MainPage : PageHandler
                 Debug.Log("Crystal selected");
                 break;
             case "Tree":
-                switchSceneManager.SwitchScene("Title", "FlowerPlayScene", () => {
-                    PageManager.ChangeImmediate("FlowerPlayPage");
+                switchSceneManager.SwitchScene("Title", "Tree_Map", () => {
+                    PageManager.ChangeImmediate("TreePlayPage");
                 });
                 Debug.Log("Tree selected");
                 break;
