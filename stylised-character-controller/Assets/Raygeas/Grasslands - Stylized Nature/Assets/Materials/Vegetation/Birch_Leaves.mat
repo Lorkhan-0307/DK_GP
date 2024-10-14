@@ -9,6 +9,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Birch_Leaves
   m_Shader: {fileID: 4800000, guid: c47d9210692ed674187da9357a4bcd28, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _COLOR2ENABLE_ON
   - _ENABLEWIND_ON
@@ -20,6 +22,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -146,7 +149,7 @@ Material:
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _MainColor: {r: 1, g: 0.5796576, b: 0.08018869, a: 0}
-    - _SecondColor: {r: 0.851, g: 0.79942423, b: 0.084731616, a: 0}
-    - _TranslucencyColor: {r: 1, g: 0.9487784, b: 0.6367924, a: 0}
+    - _MainColor: {r: 0.34184235, g: 0.5188679, b: 0, a: 0}
+    - _SecondColor: {r: 1, g: 0.88366365, b: 0, a: 0}
+    - _TranslucencyColor: {r: 0.63529414, g: 0.72416437, b: 1, a: 0}
   m_BuildTextureStacks: []
