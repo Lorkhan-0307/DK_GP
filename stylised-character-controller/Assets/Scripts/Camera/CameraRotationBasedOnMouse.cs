@@ -30,7 +30,7 @@ public class CameraRotationBasedOnMouse : MonoBehaviour
         MouseX += mouseDelta.x * mouseSensitivity * Time.deltaTime;
         MouseY -= mouseDelta.y * mouseSensitivity * Time.deltaTime;
 
-        MouseY = Mathf.Clamp(MouseY, -30f, 90f); // Clamp를 통해 최소값 최대값을 넘지 않도록함
+        MouseY = Mathf.Clamp(MouseY, -10f, 90f); // Clamp를 통해 최소값 최대값을 넘지 않도록함
 
         transform.localRotation = Quaternion.Euler(MouseY, MouseX, 0f); // 각 축을 한꺼번에 계산
     }
