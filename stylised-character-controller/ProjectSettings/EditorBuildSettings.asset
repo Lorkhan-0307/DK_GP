@@ -14,5 +14,17 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/MAPS/Tree_Map.unity
     guid: 0b36cab5cc43a7a4b98e9039e14ab217
+  - enabled: 1
+    path: Assets/MAPS/Sky_Map.unity
+    guid: 86dc171ea793840429b6eeef0e533168
+  - enabled: 1
+    path: Assets/MAPS/Ocean_Map.unity
+    guid: 2124fa473c02572468416b224e939b0a
+  - enabled: 1
+    path: Assets/MAPS/Fire_Map.unity
+    guid: 73eb40a978f831b4ab3ab182c9c35ede
+  - enabled: 1
+    path: Assets/MAPS/Crystal_Map.unity
+    guid: a8debb5dbc3848643b9d3aa498fc4cec
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 3b635b11bd2bc124bab16ca8e917314d, type: 2}
