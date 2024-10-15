@@ -12,6 +12,7 @@ TagManager:
   - sampleCamera
   - Item
   - Interactive
+  - Fall
   layers:
   - Default
   - TransparentFX

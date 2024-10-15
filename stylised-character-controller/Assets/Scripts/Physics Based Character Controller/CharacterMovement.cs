@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem;
+using UnityEngine.SceneManagement;
 
 public class CharacterMovement : MonoBehaviour
 {
@@ -32,12 +33,20 @@ public class CharacterMovement : MonoBehaviour
 
 
     [SerializeField] private GameObject interactionUI;
+    
+    private SwitchSceneManager _switchSceneManager;
 
     private void Start()
     {
         _characterController = GetComponent<CharacterController>();
         interactionUI.SetActive(false);
         isInteracting = false;
+    
+#if UNITY_EDITOR
+#else 
+        _switchSceneManager = FindObjectOfType<SwitchSceneManager>();
+#endif
+        
     }
 
     public void MoveInputAction(InputAction.CallbackContext context)
@@ -152,6 +161,17 @@ public class CharacterMovement : MonoBehaviour
         {
             interactionUI.SetActive(true);
             _currentInteractionCollider = other;
+        }
+        else if (other.CompareTag("Fall"))
+        {
+#if UNITY_EDITOR
+            UnityEngine.SceneManagement.SceneManager.LoadScene("Sky_Map");
+            
+#else
+            switchSceneManager.SwitchScene("Title", "Sky_Map", () => {
+                PageManager.ChangeImmediate("SkyPlayPage");
+            });
+#endif
         }
     }
 
