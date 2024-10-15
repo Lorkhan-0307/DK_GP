@@ -58,15 +58,15 @@ public class MainPage : PageHandler
                 Debug.Log("Ocean selected");
                 break;
             case "Fire": 
-                /*switchSceneManager.SwitchScene("Title", "Fire_Map", () => {
+                switchSceneManager.SwitchScene("Title", "Fire_Map", () => {
                     PageManager.ChangeImmediate("FirePlayPage");
-                });*/
+                });
                 Debug.Log("Fire selected");
                 break;
             case "Sky":
-                /*switchSceneManager.SwitchScene("Title", "Sky_Map", () => {
+                switchSceneManager.SwitchScene("Title", "Sky_Map", () => {
                     PageManager.ChangeImmediate("SkyPlayPage");
-                });*/
+                });
                 Debug.Log("Sky selected");
                 break;
             default:
