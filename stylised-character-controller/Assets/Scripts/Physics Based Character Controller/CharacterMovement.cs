@@ -168,7 +168,7 @@ public class CharacterMovement : MonoBehaviour
             UnityEngine.SceneManagement.SceneManager.LoadScene("Sky_Map");
             
 #else
-            switchSceneManager.SwitchScene("Title", "Sky_Map", () => {
+            _switchSceneManager.SwitchScene("Title", "Sky_Map", () => {
                 PageManager.ChangeImmediate("SkyPlayPage");
             });
 #endif
