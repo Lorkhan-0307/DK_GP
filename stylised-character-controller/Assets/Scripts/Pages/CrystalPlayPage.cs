@@ -5,9 +5,13 @@ using UnityEngine;
 public class CrystalPlayPage : PageHandler
 {
     private SwitchSceneManager switchSceneManager;
+    private CameraRotationBasedOnMouse mainCamera;
     public override void OnWillEnter(object param)
     {
         switchSceneManager = FindObjectOfType<SwitchSceneManager>();
+        mainCamera = FindObjectOfType<CameraRotationBasedOnMouse>();
+        mainCamera.hasStarted = true;
+
     }
 
     public override void OnDidEnter(object param)

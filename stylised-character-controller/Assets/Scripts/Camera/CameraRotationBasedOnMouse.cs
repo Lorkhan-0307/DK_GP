@@ -10,16 +10,34 @@ public class CameraRotationBasedOnMouse : MonoBehaviour
 
     public bool isInteracting = false;
     private CharacterMovement _cm;
+    private Vector3 original_transform;
+    private Quaternion original_rotation;
+    public bool hasStarted = false;
 
     private void Start()
     {
         _cm = FindObjectOfType<CharacterMovement>();
+        var transform1 = this.transform;
+        original_transform = transform1.position;
+        original_rotation = transform1.rotation;
+#if UNITY_EDITOR
+        hasStarted = true;
+#endif
     }
 
     private void Update()
     {
-        isInteracting = _cm.isInteracting;
-        if(!isInteracting) Rotate();
+        if (!hasStarted)
+        {
+            var transform1 = this.transform;
+            transform1.position = original_transform;
+            transform1.rotation = original_rotation;
+        }
+        else
+        {
+            isInteracting = _cm.isInteracting;
+            if (!isInteracting) Rotate();
+        }
     }
 
     private void Rotate()
