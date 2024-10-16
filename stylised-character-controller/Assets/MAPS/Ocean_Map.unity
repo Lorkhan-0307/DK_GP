@@ -9341,6 +9341,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 70
   isInteracting: 0
+  hasStarted: 0
 --- !u!114 &199386676
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13973,6 +13974,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mouseSensitivity: 70
   isInteracting: 0
+  hasStarted: 0
 --- !u!114 &290560989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32359,6 +32361,7 @@ GameObject:
   - component: {fileID: 754274275}
   - component: {fileID: 754274274}
   - component: {fileID: 754274273}
+  - component: {fileID: 754274277}
   m_Layer: 5
   m_Name: Letter Input Canvas
   m_TagString: Untagged
@@ -32450,6 +32453,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &754274277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 754274272}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78c674e3bd783eb43b0a3695c307ebc6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &754379433 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1764023309201174998, guid: c2dcd875216af87429507f2ff47d34d4, type: 3}
@@ -45049,7 +45064,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1074065311}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
   m_Name: 
@@ -49961,7 +49976,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\u200B"
+  m_text: "\u200B"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: fc82b932ea0c6514c844978392c712b8, type: 2}
   m_sharedMaterial: {fileID: -4039235670663845856, guid: fc82b932ea0c6514c844978392c712b8, type: 2}
@@ -60369,7 +60384,7 @@ MonoBehaviour:
   m_CaretColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
   m_CustomCaretColor: 0
   m_SelectionColor: {r: 0.65882355, g: 0.80784315, b: 1, a: 0.7529412}
-  m_Text: "\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8\n\uD14C\uC2A4\uD2B8"
+  m_Text: 
   m_CaretBlinkRate: 0.85
   m_CaretWidth: 1
   m_ReadOnly: 0
