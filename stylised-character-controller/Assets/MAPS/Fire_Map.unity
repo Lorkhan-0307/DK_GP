@@ -37701,16 +37701,28 @@ PrefabInstance:
       value: Cave_Floor_1A7
       objectReference: {fileID: 0}
     - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.2033
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.2033
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.2033
+      objectReference: {fileID: 0}
+    - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -168.2
+      value: -168.01
       objectReference: {fileID: 0}
     - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -27.3
+      value: -28.62
       objectReference: {fileID: 0}
     - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -38.02
+      value: -36.62
       objectReference: {fileID: 0}
     - target: {fileID: 6182704101908523790, guid: 389d42cc59b9af148a866c5c192d6df8, type: 3}
       propertyPath: m_LocalRotation.w
