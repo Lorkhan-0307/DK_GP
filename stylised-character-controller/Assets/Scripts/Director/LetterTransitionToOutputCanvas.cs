@@ -14,7 +14,7 @@ public class LetterTransitionToOutputCanvas : MonoBehaviour
     public void OnClickSubmit()
     {
         outputText.text = inputText.text;
-        _director.Play();
         inputCanvas.SetActive(false);
+        _director.Play();
     }
 }
