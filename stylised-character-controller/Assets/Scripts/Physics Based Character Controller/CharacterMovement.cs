@@ -29,20 +29,44 @@ public class CharacterMovement : MonoBehaviour
     private static readonly int JumpAnim = Animator.StringToHash("jump_anim");
     private static readonly int IsDown = Animator.StringToHash("is_down");
 
+    private InputAction menuAction;
+
     private Collider _currentInteractionCollider;
 
 
     [SerializeField] private GameObject interactionUI;
     
     private SwitchSceneManager _switchSceneManager;
+    
+        
+    private float _noInputTimer = 0f;
+    private const float TIMEOUT_DURATION = 20f;
+    
+    public void ExitScene()
+    {
+        _switchSceneManager.SwitchScene("Title", "LoadingScene", () => {
+            PageManager.ChangeImmediate("MainPage");
+        });
+    }
+    
+
+    
+    public void ResetInputTimer()
+    {
+        _noInputTimer = 0f;
+    }
 
     private void Start()
     {
         _characterController = GetComponent<CharacterController>();
         interactionUI.SetActive(false);
         isInteracting = false;
+
+        menuAction = GetComponent<PlayerInput>().actions["Menu"];
+        
     
 #if UNITY_EDITOR
+        _switchSceneManager = FindObjectOfType<SwitchSceneManager>();
 #else 
         _switchSceneManager = FindObjectOfType<SwitchSceneManager>();
 #endif
@@ -52,6 +76,12 @@ public class CharacterMovement : MonoBehaviour
     public void MoveInputAction(InputAction.CallbackContext context)
     {
         _moveContext = context.ReadValue<Vector2>();
+        ResetInputTimer();
+    }
+
+    public void MenuInputAction(InputAction.CallbackContext context)
+    {
+        ExitScene();
     }
 
     public void JumpInputAction(InputAction.CallbackContext context)
@@ -86,6 +116,19 @@ public class CharacterMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
+        if(menuAction.triggered) ExitScene();
+        // Increase the timer if no input has been detected
+        _noInputTimer += Time.deltaTime;
+        
+        //Debug.Log("Time is " + _noInputTimer);
+
+        // Check if the timer exceeds the allowed time
+        if (_noInputTimer >= TIMEOUT_DURATION)
+        {
+            _noInputTimer = 0f;
+            ExitScene();
+        }
+        
         if (!isInteracting)
         {
             HandleMovement();

@@ -45,6 +45,11 @@ public class CameraRotationBasedOnMouse : MonoBehaviour
         // Input System의 마우스 입력 처리
         var mouseDelta = Mouse.current.delta.ReadValue(); // 현재 마우스 이동값
 
+        if (mouseDelta != Vector2.zero)
+        {
+            _cm.ResetInputTimer();
+        }
+
         MouseX += mouseDelta.x * mouseSensitivity * Time.deltaTime;
         MouseY -= mouseDelta.y * mouseSensitivity * Time.deltaTime;
 
