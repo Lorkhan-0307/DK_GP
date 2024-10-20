@@ -40,7 +40,7 @@ public class CharacterMovement : MonoBehaviour
     
         
     private float _noInputTimer = 0f;
-    private const float TIMEOUT_DURATION = 20f;
+    private const float TIMEOUT_DURATION = 120f;
     
     public void ExitScene()
     {
