@@ -66,7 +66,7 @@ public class CharacterMovement : MonoBehaviour
     
     public void InteractionInputAction(InputAction.CallbackContext context)
     {
-        if (context.performed && _currentInteractionCollider != null && !isInteracting)
+        if (context.performed && _currentInteractionCollider != null && !isInteracting && interactionUI.activeSelf)
         {
             bool hasInteracted = false;
             
@@ -177,13 +177,10 @@ public class CharacterMovement : MonoBehaviour
 
     private void OnTriggerExit(Collider other)
     {
-        if (other.CompareTag("Interactive"))
+        if (_currentInteractionCollider == other)
         {
-            if (_currentInteractionCollider == other)
-            {
-                _currentInteractionCollider = null;
-                interactionUI.SetActive(false);
-            }
+            _currentInteractionCollider = null;
+            interactionUI.SetActive(false);
         }
     }
 
