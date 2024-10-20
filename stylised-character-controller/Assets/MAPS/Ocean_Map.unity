@@ -20663,6 +20663,10 @@ MonoBehaviour:
         m_CallState: 2
     m_ActionId: 9b2e117d-3a11-452e-9b3e-a49fd18eec3b
     m_ActionName: Player/Interaction[/Keyboard/f]
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 62f6b3aa-8b15-495b-805d-597e42f9cfb9
+    m_ActionName: Player/Menu[/Keyboard/escape]
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Player
@@ -29274,6 +29278,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1405504301}
     m_Modifications:
+    - target: {fileID: 123277509458473915, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
+      propertyPath: m_LODs.Array.data[1].renderers.Array.data[0].renderer
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 123277509458473915, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
+      propertyPath: m_LODs.Array.data[2].renderers.Array.data[0].renderer
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 619967576683525116, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
       propertyPath: m_IsActive
       value: 1
@@ -29394,8 +29406,11 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    m_RemovedComponents: []
-    m_RemovedGameObjects: []
+    m_RemovedComponents:
+    - {fileID: 123277509458473915, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
+    m_RemovedGameObjects:
+    - {fileID: 4449003234438225667, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
+    - {fileID: 6993887056003075377, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4428c38d694da0d4aa6e780fdb217878, type: 3}
